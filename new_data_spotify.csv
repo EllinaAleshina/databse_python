@@ -1,0 +1,103 @@
+;genre;artist_name;track_name;popularity;acousticness;danceability;energy;key;loudness;mode;tempo
+;R&B;asdf;qwer;44;0.3;0.3;0.3;F;-9;Minor;44
+798;Dance;VERIVERY;Ring Ring Ring;53;0.15;0.79;0.94;D;-2.85;Major;108.0
+799;Dance;Deerhunter;Death in Midsummer;57;0.09;0.31;0.76;D;-6.68;Major;91.47
+800;Dance;Gwen Stefani;Wind It Up;48;0.34;0.96;0.9;C;-6.9;Minor;120.01
+801;Dance;Johnny Hates Jazz;Shattered Dreams - Remastered;59;0.03;0.66;0.72;A#;-9.42;Major;121.31
+802;Dance;OMI;Cheerleader - Felix Jaehn Remix;43;0.1;0.73;0.68;E;-5.87;Major;118.03
+803;Dance;Love;Alone Again Or - 2015 Remastered Version;59;0.66;0.32;0.3;B;-15.57;Minor;174.25
+804;Dance;The Naked And Famous;Higher;53;0.01;0.46;0.77;F#;-5.38;Major;184.07
+805;Dance;3LAU;How You Love Me;53;0.18;0.51;0.8;C#;-3.63;Major;127.93
+806;Dance;James Arthur;Is This Love?;56;0.02;0.56;0.86;D;-4.86;Major;140.04
+807;Dance;Britney Spears;Overprotected - Radio Edit;60;0.04;0.68;0.89;C;-1.73;Minor;95.99
+808;Dance;Marc E. Bassy;So Simple;51;0.23;0.75;0.58;E;-7.48;Minor;92.04
+809;Dance;Echo & the Bunnymen;Bring on the Dancing Horses;59;0.01;0.57;0.93;D;-5.27;Major;118.45
+810;Dance;August Alsina;Be Love;53;0.01;0.5;0.49;A#;-10.8;Minor;102.12
+811;Dance;New Kids On The Block;Hangin' Tough;49;0.12;0.76;0.55;F#;-11.98;Major;90.78
+812;Dance;Twin Shadow;Brace (feat. Rainsford);57;0.42;0.69;0.56;A#;-5.81;Major;67.99
+813;Dance;T.I.;More & More (feat. Jeezy);51;0.0;0.31;0.73;E;-4.46;Minor;56.98
+814;Dance;Pitbull;Piensas (Dile la Verdad);54;0.0;0.52;0.94;A;-4.48;Minor;107.11
+815;Dance;SHINee;Good Evening;55;0.04;0.68;0.81;G#;-4.16;Major;119.98
+816;Dance;Robyn;Beach2k20;47;0.02;0.82;0.51;B;-10.83;Minor;121.32
+817;Dance;Tungevaag & Raaban;Bad Boy (feat. Luana Kiara);68;0.13;0.64;0.89;C;-1.1;Minor;180.04
+818;Dance;Timmy Trumpet;Oracle;67;0.04;0.69;0.77;F#;-5.65;Major;140.08
+819;Dance;Birdy;Strange Birds;45;0.57;0.54;0.38;G;-7.68;Minor;78.13
+820;Dance;Paulina Rubio;El Ultimo Adios;60;0.01;0.54;0.78;D;-8.81;Major;83.01
+821;Dance;Samantha Mumba;Gotta Tell You;43;0.23;0.73;0.75;C;-4.48;Minor;110.01
+822;Dance;Meghan Trainor;Mr. Almost;52;0.02;0.8;0.64;A;-6.85;Major;105.02
+823;Dance;Ja Rule;Wonderful;62;0.27;0.66;0.78;B;-5.01;Minor;92.52
+824;Dance;Flo Rida;Sugar (feat. Wynter);54;0.04;0.74;0.87;C#;-4.15;Major;130.0
+825;Dance;Steve Aoki;Rage the Night Away;51;0.0;0.7;0.86;A#;-4.57;Minor;128.01
+826;Dance;Phantogram;Same Old Blues;51;0.07;0.58;0.71;F#;-3.34;Minor;122.05
+827;Dance;Meghan Trainor;No Good For You;53;0.2;0.48;0.49;D;-5.04;Major;95.24
+828;Dance;Lil' Kim;Go Awff;53;0.23;0.61;0.64;G#;-5.26;Major;59.96
+829;Dance;Nicki Minaj;Nip Tuck;54;0.01;0.85;0.62;G#;-7.08;Major;119.96
+830;Dance;DJ Khaled;How Many Times;54;0.09;0.8;0.7;A#;-4.32;Minor;116.02
+831;Dance;Syn Cole;Miami 82 - Kygo Remix;61;0.18;0.71;0.6;D;-7.1;Minor;113.0
+832;Dance;Friendly Fires;Paris (Aeroplane Remix);54;0.01;0.7;0.72;C#;-6.62;Minor;112.01
+833;Dance;Justice;Safe and Sound;55;0.0;0.6;0.79;F#;-5.2;Minor;115.0
+834;Dance;Bea Miller;burning bridges;55;0.1;0.6;0.77;E;-4.23;Minor;132.02
+835;Dance;Hardwell;Bella Ciao;68;0.0;0.62;0.89;E;-4.69;Minor;129.99
+836;Dance;Sabrina Carpenter;Shadows;52;0.58;0.53;0.56;C;-3.11;Minor;125.36
+837;Dance;Blonde;Just For One Night (feat. Astrid S);57;0.28;0.81;0.54;G#;-8.48;Minor;118.0
+838;Dance;Carrie Underwood;I Told You So - feat. Randy Travis;50;0.54;0.39;0.55;G#;-3.53;Major;147.51
+839;Dance;Kelly Clarkson;Walk Away;50;0.01;0.75;0.89;C;-4.52;Major;115.97
+840;Dance;Train;Mermaid;52;0.01;0.72;0.88;G#;-3.46;Major;104.01
+841;Dance;Gente De Zona;El Mentiroso;0;0.1;0.78;0.84;G;-4.7;Minor;96.98
+842;Dance;The Kills;Doing It To Death;56;0.28;0.64;0.69;A;-8.03;Major;132.99
+843;Dance;SHINee;누난 너무 예뻐 (Replay) - Live;56;0.18;0.7;0.71;C#;-5.49;Major;99.99
+844;Dance;Grizzly Bear;Ready, Able;58;0.23;0.43;0.46;C;-9.72;Major;152.57
+845;Dance;Prince Royce;Amor Prohibido;54;0.09;0.77;0.77;G#;-6.37;Major;126.07
+846;Dance;Sara Bareilles;Send Me The Moon;55;0.54;0.42;0.39;A#;-9.94;Major;161.54
+847;Dance;Christina Aguilera;Your Body;58;0.0;0.59;0.78;G#;-5.29;Minor;103.02
+848;Dance;DNCE;DNCE;53;0.01;0.83;0.72;C#;-5.88;Minor;114.05
+849;Dance;Jack & Jack;Distraction;51;0.19;0.65;0.52;F#;-8.91;Major;112.07
+850;Dance;Blackstreet;Don't Leave Me;50;0.05;0.79;0.54;D;-5.07;Minor;81.83
+851;Dance;Allie X;Casanova;55;0.17;0.75;0.84;B;-3.85;Minor;110.0
+852;Dance;Beyoncé;Video Phone - Extended Remix featuring Lady Gaga;55;0.0;0.32;0.78;G#;-7.37;Major;78.05
+853;Dance;P!nk;Trouble;45;0.01;0.57;0.93;G;-2.7;Major;135.52
+854;Dance;Fifth Harmony;Write On Me;57;0.36;0.44;0.69;G;-5.43;Minor;189.88
+855;Dance;Transviolet;Girls Your Age;53;0.45;0.43;0.4;C;-9.55;Minor;139.25
+856;Dance;DJ Snake;Maradona Riddim;57;0.11;0.72;0.69;A;-4.75;Minor;117.93
+857;Dance;Jesse McCartney;She's No You;51;0.08;0.55;0.88;E;-4.25;Minor;89.87
+858;Dance;DVBBS;Listen Closely (feat. SAFE);59;0.05;0.71;0.83;F;-3.98;Major;98.45
+859;Dance;Alessia Cara;The Other Side (Alessia Cara Version);56;0.28;0.43;0.57;C#;-6.04;Minor;150.0
+860;Dance;Ellie Goulding;Don't Need Nobody;49;0.11;0.71;0.66;E;-6.0;Minor;99.01
+861;Dance;Syn Cole;Feel Good;63;0.17;0.63;0.88;C;-3.46;Minor;123.97
+862;Dance;Cheap Trick;The Flame;63;0.51;0.63;0.58;E;-11.86;Major;97.07
+863;Dance;Kesha;Spaceship;49;0.79;0.5;0.61;E;-7.67;Major;158.09
+864;Dance;Janet Jackson;If;52;0.04;0.65;0.98;B;-5.17;Minor;105.58
+865;Dance;Trey Songz;Rotation (feat. Dave East);51;0.0;0.76;0.57;A;-6.22;Major;80.5
+866;Dance;Enrique Iglesias;Heart Attack;49;0.07;0.43;0.9;E;-4.06;Major;154.05
+867;Dance;Vicetone;Astronomia;65;0.01;0.65;0.94;F;-2.63;Major;126.09
+868;Dance;Mike Perry;Inside the Lines;52;0.07;0.56;0.8;G#;-4.58;Major;96.99
+869;Dance;Poolside;Esperar Pra Ver;55;0.03;0.78;0.7;F#;-7.86;Minor;99.99
+870;Dance;Jordin Sparks;This Is My Now;56;0.2;0.47;0.56;F#;-5.37;Major;147.91
+871;Dance;Mario;Music For Love;53;0.11;0.7;0.42;C;-5.86;Major;123.43
+872;Dance;Chris Brown;This X-Mas;50;0.12;0.64;0.59;A#;-5.91;Major;98.03
+873;Dance;Janet Jackson;Love Will Never Do (Without You);45;0.14;0.75;0.95;C#;-8.81;Major;103.18
+874;Dance;Lostboycrow;Powers;52;0.52;0.49;0.48;A;-7.63;Minor;159.92
+875;Dance;5 Seconds of Summer;Invisible;52;0.06;0.46;0.34;D;-9.84;Major;86.5
+876;Dance;DJ Snake;A Different Way - DEVAULT Remix;53;0.29;0.71;0.8;F;-7.63;Minor;105.05
+877;Dance;Christina Aguilera;Tough Lover - Burlesque Original Motion Picture Soundtrack;48;0.62;0.54;0.7;C#;-5.29;Major;94.38
+878;Dance;Niykee Heaton;Nexus;51;0.13;0.78;0.65;C#;-6.41;Major;97.02
+879;Dance;CAZZETTE;Sleepless - Radio Edit;58;0.14;0.72;0.64;F#;-9.6;Minor;124.0
+880;Dance;Sky Ferreira;Everything Is Embarrassing;50;0.05;0.67;0.79;C;-5.71;Major;117.13
+881;Dance;MARINA;Solitaire;47;0.77;0.63;0.44;G;-11.49;Minor;109.0
+882;Dance;Avicii;Liar Liar;58;0.01;0.57;0.79;B;-4.63;Minor;125.0
+883;Dance;Aphex Twin;Xtal;55;0.34;0.51;0.51;A;-13.05;Minor;114.53
+884;Dance;Ellie Goulding;Lights - Bassnectar Remix - Bonus Track;46;0.01;0.53;0.8;C#;-4.88;Major;140.0
+885;Dance;*NSYNC;No Strings Attached;48;0.0;0.67;0.97;G;-4.46;Major;111.05
+886;Dance;Jamiroquai;Seven Days in Sunny June;61;0.2;0.71;0.8;G;-7.14;Major;105.39
+887;Dance;SISTAR;SHAKE IT;55;0.02;0.78;0.96;B;-2.57;Minor;119.0
+888;Dance;Toro y Moi;Lilly;51;0.04;0.47;0.65;D#;-6.5;Major;139.97
+889;Dance;The Chainsmokers;Don't Let Me Down - Hardwell & Sephyx Remix;60;0.09;0.51;0.9;G#;-3.42;Minor;149.86
+890;Dance;Chris Brown;Lost & Found;51;0.65;0.48;0.53;F#;-8.01;Minor;134.8
+891;Dance;Carrie Underwood;Southbound;51;0.0;0.61;0.88;C;-4.02;Major;100.53
+892;Dance;Patti Smith;Because the Night;65;0.05;0.47;0.76;B;-7.75;Minor;123.54
+893;Dance;Soulja Boy;Hml;54;0.08;0.83;0.44;B;-6.85;Minor;139.93
+894;Dance;Donell Jones;Have You Seen Her;52;0.03;0.74;0.44;B;-6.61;Minor;123.64
+895;Dance;Broods;Four Walls;51;0.23;0.62;0.65;C;-7.22;Major;119.99
+896;Dance;Casino Versus Japan;Aquarium;47;0.77;0.61;0.37;C#;-14.75;Major;75.01
+897;Dance;Big Time Rush;We Are;50;0.0;0.53;0.88;A;-3.91;Major;130.1
+898;Dance;Nick Jonas;Remember I Told You;57;0.14;0.65;0.54;C#;-5.74;Major;112.86

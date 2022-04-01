@@ -1,0 +1,1501 @@
+;genre;artist_name;track_name;popularity;acousticness;danceability;energy;key;loudness;mode;tempo
+0;Movie;Henri Salvador;C'est beau de faire un Show;0;0.61;0.39;0.91;C#;-1.83;Major;166.97
+1;Movie;Martin & les fées;Perdu d'avance (par Gad Elmaleh);1;0.25;0.59;0.74;F#;-5.56;Minor;174.0
+2;Movie;Joseph Williams;Don't Let Me Be Lonely Tonight;3;0.95;0.66;0.13;C;-13.88;Minor;99.49
+3;Movie;Henri Salvador;Dis-moi Monsieur Gordon Cooper;0;0.7;0.24;0.33;C#;-12.18;Major;171.76
+4;Movie;Fabien Nataf;Ouverture;4;0.95;0.33;0.23;F;-21.15;Major;140.58
+5;Movie;Henri Salvador;Le petit souper aux chandelles;0;0.75;0.58;0.1;C#;-14.97;Major;87.48
+6;Movie;Martin & les fées;Premières recherches (par Paul Ventimila, Lorie Pester, Véronique Jannot, Michèle Laroque & Gérard Lenorman);2;0.34;0.7;0.27;C#;-12.68;Major;82.87
+7;Movie;Laura Mayne;Let Me Let Go;15;0.94;0.42;0.27;F#;-8.95;Major;96.83
+8;Movie;Chorus;Helka;0;0.0;0.73;0.48;C;-7.72;Major;125.08
+9;Movie;Le Club des Juniors;Les bisous des bisounours;10;0.32;0.6;0.7;G;-7.79;Major;137.5
+10;Movie;Leopold Stokowski;Symphony No.4 In E Minor Op.98 : IV. Allegro Energico E Passionato;0;0.92;0.19;0.14;E;-17.24;Minor;85.22
+11;Movie;Randy Newman;The Hanging (Maverick - Original Motion Picture Score) - Remastered;2;0.04;0.23;0.13;C;-19.05;Major;91.74
+12;Movie;Idoles De La Musique;J'ai demandé à la lune;4;0.21;0.68;0.6;F#;-7.7;Minor;110.03
+13;Movie;Chorus;Mangala Aarti;3;0.96;0.76;0.26;D#;-11.97;Major;110.07
+14;Movie;Richard M. Sherman;Keys of Love;0;0.97;0.4;0.17;G;-13.87;Major;115.02
+15;Movie;Michel Roux;Les aventures d'Arsène Lupin: 813 - Partie 6;0;0.55;0.59;0.41;G#;-15.55;Major;83.56
+16;Movie;Jean Claude Corbel;Diane;0;0.7;0.62;0.24;D;-16.66;Major;108.51
+17;Movie;Bernard Minet;Ultra Man 80;3;0.49;0.74;0.95;E;-4.99;Major;129.96
+18;Movie;Henri Salvador;Veunise;1;0.38;0.45;0.49;D;-8.73;Major;71.63
+19;Movie;Amalya;Ladies And Gentlemen;4;0.16;0.52;0.75;C#;-5.2;Major;184.06
+20;Movie;Martin & les fées;Tout est possible (par Anggun, Dany Brillant, Garou, Gérard Lenorman, Julie Zenatti, Lisa Angell, Lorie Pester, Natasha St-Pier, Patrick Fiori, Paul Ventimila, Sara Carreira, Veronique Jannot & Vincent Niclo);1;0.85;0.36;0.44;C;-6.97;Major;79.54
+21;Movie;Dorothée;Clic clac cloc;1;0.51;0.85;0.5;D;-12.36;Major;128.05
+22;Movie;Henri Salvador;Monsieur Boum Boum;8;0.69;0.7;0.8;C;-6.7;Major;128.0
+23;Movie;Jean Claude Corbel;Pourquoi aller plus loin ?;0;0.67;0.71;0.7;C;-10.47;Major;114.75
+24;Movie;Henri Salvador;Quand je monte chez toi;5;0.71;0.53;0.3;F;-7.29;Major;156.35
+25;Movie;Jean Piat;Comme minuit sonnait;0;0.88;0.71;0.22;A#;-22.21;Minor;125.52
+26;Movie;Henri Salvador;Le Fêtard;0;0.16;0.64;0.59;G#;-7.94;Major;111.36
+27;Movie;Lucie Dolene;Le mariage des poupées;0;0.86;0.59;0.48;G;-7.68;Minor;136.18
+28;Movie;Henri Salvador;Une chanson douce;2;0.72;0.83;0.38;G#;-15.63;Major;126.89
+29;Movie;Chorus;Mangani – Do Banjare / Amba Heth;0;0.18;0.69;0.5;A;-10.22;Minor;112.97
+30;Movie;Chorus;A ty się śmiejesz ze mnie;0;0.0;0.71;0.94;C;-4.01;Major;145.12
+31;Movie;Martin & les fées;Une journée d'école qui s'achève (par Véronique Jannot);4;0.3;0.62;0.28;B;-16.22;Minor;70.94
+32;Movie;Henri Salvador;C Est Le Be Bop;0;0.92;0.68;0.44;C;-12.51;Minor;84.17
+33;Movie;Henri Salvador;La Samba De Là-Bas;0;0.94;0.88;0.42;A#;-11.43;Major;128.49
+34;Movie;Chorus;Ambarsare Diyan Warhiyan;0;0.12;0.78;0.65;E;-10.73;Minor;94.01
+35;Movie;Henri Salvador;Silence on tourne;0;0.77;0.78;0.47;G#;-11.23;Major;116.67
+36;Movie;Chorus;For the Game;0;0.16;0.85;0.83;A;-6.75;Major;126.0
+37;Movie;Henri Salvador;Quand un artiste - live;1;0.62;0.48;0.5;E;-12.09;Major;121.72
+38;Movie;Richard M. Sherman;Afterglow;0;0.93;0.35;0.2;D#;-14.06;Major;99.03
+39;Movie;Larry Groce;Sailing, Sailing;0;0.51;0.57;0.65;G;-6.06;Major;118.91
+40;Movie;Chorus;Tehni Pe Kisi Shajar;0;0.65;0.48;0.37;B;-15.6;Major;83.1
+41;Movie;Leopold Stokowski;Bourrée, From English Suite No. 2, BWV 807;1;0.98;0.42;0.06;A;-20.95;Minor;77.4
+42;Movie;Henri Salvador;La Vie grise;0;0.93;0.34;0.11;G#;-15.27;Major;77.72
+43;Movie;Patrick Rocca;To Be or Not to Be;1;0.58;0.5;0.46;A;-10.46;Minor;143.8
+44;Movie;Ken Page;Dancing with Gene;0;0.75;0.57;0.51;G;-8.9;Major;138.48
+45;Movie;Ken Page;Penn Station - Seesaw;0;0.61;0.43;0.53;C;-7.48;Major;69.55
+46;Movie;Bernard Minet;Dragon Ball GT;4;0.03;0.67;0.94;A;-6.85;Major;134.91
+47;Movie;Debbie Davis;I'll Feel Much Better When You Cry;3;0.28;0.56;0.77;E;-5.44;Major;120.07
+48;Movie;Henri Salvador;"La samba de là-bas (De l'opérette ""Le Chevalier Bayard"")";0;0.66;0.8;0.64;A#;-6.97;Major;128.11
+49;Movie;Dorothée;J'ai retrouvé ma valise;1;0.58;0.89;0.34;F;-16.44;Major;121.63
+50;Movie;Claire Guyot;Le silence;1;0.9;0.49;0.26;A#;-11.88;Major;93.19
+51;Movie;Chantal Goya;Animauxville (Départ) - Live;5;0.39;0.43;0.93;C#;-9.15;Major;145.69
+52;Movie;Henri Salvador;Sketch producteur (suite);1;0.71;0.63;0.61;G;-10.91;Major;167.89
+53;Movie;Lucie Dolene;Sphinx;0;0.92;0.43;0.32;A#;-9.1;Major;120.69
+54;Movie;Jean Piat;L'Âne chargé d'éponges et l'Âne chargé de sel;0;0.92;0.68;0.15;G#;-22.0;Major;32.24
+55;Movie;Justin Hurwitz;"Rialto - From ""La La Land"" Score";3;0.97;0.55;0.01;G#;-22.73;Major;74.76
+56;Movie;Chorus;Stous athanatous nekrous (To Immortal Deads);0;0.99;0.26;0.15;A;-14.86;Major;75.96
+57;Movie;Henri Salvador;Bon Dieu qu'elle est con - live;1;0.73;0.54;0.29;A#;-12.65;Major;109.02
+58;Movie;Randy Newman;Jack To The Rescue - Meet The Parents/Soundtrack;1;0.87;0.3;0.08;A#;-20.47;Major;106.21
+59;Movie;Chorus;Shree Ram Chant;4;0.13;0.54;0.8;E;-4.34;Major;127.94
+60;Movie;Marie Ruggieri;"Oh quel chien/Il se traîne - From ""Lady and the Tramp""/French Soundtrack Version";0;0.93;0.44;0.16;G;-15.27;Major;108.48
+61;Movie;Chorus;Mangal Aarti;0;0.46;0.71;0.35;F#;-14.2;Major;81.67
+62;Movie;Henri Salvador;Malgré tes serments;0;0.98;0.34;0.16;A#;-14.7;Major;84.49
+63;Movie;Henri Salvador;Audustin ! Y'a quelqu'un qui te demande;0;0.73;0.78;0.36;E;-11.58;Minor;139.53
+64;Movie;Chorus;Nadipinche Naa Naayaka;0;0.71;0.58;0.68;G;-9.22;Minor;115.14
+65;Movie;Karine Costa;Super Insomniaque;0;0.06;0.59;0.85;B;-8.0;Minor;205.46
+66;Movie;Henri Salvador;Papa loves mambo;0;0.67;0.6;0.7;C;-6.35;Major;149.17
+67;Movie;Chorus;Om Jayanti Mangla;0;0.79;0.45;0.25;A#;-11.93;Major;107.94
+68;Movie;Dorothée;J'ai vidé ma valise;0;0.33;0.84;0.56;G;-14.39;Major;141.15
+69;Movie;Chorus;Takhti Par Takhti;0;0.93;0.68;0.7;F#;-7.81;Minor;105.92
+70;Movie;Fabien Nataf;I Try;4;0.48;0.91;0.22;D;-15.4;Major;103.93
+71;Movie;Pascal Laffarge;Il pleut bergère;0;0.61;0.39;0.38;D;-10.74;Major;91.86
+72;Movie;Frank Churchill;Snow White: Taas paiva kaunein on (Some Day My Prince Will Come);0;0.98;0.24;0.15;F;-17.03;Major;189.1
+73;Movie;Chorus;Baaramma - Bit;0;0.94;0.58;0.17;E;-8.1;Minor;94.71
+74;Movie;Jean Claude Corbel;Le Vilain Petit Canard 2;0;0.69;0.71;0.23;F;-16.16;Minor;110.92
+75;Movie;Jean Claude Corbel;Les poissons voyageurs;0;0.76;0.56;0.28;G;-14.07;Major;107.94
+76;Movie;Dominique Tirmont;La Toulousaine;0;0.91;0.39;0.45;A;-6.82;Major;90.92
+77;Movie;Henri Salvador;Monsieur Le Bon Dieu;0;0.78;0.36;0.15;C;-10.69;Major;73.13
+78;Movie;Jean Claude Corbel;Le voyage à Lilliput;0;0.71;0.57;0.34;C;-12.51;Minor;88.22
+79;Movie;Jean Claude Corbel;Le Chat Botté 4;0;0.78;0.61;0.27;G;-15.15;Major;84.94
+80;Movie;Chorus;Tsamikos Horos (Tsamikos Dance);0;0.4;0.63;0.6;F;-5.58;Major;90.01
+81;Movie;Chorus;Lalitha Parameshwari;0;0.76;0.67;0.65;C;-8.6;Major;109.98
+82;Movie;Jean Claude Corbel;Le Petit Poucet 2;0;0.62;0.71;0.25;F;-15.7;Minor;125.1
+83;Movie;Leopold Stokowski;We All Believe In One God, Giant Fugue, BWV 680;1;0.96;0.17;0.18;D;-17.83;Minor;143.78
+84;Movie;Dominique Tirmont;La petite diligence;1;0.61;0.7;0.51;G;-8.54;Minor;92.23
+85;Movie;Debbie Davis;Rap-a-Cito;6;0.53;0.6;0.66;G;-11.71;Minor;120.98
+86;Movie;Chorus;Thandeye Oh;0;0.88;0.47;0.64;G;-9.84;Minor;111.13
+87;Movie;Chorus;Banga Aamar;0;0.85;0.49;0.44;F;-6.8;Major;80.58
+88;Movie;Bernard Minet;Dis-moi monsieur Bernard Minet;3;0.66;0.66;0.63;D;-8.67;Major;81.99
+89;Movie;Chorus;Sai Parameshwar Sai Karuneshwar;7;0.37;0.69;0.38;C#;-10.45;Major;79.03
+90;Movie;Chorus;Shanthi Koru;0;0.36;0.61;0.83;A;-14.08;Major;139.03
+91;Movie;Chorus;Aa Divyanaama;0;0.81;0.53;0.61;G;-9.79;Major;131.5
+92;Movie;Martin & les fées;Le plus beau de tes rêves (par Anggun);4;0.34;0.51;0.52;C#;-6.52;Minor;153.86
+93;Movie;Henri Salvador;Chanson surrealiste;0;0.79;0.7;0.35;G#;-10.82;Major;105.0
+94;Movie;Henri Salvador;Grosse Fille Ne Pleure Pas - Remastered;11;0.04;0.44;0.64;F;-7.82;Minor;72.35
+95;Movie;Claire Guyot;Assise au bord du monde;0;0.74;0.19;0.48;F;-9.09;Major;77.53
+96;Movie;Chorus;"Koti Chennaya(Vol.1 &amp; 2)";0;0.84;0.69;0.33;F;-8.64;Major;102.24
+97;Movie;Henri Salvador;Dis-moi qu'tu m'aimes, rock;1;0.84;0.59;0.63;F;-4.17;Minor;87.82
+98;Movie;Richard M. Sherman;Forgotten Dreams;0;0.99;0.43;0.05;E;-14.17;Minor;82.39
+99;Movie;Chorus;High (feat. Syross & Messieh);0;0.41;0.64;0.63;A#;-5.81;Minor;149.97
+100;Soul;Sofi de la Torre;Voicebreaks;43;0.84;0.45;0.23;A#;-12.83;Major;95.62
+101;Soul;Maxwell;Pretty Wings;38;0.14;0.63;0.48;A;-9.41;Major;115.15
+102;Soul;Isaac Hayes;"Theme From ""Shaft""";45;0.01;0.5;0.62;A;-15.39;Minor;119.95
+103;Soul;John Legend;Purple Snowflakes;39;0.51;0.53;0.69;G;-7.17;Minor;126.0
+104;Soul;Jackson Lundy;Justwanna;35;0.16;0.85;0.5;G#;-10.95;Major;135.97
+105;Soul;The Knocks;Love Me Like That (feat. Carly Rae Jepsen);43;0.06;0.74;0.73;B;-5.59;Major;118.01
+106;Soul;Jr. Walker & The All Stars;Way Back Home;40;0.1;0.35;0.79;C#;-5.38;Major;184.74
+107;Soul;Billy Paul;Let the Dollar Circulate;41;0.01;0.62;0.76;D#;-9.24;Minor;95.94
+108;Soul;Leon Bridges;Coming Home - Live at SXSW 2015;37;0.54;0.41;0.54;F#;-7.08;Major;113.94
+109;Soul;Dharmasoul;Love Again;40;0.57;0.64;0.41;A;-8.68;Major;137.67
+110;Soul;Sunny & The Sunliners;Talk to Me;32;0.87;0.38;0.52;G;-7.68;Major;121.16
+111;Soul;Jordan Solomon;Met Yet;37;0.63;0.64;0.48;F#;-11.01;Minor;193.97
+112;Soul;Sade;Jezebel - Remastered;42;0.81;0.36;0.33;D;-7.55;Minor;83.98
+113;Soul;The Equatics;What They Doin?;37;0.03;0.58;0.7;E;-8.52;Minor;119.06
+114;Soul;Jutes;Give You Up;43;0.18;0.45;0.49;A;-8.21;Major;130.1
+115;Soul;Thomston;Anaesthetic;40;0.45;0.67;0.45;F;-8.66;Major;98.02
+116;Soul;EMBRZ;Last Thread (feat. Huntar);37;0.69;0.56;0.45;D;-9.5;Minor;114.99
+117;Soul;Skott;Russian Soul;43;0.01;0.65;0.46;G#;-7.5;Major;112.01
+118;Soul;Vancouver Sleep Clinic;Stakes;44;0.82;0.4;0.35;C#;-10.71;Minor;81.08
+119;Soul;Young & Sick;Jet Black Heart;36;0.01;0.52;0.78;A#;-6.46;Minor;115.04
+120;Soul;Freddie Hubbard;Gypsy Blue - The Rudy Van Gelder Edition/2002 Digital Remaster;50;0.71;0.49;0.41;C#;-9.77;Major;138.87
+121;Soul;11:11;Wild Ting;44;0.32;0.45;0.66;A;-6.46;Minor;83.01
+122;Soul;Elohim;She Talks Too Much;40;0.04;0.72;0.79;G#;-7.54;Major;100.04
+123;Soul;Handsome Ghost;Reckless Lover;42;0.12;0.52;0.53;A;-9.77;Major;116.98
+124;Soul;Young & Sick;Ohh My Ghosts;33;0.0;0.77;0.8;B;-6.89;Major;126.0
+125;Soul;Urban Mystic;I Refuse (Album Version);34;0.27;0.43;0.52;A;-6.21;Minor;175.74
+126;Soul;Smokey Robinson;You Really Got A Hold On Me;34;0.01;0.59;0.8;C;-5.78;Major;117.08
+127;Soul;Swim;Heartbeat Connection;34;0.01;0.58;0.81;G#;-5.31;Major;115.03
+128;Soul;War;Why Can't We Be Friends;32;0.24;0.77;0.74;A#;-7.0;Major;92.71
+129;Soul;Corinne Bailey Rae;Since I've Been Loving You;32;0.93;0.58;0.19;C;-11.95;Minor;133.34
+130;Soul;Tweet;Beautiful;37;0.79;0.6;0.4;F;-8.02;Minor;70.86
+131;Soul;Nina Simone;Save Me;44;0.59;0.71;0.71;C;-7.54;Major;126.7
+132;Soul;Mary J. Blige;I'm The Only Woman;38;0.01;0.59;0.61;F;-8.63;Minor;175.03
+133;Soul;Mura Masa;SOLE M8S;40;0.13;0.73;0.64;D#;-8.23;Major;129.99
+134;Soul;Son Little;Kimberly's Mine;35;0.16;0.36;0.45;D#;-8.8;Minor;60.66
+135;Soul;Billie Holiday;The Man I Love;45;0.96;0.48;0.18;G;-14.28;Major;88.41
+136;Soul;Gnarls Barkley;Who Cares?;36;0.12;0.7;0.88;A#;-5.6;Minor;163.99
+137;Soul;Sly & The Family Stone;Heard Ya Missed Me, Well I'm Back;38;0.5;0.69;0.82;F#;-10.51;Minor;91.99
+138;Soul;Leon Bridges;Better Man - Live at SXSW 2015;37;0.37;0.67;0.66;G;-6.49;Major;105.18
+139;Soul;Geographer;Get There Soon;42;0.29;0.63;0.27;C;-12.17;Major;129.92
+140;Soul;D'african;Inhale the Kush - Exhale My Problems;34;0.17;0.6;0.77;A;-8.43;Major;125.18
+141;Soul;The Temptations;Cloud Nine - FKJ Remix;41;0.12;0.73;0.67;D;-7.69;Minor;118.92
+142;Soul;Smokey Robinson & The Miracles;The Tears Of A Clown - Album Version / Mono;34;0.3;0.6;0.78;F#;-7.86;Major;128.43
+143;Soul;Hazey Eyes;Living Wild;26;0.22;0.52;0.51;A#;-7.58;Major;94.89
+144;Soul;Anthony Hamilton;I'm Cool - No Rap Version;39;0.04;0.75;0.52;C#;-7.58;Minor;75.99
+145;Soul;BANKS;Bedroom Wall;42;0.91;0.64;0.3;F#;-14.89;Major;119.86
+146;Soul;Major Lance;The Monkey Time;35;0.56;0.8;0.69;F;-8.13;Major;123.17
+147;Soul;Theo Katzman;As the Romans Do;37;0.0;0.65;0.72;C#;-5.56;Major;80.52
+148;Soul;Rag'n'Bone Man;Rain;47;0.55;0.63;0.55;C;-10.83;Minor;142.53
+149;Soul;Jamie Foxx;Overdose;39;0.06;0.72;0.36;F;-5.85;Minor;119.82
+150;Soul;Morgan Saint;Until the Day I Die;41;0.08;0.71;0.69;C#;-6.24;Major;121.95
+151;Soul;Soulive;Joyful Girl;42;0.0;0.67;0.45;A#;-9.27;Major;120.0
+152;Soul;Harrison Brome;9 to 5;41;0.55;0.72;0.45;F#;-12.02;Major;167.98
+153;Soul;A l l i e;Let Her;37;0.84;0.42;0.35;A;-10.01;Minor;134.17
+154;Soul;Nina Simone;The Times They Are A-Changin' [Outtake];45;0.76;0.33;0.14;G;-12.38;Major;190.73
+155;Soul;slenderbodies;opal ocean, pt. 2;38;0.01;0.36;0.73;E;-11.23;Minor;139.86
+156;Soul;JOY.;Fake It;42;0.11;0.53;0.4;B;-11.8;Major;76.5
+157;Soul;Floetry;Hey You;38;0.07;0.43;0.4;D;-9.06;Major;133.55
+158;Soul;Anthony Hamilton;Walk In My Shoes;37;0.51;0.68;0.42;F#;-8.27;Major;131.96
+159;Soul;Majik;X;37;0.64;0.51;0.55;F#;-10.46;Major;142.46
+160;Soul;Howlin' Wolf;How Many More Years;48;0.92;0.67;0.64;C;-12.98;Major;110.37
+161;Soul;El Michels Affair;Unathi;48;0.08;0.51;0.64;E;-7.63;Minor;107.13
+162;Soul;RKCB;For Me, for You;42;0.5;0.67;0.39;G;-10.82;Major;104.01
+163;Soul;Catching Flies;Stay Forever;42;0.1;0.43;0.32;F;-11.55;Minor;112.09
+164;Soul;cehryl;Knock on Wood;37;0.52;0.78;0.1;A;-17.22;Major;63.02
+165;Soul;Aaron Hall;When You Need Me;38;0.04;0.68;0.64;G#;-6.15;Minor;109.77
+166;Soul;Aftertheparty;I Feel Bad;38;0.62;0.79;0.46;A;-14.04;Minor;129.87
+167;Soul;Jill Scott;All I;34;0.6;0.68;0.38;A#;-9.79;Major;121.85
+168;Soul;Thutmose;KanYe's Favorite Song;38;0.11;0.83;0.56;G#;-6.42;Minor;133.88
+169;Soul;Jordan Rakei;May;44;0.31;0.8;0.48;C;-11.26;Minor;117.99
+170;Soul;Harold Melvin & The Blue Notes;Bad Luck;36;0.3;0.63;0.78;A;-11.72;Major;119.64
+171;Soul;Rhye;Sinful;46;0.47;0.56;0.48;D;-10.72;Minor;148.09
+172;Soul;War;Me and Baby Brother;32;0.18;0.78;0.8;D;-9.81;Major;113.11
+173;Soul;Jake Hope;M.I.A.;38;0.5;0.76;0.33;G;-10.71;Minor;118.06
+174;Soul;Roberta Flack;Back Together Again (feat. Donny Hathaway);42;0.18;0.78;0.94;C#;-5.48;Minor;111.03
+175;Soul;Peggy Scott-Adams;Bill;31;0.21;0.56;0.43;D;-9.52;Major;165.06
+176;Soul;Amp Fiddler;Through Your Soul;46;0.2;0.85;0.49;E;-3.8;Minor;95.03
+177;Soul;Toni Braxton;My Heart;43;0.76;0.43;0.38;A;-9.87;Major;139.06
+178;Soul;Tamar Braxton;If I Don't Have You;39;0.43;0.4;0.57;C;-4.39;Major;189.27
+179;Soul;Aquilo;Human;42;0.59;0.33;0.47;A;-10.09;Major;66.96
+180;Soul;Malina Moye;If 6 Was 9;33;0.3;0.71;0.55;A#;-9.1;Minor;139.87
+181;Soul;Netherfriends;I Tweaked When I Saw Your Face;36;0.52;0.73;0.64;C;-11.49;Major;110.96
+182;Soul;Allen Toussaint;Country John;39;0.44;0.72;0.43;A;-12.6;Major;105.85
+183;Soul;Erykah Badu;Drama;45;0.02;0.7;0.44;A;-8.87;Minor;172.13
+184;Soul;Klyne;Ecstacy;46;0.34;0.63;0.46;D#;-7.43;Minor;90.96
+185;Soul;Amy Winehouse;You Know I'm No Good - Ghostface UK Version;37;0.02;0.65;0.83;B;-3.65;Minor;103.04
+186;Soul;Autograf;Slow Burn;40;0.69;0.71;0.7;G#;-7.79;Minor;99.99
+187;Soul;BAYNK;Find You;41;0.11;0.89;0.53;C#;-8.29;Minor;123.03
+188;Soul;Donell Jones;You Know That I Love You;41;0.14;0.77;0.49;F#;-5.35;Major;96.0
+189;Soul;The Isley Brothers;Work to Do;39;0.51;0.6;0.86;B;-6.34;Minor;172.97
+190;Soul;Willie Hutch;Brother's Gonna Work It Out - The Mack/Soundtrack Version;32;0.56;0.55;0.62;F#;-11.14;Minor;110.74
+191;Soul;Kem;Why Would You Stay - Main;35;0.26;0.6;0.4;B;-6.87;Major;143.83
+192;Soul;B.B. King;How Blue Can You Get?;46;0.52;0.51;0.46;G;-10.65;Major;105.66
+193;Soul;Ella Vos;You Don't Know About Me - The ACLU Remix;41;0.0;0.56;0.62;C#;-6.29;Major;82.06
+194;Soul;Joss Stone;Put Your Hands On Me;40;0.06;0.88;0.83;G#;-4.22;Major;114.02
+195;Soul;Irma Thomas;Ruler of My Heart;40;0.7;0.38;0.16;B;-17.72;Major;179.28
+196;Soul;Iris Temple;Tear U Down;37;0.28;0.75;0.58;A;-8.39;Minor;118.05
+197;Soul;Tamar Braxton;How I Feel;45;0.74;0.5;0.3;F#;-8.96;Major;116.84
+198;Soul;Rexx Life Raj;Tucked Off Shawty / Touchdown;41;0.26;0.75;0.48;G;-8.3;Major;129.97
+199;Soul;Joss Stone;Some Kind Of Wonderful;42;0.07;0.84;0.54;C;-5.07;Major;103.97
+200;Soul;SiR;The Canvas;42;0.22;0.76;0.45;D;-14.13;Minor;116.1
+201;Soul;The Knocks;Comfortable (feat. X Ambassadors);41;0.0;0.76;0.76;A#;-7.05;Minor;115.02
+202;Soul;Great Good Fine Ok;You're The One For Me;38;0.04;0.63;0.66;C;-6.71;Minor;102.01
+203;Soul;Keith Sweat;How Many Ways;39;0.58;0.66;0.64;C#;-4.51;Major;143.89
+204;Soul;H-Town;They Like It Slow;39;0.11;0.61;0.49;C#;-9.3;Major;115.92
+205;Soul;Emily King;Down;42;0.55;0.39;0.35;E;-13.62;Major;90.83
+206;Soul;John Legend;Quickly (feat. Brandy);39;0.23;0.74;0.7;A#;-4.34;Minor;99.99
+207;Soul;Belly;P.O.P.;43;0.1;0.8;0.52;D;-9.01;Major;175.67
+208;Soul;Muddy Waters;I Just Want To Make Love To You - Electric Mud Album Version;43;0.01;0.29;0.74;C;-7.17;Major;176.4
+209;Soul;"Bobby ""Blue"" Bland";I'll Take Care Of You - Single Version;32;0.57;0.42;0.34;A#;-13.09;Minor;80.02
+210;Soul;Slave;Son Of Slide;39;0.0;0.69;0.71;D;-10.63;Major;115.54
+211;Soul;Jr Thomas & The Volcanos;Burning Fire;38;0.03;0.79;0.68;E;-6.94;Minor;113.83
+212;Soul;Muddy Waters;(I'm Your) Hoochie Coochie Man;47;0.9;0.52;0.42;D;-8.28;Major;84.14
+213;Soul;R.LUM.R;With My Words;44;0.26;0.74;0.7;A;-7.14;Major;100.03
+214;Soul;Mint Condition;You Don't Have To Hurt No More;35;0.1;0.76;0.47;G#;-6.71;Minor;113.9
+215;R&B;Raveena;If Only;63;0.47;0.76;0.4;A#;-11.8;Minor;77.98
+216;R&B;Trevor Daniel;Falling (blackbear Remix);63;0.12;0.8;0.48;C#;-6.49;Major;127.01
+217;R&B;T-Pain;Be Your X;31;0.02;0.51;0.29;F;-12.08;Minor;81.73
+218;R&B;Tinashe;Like I Used To;66;0.57;0.72;0.6;B;-6.16;Major;159.78
+219;R&B;Peter CottonTale;Forever Always;61;0.85;0.36;0.44;D#;-6.35;Major;54.92
+220;R&B;DaniLeigh;Lil Bebe;62;0.04;0.83;0.51;F;-4.43;Minor;136.02
+221;R&B;Ty Dolla $ign;Paranoid (feat. B.o.B);63;0.01;0.86;0.4;C#;-11.31;Major;97.48
+222;R&B;James Blake;Are You In Love?;65;0.72;0.56;0.28;G#;-12.35;Major;147.68
+223;R&B;Dreezy;Ecstasy (feat. Jeremih);65;0.26;0.89;0.45;A#;-7.77;Minor;104.04
+224;R&B;Snoh Aalegra;I Want You Around;61;0.36;0.7;0.51;E;-7.05;Major;168.06
+225;R&B;Zara Larsson;Ain't My Fault;74;0.01;0.58;0.78;F#;-4.83;Minor;141.15
+226;R&B;Beyoncé;Countdown;66;0.31;0.67;0.79;F;-5.73;Major;167.35
+227;R&B;Jarreau Vandal;Someone That You Love;64;0.56;0.74;0.43;E;-8.26;Major;105.06
+228;R&B;Alina Baraz;Unfold;61;0.67;0.63;0.5;A;-8.71;Minor;111.93
+229;R&B;The Carters;NICE;60;0.09;0.91;0.53;C#;-5.59;Major;119.92
+230;R&B;Trey Songz;Neighbors Know My Name;63;0.04;0.66;0.69;G;-5.78;Minor;120.03
+231;R&B;T-Pain;U Up;55;0.01;0.65;0.48;A;-10.32;Major;85.37
+232;R&B;BJ The Chicago Kid;Roses;64;0.38;0.66;0.6;C;-7.27;Minor;110.01
+233;R&B;SZA;Prom;64;0.07;0.81;0.7;C#;-4.88;Major;120.04
+234;R&B;James Blake;Power On;65;0.85;0.65;0.47;D;-10.95;Major;92.49
+235;R&B;Sabrina Claudio;Orion's Belt;61;0.86;0.53;0.35;A;-10.4;Minor;84.47
+236;R&B;H.E.R.;Say It Again;61;0.72;0.32;0.49;D#;-9.99;Minor;86.13
+237;R&B;T-Pain;All I Want (feat. Flipp Dinero);55;0.19;0.51;0.61;E;-6.51;Major;111.91
+238;R&B;Daniel Caesar;Violet;62;0.75;0.69;0.42;E;-8.13;Minor;129.97
+239;R&B;The Weeknd;Nothing Without You;67;0.06;0.6;0.64;C#;-8.1;Major;109.92
+240;R&B;Sevyn Streeter;Anything U Want (feat. Wiz Khalifa, Jeremih & Ty Dolla $ign);65;0.03;0.68;0.53;C#;-4.98;Minor;91.81
+241;R&B;Orion Sun;Antidote;60;0.16;0.51;0.81;G#;-3.96;Major;163.24
+242;R&B;John Legend;Love Me Now;68;0.59;0.49;0.76;G#;-3.84;Major;123.89
+243;R&B;Beyoncé;Dance for You;66;0.03;0.62;0.78;D;-6.06;Major;110.0
+244;R&B;Demi Lovato;Give Your Heart a Break;66;0.24;0.64;0.69;F#;-3.1;Major;123.03
+245;R&B;Labrinth;Beneath Your Beautiful;60;0.23;0.56;0.52;D;-5.86;Major;83.98
+246;R&B;Yo Trane;High off You;62;0.47;0.63;0.32;C;-13.06;Minor;80.05
+247;R&B;Twista;Overnight Celebrity;67;0.18;0.83;0.79;A#;-5.43;Minor;134.2
+248;R&B;Fifth Harmony;That's My Girl;71;0.04;0.6;0.85;F;-4.25;Minor;202.05
+249;R&B;Ravyn Lenae;Sticky;62;0.03;0.71;0.85;E;-6.71;Minor;120.02
+250;R&B;Mario;Just a Friend 2002 - Radio Edit;64;0.01;0.54;0.68;C;-6.1;Major;132.35
+251;R&B;Monica;So Gone;63;0.18;0.62;0.55;G#;-6.86;Major;81.97
+252;R&B;Ne-Yo;Sexy Love;68;0.27;0.62;0.5;G#;-6.42;Major;93.98
+253;R&B;Mariah Carey;Caution;65;0.36;0.71;0.57;A#;-7.19;Minor;140.05
+254;R&B;Mario;Drowning;66;0.28;0.52;0.48;A;-5.84;Major;113.13
+255;R&B;August Alsina;Kissin' On My Tattoos;63;0.01;0.58;0.62;D;-8.35;Minor;120.13
+256;R&B;T-Pain;It's My Dog Birthday;53;0.0;0.6;0.58;G#;-7.65;Major;120.03
+257;R&B;Doja Cat;Go To Town;64;0.07;0.71;0.71;C;-2.47;Major;169.94
+258;R&B;Arin Ray;Reckless;61;0.26;0.69;0.7;F;-5.7;Minor;173.99
+259;R&B;Usher;Confessions Part II - Confessions Special Edition Version;68;0.06;0.84;0.47;C#;-7.67;Major;138.01
+260;R&B;HONNE;Day 1 ◑;67;0.21;0.5;0.58;F#;-7.01;Major;94.56
+261;R&B;Madison Beer;Fools;68;0.03;0.74;0.79;F#;-3.86;Minor;120.9
+262;R&B;Bryson Tiller;Overtime;64;0.25;0.66;0.5;C#;-7.69;Major;106.05
+263;R&B;Ellie Goulding;On My Mind;63;0.26;0.7;0.7;C;-6.67;Major;154.91
+264;R&B;Summer Walker;Wasted;60;0.45;0.71;0.35;G;-11.32;Major;117.31
+265;R&B;Ama Lou;Tried Up;62;0.85;0.69;0.26;A;-15.27;Minor;146.97
+266;R&B;Charli XCX;Boys;72;0.07;0.87;0.55;D;-5.19;Major;139.94
+267;R&B;Ella Mai;Own It;61;0.11;0.53;0.54;E;-5.0;Minor;106.71
+268;R&B;Annmarie;Handle It;60;0.72;0.65;0.65;B;-6.05;Major;117.95
+269;R&B;Jason Derulo;It Girl;71;0.02;0.67;0.72;C#;-4.74;Minor;91.99
+270;R&B;James Blake;Assume Form;65;0.89;0.41;0.35;E;-10.36;Minor;139.27
+271;R&B;T-Pain;Keep This from Me;53;0.09;0.51;0.63;C#;-6.15;Minor;80.8
+272;R&B;Chris Brown;Grass Ain't Greener;67;0.39;0.64;0.6;A#;-5.1;Minor;133.95
+273;R&B;Ty Dolla $ign;Ex (feat. YG);66;0.01;0.77;0.43;F;-5.72;Minor;102.06
+274;R&B;Jorja Smith;Teenage Fantasy;68;0.47;0.58;0.68;E;-10.21;Minor;176.12
+275;R&B;The Weeknd;All I Know;66;0.42;0.47;0.42;G#;-10.61;Minor;120.01
+276;R&B;Tobi Lou;Buff Baby;62;0.19;0.74;0.64;F;-8.64;Major;156.0
+277;R&B;Frank Ocean;Bad Religion;61;0.78;0.28;0.36;A;-7.68;Major;81.98
+278;R&B;Chris Brown;Back To Sleep;66;0.04;0.65;0.65;A;-5.48;Minor;92.98
+279;Soundtrack;John Barry;You Only Live Twice - Instrumental;35;0.01;0.32;0.27;C;-15.89;Major;91.2
+280;Soundtrack;John Paesano;This Is The End - Markus;33;0.87;0.07;0.13;A#;-16.09;Minor;69.74
+281;Soundtrack;Max Richter;Dream 0 (till break of day) - Pt. 2;31;0.79;0.22;0.05;F#;-27.6;Major;46.79
+282;Soundtrack;Kensuke Ushio;van;32;0.99;0.65;0.06;G;-28.64;Major;72.04
+283;Soundtrack;Nick Cave;Counting the Stars;30;0.99;0.46;0.0;C;-26.78;Minor;128.79
+284;Soundtrack;Thomas Newman;Repair Ward;25;0.87;0.68;0.19;D#;-16.73;Minor;110.86
+285;Soundtrack;Nick Glennie-Smith;Greatest Mystery Of Life;30;0.04;0.22;0.17;G;-18.55;Minor;62.28
+286;Soundtrack;John Barry;Stands With a Fist Remembers;28;0.78;0.1;0.1;E;-22.85;Major;182.29
+287;Soundtrack;Rob Simonsen;You Get to Breathe Now;30;0.9;0.19;0.12;E;-22.22;Major;63.33
+288;Soundtrack;Alex Somers;Between Us - Liminal Remix;30;0.97;0.22;0.1;D#;-20.46;Major;136.24
+289;Soundtrack;Mark Mothersbaugh;The Transformation;28;0.15;0.12;0.33;G;-14.84;Major;80.8
+290;Soundtrack;John Williams;The Empire Strikes Back: The Imperial March;27;0.86;0.52;0.37;G;-12.26;Minor;103.78
+291;Soundtrack;Nicholas Britell;The Iraq War Symphony;29;0.95;0.49;0.34;A#;-12.14;Minor;108.19
+292;Soundtrack;Mark Mothersbaugh;The Rise of Kitty Kitty;28;0.83;0.22;0.18;C;-15.07;Major;84.08
+293;Soundtrack;Deborah Lurie;Airport Goodbye;29;0.99;0.21;0.02;F;-27.38;Major;143.91
+294;Soundtrack;John Williams;Flight from Peru;27;0.97;0.29;0.32;C;-15.21;Major;163.82
+295;Soundtrack;Carter Burwell;Meeting Miriam;30;0.59;0.26;0.17;C;-17.89;Major;67.49
+296;Soundtrack;The Chamber Orchestra Of London;Elopement;28;0.91;0.09;0.26;A;-13.83;Minor;85.55
+297;Soundtrack;Dustin O'Halloran;Prelude 2;32;0.96;0.2;0.18;F;-18.07;Major;174.01
+298;Soundtrack;Alain Goraguer;Méditation Des Enfants;34;0.91;0.2;0.19;C;-16.88;Minor;66.26
+299;Soundtrack;Hiroyuki Sawano;Ymniam - Orch;35;0.17;0.3;0.43;A;-9.02;Minor;148.33
+300;Soundtrack;Alexandre Desplat;High-Speed French Train;29;0.62;0.76;0.26;A#;-18.91;Major;119.98
+301;Soundtrack;Hiroyuki Sawano;2chijou;35;0.13;0.48;0.48;F;-12.22;Major;120.1
+302;Soundtrack;Alan Menken;"Picking Corn - From ""Pocahontas""/Score";29;0.82;0.27;0.1;C#;-23.77;Major;102.76
+303;Soundtrack;Haruomi Hosono;パーティー - New ver.;33;0.99;0.48;0.12;C;-17.93;Major;101.14
+304;Soundtrack;Austin Wintory;Caranx Ignobilis;33;0.95;0.12;0.32;G;-14.43;Minor;85.43
+305;Soundtrack;Bear McCreary;Running out of Time;27;0.22;0.51;0.2;C;-20.91;Major;120.22
+306;Soundtrack;Kenji Kawai;"Utai IV: Reawakening (From ""Ghost in the Shell"") - Steve Aoki Remix";37;0.0;0.46;0.98;F#;-1.5;Minor;174.06
+307;Soundtrack;Harry Escott;Brandon;24;0.53;0.32;0.08;G;-24.28;Minor;120.02
+308;Soundtrack;John Barry;The Buffalo Hunt;28;0.68;0.09;0.32;D#;-15.35;Major;69.42
+309;Soundtrack;Jesper Kyd;The Makers Theme;32;0.79;0.16;0.25;G;-19.69;Major;176.61
+310;Soundtrack;Howard Shore;In the Shadow of the Mountain;25;0.88;0.1;0.1;A;-20.89;Minor;78.52
+311;Soundtrack;Trevor Morris;Ragnar's Sail;37;0.83;0.32;0.25;F;-22.79;Minor;147.08
+312;Soundtrack;Howard Shore;A Necromancer - Bonus Track;25;0.47;0.12;0.31;C;-17.38;Minor;65.72
+313;Soundtrack;Philip Glass;Something She Has to Do;37;0.94;0.13;0.03;F;-28.42;Major;97.06
+314;Soundtrack;Mark Isham;The Black Dahlia – No Other Way;23;0.98;0.15;0.07;D#;-17.89;Major;67.55
+315;Soundtrack;Hans Zimmer;Mission Control;32;0.08;0.19;0.12;C#;-20.5;Major;160.32
+316;Soundtrack;Trevor Morris;The Lie in Which You Linger;30;0.04;0.14;0.53;C;-12.3;Major;141.8
+317;Soundtrack;Marc Streitenfeld;Sherwood Forest;33;0.92;0.17;0.14;A;-20.66;Minor;91.08
+318;Soundtrack;Trevor Morris;You Shall not enter Valhalla;37;0.93;0.19;0.01;F;-39.87;Major;70.35
+319;Soundtrack;Jan A.P. Kaczmarek;The Peter Pan Overture - Finding Neverland/Soundtrack Version;29;0.89;0.41;0.16;C;-15.99;Major;62.4
+320;Soundtrack;Alexandre Desplat;Coco & Boy;33;0.99;0.17;0.1;A#;-20.38;Minor;75.86
+321;Soundtrack;Hans Zimmer;Legacy;35;0.57;0.2;0.36;C#;-16.39;Major;85.07
+322;Soundtrack;Ludwig Goransson;Caught in the Shadow;23;0.94;0.31;0.03;D;-30.65;Minor;97.01
+323;Soundtrack;John Debney;Sorry, Dad - Score;24;0.92;0.15;0.03;G;-31.44;Major;157.33
+324;Soundtrack;Alexandre Desplat;You're Alive;23;0.86;0.09;0.06;B;-22.86;Minor;76.53
+325;Soundtrack;Elliot Goldenthal;JD Dies;31;0.73;0.08;0.07;G#;-18.09;Major;82.31
+326;Soundtrack;Philippe Rombi;Hymne des fraternisés (piano);28;1.0;0.33;0.01;D#;-39.8;Major;72.44
+327;Soundtrack;Hauschka;Sunny and George;40;0.83;0.15;0.04;A;-25.23;Minor;136.44
+328;Soundtrack;Michael Giacchino;Night on the Yorktown;32;0.9;0.07;0.05;F;-20.37;Major;77.94
+329;Soundtrack;John Paesano;The Man He Was;32;0.51;0.2;0.13;C;-22.14;Major;69.09
+330;Soundtrack;Michael Giacchino;Kirk Enterprises;31;0.9;0.08;0.21;G;-16.75;Major;83.24
+331;Soundtrack;Jonny Greenwood;Get Thee Behind Me Satan - feat. Ella Fitzgerald;29;0.98;0.26;0.11;F;-15.56;Major;86.39
+332;Soundtrack;James Newton Howard;Sam's Gone;33;0.84;0.12;0.23;D;-16.37;Minor;95.44
+333;Soundtrack;Max Richter;Dream 17 (Alpha) - Pt. 12;31;0.77;0.07;0.06;C#;-32.84;Major;79.28
+334;Soundtrack;Kevin Kiner;Kit Fisto Duels Grievous;31;0.08;0.26;0.7;A;-7.1;Minor;97.0
+335;Soundtrack;Alan Menken;The Prophecy;29;0.92;0.12;0.18;C;-12.67;Minor;91.1
+336;Soundtrack;Jack Wall;Alistair's Theme;33;0.54;0.32;0.35;B;-16.01;Minor;79.94
+337;Soundtrack;Alexandre Desplat;The Rehearsal;24;0.99;0.64;0.16;C;-17.8;Major;97.92
+338;Soundtrack;Randy Edelman;Reunion And Finale;25;0.62;0.08;0.41;G;-13.97;Major;76.02
+339;Soundtrack;Dario Marianelli;Kitty's Debut;27;0.96;0.2;0.14;A;-16.94;Minor;78.05
+340;Soundtrack;Murray Gold;The Greatest Story Never Told;23;0.85;0.17;0.31;C;-11.58;Minor;100.02
+341;Soundtrack;Jerry Goldsmith;"Star Trek: First Contact: End Credits - From ""Star Trek: First Contact""";29;0.92;0.17;0.21;F;-17.36;Major;97.27
+342;Soundtrack;Blake Neely;Infantino Street;30;0.15;0.32;0.4;A#;-16.47;Minor;60.33
+343;Soundtrack;James Horner;"Field of Dreams (From ""Field of Dreams"")";30;0.92;0.26;0.04;G;-20.8;Major;100.53
+344;Soundtrack;Blake Neely;Jay Garrick Warns of a Man Called Zoom;30;0.43;0.47;0.53;A#;-16.27;Major;119.94
+345;Soundtrack;Thomas Newman;The Seas with Nemo and Friends Medley;24;0.94;0.39;0.28;E;-13.66;Minor;108.34
+346;Soundtrack;John Barry;Safari;29;0.97;0.13;0.04;D;-22.0;Minor;73.52
+347;Soundtrack;John Barry;You'll Keep Me Then;29;0.97;0.21;0.01;F#;-38.41;Minor;124.43
+348;Soundtrack;Michael Price;To Begin - 23rd May;26;0.99;0.38;0.0;D;-31.63;Major;71.22
+349;Soundtrack;Jon Brion;Summer in Sacramento;28;0.91;0.6;0.04;F;-20.44;Major;97.52
+350;Soundtrack;Javier Navarrete;Salt;15;0.83;0.77;0.27;G;-18.03;Major;110.67
+351;Soundtrack;Patrick Doyle;Cloud and Confessions;35;0.88;0.1;0.09;G;-23.21;Major;68.49
+352;Soundtrack;Philip Glass;The Light;35;0.88;0.17;0.14;F;-20.14;Major;79.48
+353;Soundtrack;Michael Andrews;Rosie Darko;27;0.99;0.29;0.03;D#;-24.33;Major;140.86
+354;Soundtrack;Ben Salisbury;Watching;22;0.97;0.2;0.03;B;-37.86;Major;136.45
+355;Soundtrack;John Williams;The Flying Sequence;29;0.93;0.19;0.23;D;-14.16;Major;81.45
+356;Soundtrack;Dan Romer;Welcome Back Subjects;29;0.71;0.09;0.11;C;-21.81;Minor;83.84
+357;Soundtrack;Thomas Newman;Walk Home;33;0.99;0.28;0.05;G;-26.11;Minor;129.8
+358;Soundtrack;Jóhann Jóhannsson;Properties Of Explosive Materials;32;0.89;0.24;0.16;F;-21.42;Major;132.63
+359;Soundtrack;Henry Mancini;Peter Gunn;33;0.46;0.47;0.67;A#;-9.13;Minor;119.17
+360;Soundtrack;Alan Menken;"The Warriors Arrive - From ""Pocahontas""/Score";29;0.97;0.2;0.16;E;-21.02;Major;78.93
+361;Soundtrack;Alan Menken;Entr'acte/Wolf Chase;28;0.79;0.29;0.21;G;-17.89;Major;143.48
+362;Soundtrack;Trevor Morris;Nightmare's End;30;0.15;0.23;0.23;D;-13.09;Major;61.2
+363;Soundtrack;Ennio Morricone;The Death Of A Soldier;30;0.98;0.17;0.12;D;-19.91;Major;81.52
+364;Soundtrack;Trevor Morris;The Sunstone;37;0.95;0.3;0.01;A;-37.72;Major;140.01
+365;Soundtrack;Michael Kamen;Requiem for a Soldier (Band of Brothers);31;0.84;0.21;0.32;F;-10.05;Major;116.95
+366;Soundtrack;Lorne Balfe;Welcome to Boston;32;0.78;0.23;0.48;G;-13.94;Minor;73.35
+367;Soundtrack;Steven Price;This Is My Home;25;0.33;0.2;0.25;F;-18.56;Major;150.0
+368;Soundtrack;Gustavo Santaolalla;Visiting Mother;31;0.98;0.23;0.09;C;-19.35;Major;119.69
+369;Soundtrack;Marco Beltrami;Freerider;30;0.88;0.51;0.09;A;-16.23;Minor;115.03
+370;Soundtrack;Steve Jablonsky;Tomb of the Primes;38;0.34;0.07;0.3;D;-15.88;Minor;73.67
+371;Soundtrack;Max Richter;A New Generation;35;0.25;0.14;0.4;B;-15.33;Minor;144.23
+372;Soundtrack;Kevin Kiner;Anakin Wants Her Alive;31;0.05;0.29;0.67;C#;-6.43;Major;87.56
+373;Soundtrack;Kensuke Ushio;flw;32;0.99;0.56;0.04;D;-23.56;Major;80.03
+374;Soundtrack;The City of Prague Philharmonic Orchestra;You Only Live Twice (You Only Live Twice);29;0.67;0.16;0.22;B;-15.54;Major;82.52
+375;Soundtrack;Michael Giacchino;Jack Splat;28;0.57;0.28;0.18;F;-18.42;Minor;75.75
+376;Soundtrack;John Paesano;Lost - Markus;31;0.07;0.16;0.3;C#;-18.18;Major;81.97
+377;Soundtrack;Thomas Bergersen;Two Hearts;35;0.06;0.4;0.57;C;-8.02;Major;139.56
+378;Soundtrack;Trevor Morris;Epilogue;31;0.6;0.11;0.26;D;-17.29;Minor;73.53
+379;Soundtrack;Lorne Balfe;Of Life and Death;30;0.69;0.06;0.25;C;-20.12;Minor;55.64
+380;Soundtrack;Randy Newman;"Infinity and Beyond - From ""Toy Story""";28;0.85;0.21;0.22;F;-11.09;Major;162.37
+381;Soundtrack;Hans Zimmer;The Protector Of Rome;27;0.44;0.27;0.13;G;-26.19;Minor;104.09
+382;Soundtrack;Ludwig Goransson;Adonis;23;0.73;0.24;0.08;A#;-18.42;Major;134.12
+383;Soundtrack;Alexandre Desplat;Whack-Bat Majorette;27;0.57;0.64;0.54;A#;-12.33;Minor;143.99
+384;Soundtrack;Michael Giacchino;Logos / Pranking The Natives;32;0.78;0.19;0.3;G;-16.67;Minor;174.99
+385;Soundtrack;Alan Silvestri;"Captain America ""We Did It""";26;0.84;0.21;0.21;C;-14.47;Major;81.9
+386;Soundtrack;Hans Zimmer;Can You Hear Your Heart;23;0.93;0.17;0.01;C;-31.09;Major;86.36
+387;Soundtrack;Martin Phipps;I Lived Here;29;0.95;0.12;0.1;A;-16.32;Minor;95.97
+388;Soundtrack;Hans Zimmer;Ground Rules;31;0.73;0.16;0.01;A;-27.32;Major;132.7
+389;Soundtrack;Craig Armstrong;Time Moves On;29;0.96;0.21;0.16;A;-20.72;Major;75.2
+390;Soundtrack;Benjamin Wallfisch;Kiss;27;0.98;0.21;0.23;F;-22.12;Major;83.65
+391;Soundtrack;Hans Zimmer;Agent Of Chaos;30;0.48;0.3;0.2;C;-19.91;Minor;80.34
+392;Soundtrack;Philip Glass;Four;34;0.98;0.29;0.06;F;-24.28;Minor;141.84
+393;Soundtrack;Mark Mancina;"Act 4: We Are One - From ""Rivers of Light""";29;0.17;0.27;0.53;G;-10.62;Major;78.93
+394;Soundtrack;Jeff Beal;Melancholia;32;0.82;0.11;0.17;A;-17.94;Minor;170.42
+395;Soundtrack;Thomas Newman;What A Wonderful World;31;0.79;0.26;0.19;C;-19.98;Major;90.51
+396;Jazz;Judy Garland;We're Off to See the Wizard;38;0.85;0.52;0.45;G#;-16.36;Major;134.74
+397;Jazz;Gotan Project;Epoca;44;0.06;0.78;0.74;A;-3.39;Major;91.02
+398;Jazz;Luiz Bonfá;Perdido de Amor [Lost in Love];41;0.95;0.49;0.04;G;-22.64;Major;87.28
+399;Jazz;Regina Carter;Pavane;41;0.6;0.43;0.24;C;-16.25;Major;83.36
+400;Jazz;Paul Brown;The Rhythm Method;34;0.32;0.72;0.56;D#;-10.07;Minor;97.69
+401;Jazz;DJ Premier;Doomp Doomp Doomp;38;0.0;0.73;0.46;F#;-13.06;Major;87.44
+402;Jazz;Cannonball Adderley;Somethin' Else - Remastered;38;0.47;0.51;0.47;G;-6.83;Minor;78.65
+403;Jazz;Parov Stelar;Baska Brother;44;0.0;0.95;0.57;G;-9.93;Minor;127.0
+404;Jazz;Jonathan Butler;Surrender (feat. Boney James);32;0.2;0.53;0.4;B;-11.62;Minor;77.09
+405;Jazz;Nina Simone;O-o-h Child - Remastered;37;0.68;0.48;0.59;C#;-9.95;Minor;98.93
+406;Jazz;Mestís;Sedosa;35;0.05;0.67;0.85;C#;-7.55;Minor;90.06
+407;Jazz;Cortex;Prélude à Go Round;34;0.43;0.53;0.37;A#;-13.9;Major;149.97
+408;Jazz;Jim Hall;Farmer's Trust;37;0.98;0.46;0.04;C;-26.21;Major;119.06
+409;Jazz;Stan Getz;Retrato Em Branco e Preto;32;0.91;0.48;0.1;C;-21.76;Major;139.72
+410;Jazz;Stanley Turrentine;Sugar;36;0.44;0.57;0.54;C;-10.97;Minor;124.0
+411;Jazz;Braxton Cook;Somewhere in Between (Swarvy Remix);42;0.22;0.7;0.57;F;-9.22;Major;103.03
+412;Jazz;Thievery Corporation;Facing East;39;0.1;0.7;0.95;D;-4.64;Major;99.01
+413;Jazz;Count Basie;Whirly Bird - 1994 Remaster;36;0.7;0.51;0.62;G#;-8.37;Major;131.74
+414;Jazz;Yazmin Lacey;90 Degrees;44;0.16;0.63;0.49;C#;-9.61;Major;147.76
+415;Jazz;Ismael Miranda;Caretas;48;0.37;0.61;0.62;C;-12.23;Major;164.31
+416;Jazz;Nancy Wilson;Guess Who I Saw Today - Remastered/2004;36;0.94;0.59;0.07;C;-18.87;Minor;87.49
+417;Jazz;Pearl Django;Flambee Montalbanaise;38;0.82;0.73;0.41;B;-10.22;Minor;100.52
+418;Jazz;Wynton Marsalis Septet;I Wish I Knew How It Would Feel to Be Free - Edit;33;0.69;0.63;0.56;A#;-6.72;Major;124.08
+419;Jazz;Cyrille Aimee;Loving You;44;0.82;0.62;0.19;C#;-16.33;Minor;133.71
+420;Jazz;Guru Griff;slow it down;39;0.83;0.58;0.21;A#;-18.82;Major;174.19
+421;Jazz;Skinshape;Metanoia;40;0.11;0.65;0.28;A;-12.38;Minor;150.02
+422;Jazz;Dean Martin;Senza fine;41;0.86;0.21;0.23;A#;-12.48;Minor;78.92
+423;Jazz;Between The Buried And Me;Famine Wolf;38;0.0;0.29;0.96;C#;-4.95;Major;125.15
+424;Jazz;Ornette Coleman;Peace;35;0.72;0.61;0.06;B;-15.44;Major;126.76
+425;Jazz;Bud Powell;52nd Street Theme - Rudy Van Gelder Edition/1998 Digital Remaster;32;0.84;0.54;0.59;G;-7.88;Major;71.29
+426;Jazz;Swing Republic;Fall;42;0.15;0.78;0.66;D;-8.62;Minor;122.98
+427;Jazz;BADBADNOTGOOD;Eyes Closed;35;0.14;0.41;0.56;E;-8.9;Minor;118.5
+428;Jazz;Damu The Fudgemunk;All Human (Instrumental);40;0.03;0.63;0.51;A#;-8.3;Minor;171.28
+429;Jazz;Louis Armstrong;Cabaret - Single Version;34;0.48;0.41;0.31;G#;-15.43;Major;160.76
+430;Jazz;Pat Metheny;One Quiet Night;38;0.82;0.33;0.14;E;-22.14;Minor;88.29
+431;Jazz;Lynne Arriale Trio;Feeling good;35;0.47;0.38;0.25;G;-18.87;Minor;89.11
+432;Jazz;Chris Standring;Love and Paragraphs;34;0.11;0.8;0.55;G;-7.06;Major;120.02
+433;Jazz;Leprous;Mirage;44;0.01;0.5;0.84;F#;-6.52;Major;122.04
+434;Jazz;A Tribe Called Quest;Skypager;44;0.25;0.86;0.43;A#;-13.53;Minor;97.14
+435;Jazz;Bootsy Collins;What's a Telephone Bill?;36;0.33;0.6;0.72;F#;-6.77;Minor;134.17
+436;Jazz;Cecilia Dale;There Will Never Be Another You - Bossa Version;50;0.95;0.81;0.24;G;-12.97;Major;124.79
+437;Jazz;Wolfgang Lohr;Upside Down (Radio Edit);37;0.06;0.82;0.86;D;-5.0;Major;124.02
+438;Jazz;Ebo Taylor;My Love and Music;42;0.24;0.54;0.61;D;-7.38;Minor;80.72
+439;Jazz;The Brecker Brothers;Some Skunk Funk;37;0.4;0.68;0.87;C;-3.4;Major;131.25
+440;Jazz;CASIOPEA;Midnight Rendezvous;38;0.69;0.7;0.5;E;-10.41;Minor;96.02
+441;Jazz;Frank Zappa;Willie The Pimp;48;0.35;0.37;0.79;E;-12.46;Minor;88.99
+442;Jazz;Plini;Paper Moon;40;0.0;0.29;0.8;G#;-8.4;Major;120.21
+443;Jazz;Miles Davis;Ah-Leu-Cha;36;0.41;0.53;0.55;D;-9.58;Minor;121.66
+444;Jazz;Nina Simone;Love Me or Leave Me - 2013 Remastered Version;44;0.82;0.46;0.34;B;-13.37;Major;175.98
+445;Jazz;Charlie Parker;Laura;37;0.85;0.27;0.32;G;-12.19;Major;84.39
+446;Jazz;Stan Getz;Only Trust Your Heart;38;0.83;0.43;0.33;F;-23.44;Major;129.44
+447;Jazz;GoGo Penguin;Branches Break;31;0.17;0.54;0.68;A;-12.33;Major;121.45
+448;Jazz;Mulatu Astatke;Mulatu - Stereo Master;41;0.64;0.46;0.43;C#;-13.38;Major;158.3
+449;Jazz;CYNE;400 Years;40;0.13;0.64;0.67;F#;-5.56;Minor;90.18
+450;Jazz;Animals As Leaders;Transcentience;38;0.0;0.34;0.87;C#;-6.55;Minor;103.98
+451;Jazz;Caro Emerald;Liquid Lunch;33;0.12;0.85;0.76;E;-6.12;Minor;112.06
+452;Jazz;Miles Davis;Rubberband Of Life (feat. Ledisi);37;0.03;0.72;0.7;C#;-5.49;Major;90.42
+453;Jazz;Birocratic;Leaving Her Flowers;39;0.62;0.66;0.59;A#;-6.04;Minor;85.13
+454;Jazz;The Bamboos;Helpless Blues;33;0.04;0.76;0.82;C#;-4.85;Minor;136.02
+455;Jazz;Harry Connick, Jr.;Sleigh Ride;36;0.85;0.49;0.34;C;-11.22;Major;156.12
+456;Jazz;Pink Martini;Bolero;33;0.67;0.51;0.35;G;-12.46;Major;156.59
+457;Jazz;Brian Culbertson;Let's Get Started;34;0.01;0.74;0.72;A;-7.63;Minor;101.0
+458;Jazz;Gábor Szabó;Three King Fishers;41;0.5;0.5;0.49;B;-11.61;Minor;140.17
+459;Jazz;Kinobe;Slip Into Something More Comfortable - Stephen Hague 2016 Mix;45;0.02;0.51;0.66;G#;-10.63;Major;174.61
+460;Jazz;Dean Martin;Just In Time;35;0.64;0.54;0.23;G;-12.37;Minor;126.97
+461;Jazz;Count Basie;Dr. No's Fantasy (Remastered);36;0.55;0.56;0.41;A;-8.59;Minor;142.14
+462;Jazz;Kankick;The Finer Things;47;0.09;0.85;0.58;B;-8.46;Major;91.95
+463;Jazz;Cymande;Bird - Bonus Track;40;0.2;0.73;0.54;C#;-11.29;Major;102.94
+464;Jazz;Pat Metheny Group;So May It Secretly Begin;36;0.78;0.58;0.48;G#;-15.37;Major;145.39
+465;Jazz;Donny Hathaway;We're Still Friends - Live @ the Bitter End, NYC;44;0.86;0.43;0.13;G;-19.38;Minor;125.79
+466;Jazz;Hiatus Kaiyote;The World It Softly Lulls;42;0.12;0.83;0.49;G#;-8.22;Major;101.38
+467;Jazz;Florin Niculescu;Manéa;40;0.74;0.46;0.43;D;-10.78;Minor;148.59
+468;Jazz;Romare;Who To Love?;39;0.98;0.77;0.27;F;-13.77;Minor;117.99
+469;Jazz;Ornette Coleman;Broad Way Blues;40;0.47;0.51;0.25;D#;-17.52;Major;95.53
+470;Jazz;David Axelrod;Everything Counts;36;0.1;0.47;0.52;F;-12.75;Major;151.49
+471;Jazz;Louis Armstrong;Baby Won't You Please Come Home - Live at Newport Jazz Festival 1958;39;0.91;0.64;0.36;A;-17.55;Minor;106.56
+472;Jazz;Louis Armstrong;Life Is So Peculiar;40;0.66;0.63;0.7;C;-6.53;Minor;115.6
+473;Jazz;FloFilz;Taxi Bossa;40;0.2;0.71;0.49;F#;-10.09;Major;86.1
+474;Jazz;Nina Simone;I Got It Bad (And That Ain't Good);32;0.98;0.33;0.21;D;-13.41;Major;121.44
+475;Jazz;John Scofield;Can’t Dance;38;0.91;0.52;0.47;G;-10.89;Major;101.19
+476;Jazz;Walterwarm;Where the Buffalo Roam;38;0.88;0.58;0.42;B;-8.23;Minor;172.54
+477;Jazz;Hiatus Kaiyote;Creations Part One;41;0.98;0.46;0.42;F;-21.52;Minor;54.9
+478;Jazz;Steve Tyrell;The Way You Look Tonight - From Father of the Bride;40;0.81;0.42;0.32;D#;-11.29;Major;109.95
+479;Jazz;Native Construct;Come Hell or High Water;38;0.02;0.58;0.68;E;-8.76;Minor;150.0
+480;Jazz;George Duke;Born to Love You;44;0.43;0.48;0.63;A;-8.84;Major;137.34
+481;Jazz;Brad Mehldau Trio;Since I Fell for You;38;0.93;0.45;0.2;F;-15.79;Minor;135.37
+482;Jazz;Lemon Jelly;In the Bath;43;0.54;0.69;0.52;A#;-9.97;Minor;113.0
+483;Jazz;Maynard Ferguson;Gonna Fly Now;33;0.01;0.53;0.85;A;-6.48;Minor;113.81
+484;Jazz;Thievery Corporation;Vampires (Afrolicious & Rob Garza Remix);39;0.06;0.7;0.83;D;-9.57;Minor;122.99
+485;Jazz;Haken;The Good Doctor;47;0.0;0.4;0.89;E;-5.14;Minor;200.01
+486;Jazz;Héctor Lavoe;Ausencia;43;0.25;0.63;0.4;C;-9.77;Major;88.0
+487;Jazz;Una Mas Trio;Clear As Water feat. Bajka;47;0.24;0.73;0.91;C#;-10.38;Major;112.02
+488;Jazz;Sonny Rollins;The Bridge - Remastered;36;0.35;0.48;0.51;G;-11.19;Major;82.63
+489;Jazz;Caro Emerald;Just One Dance;35;0.43;0.78;0.55;G#;-6.27;Minor;110.5
+490;Jazz;Joe Sample;The Road Less Traveled;32;0.17;0.65;0.5;G;-14.12;Minor;87.98
+491;Jazz;Animals As Leaders;Wave of Babies;38;0.0;0.4;0.99;E;-3.02;Minor;169.94
+492;Jazz;Yes;It Can Happen;42;0.03;0.56;0.87;C;-6.45;Major;111.87
+493;Jazz;Peggy Lee;Why Don't You Do Right (Get Me Some Money Too);45;0.8;0.71;0.25;D;-10.74;Minor;124.08
+494;Jazz;Boogie Belgique;Go Slow;40;0.0;0.62;0.78;A#;-8.9;Major;120.02
+495;Jazz;The Correspondents;Puppet Loosely Strung;36;0.01;0.42;0.68;C#;-8.64;Major;76.32
+496;Jazz;Nancy Wilson;Tonight May Have To Last Me All My Life - Remastered;36;0.95;0.44;0.06;F;-17.27;Major;117.36
+497;Movie;Henri Salvador;Ma chansonnette;0;0.98;0.57;0.1;A;-14.83;Minor;111.5
+498;Movie;Chorus;Lokamaa Neekidi;0;0.74;0.45;0.74;G;-9.32;Minor;157.14
+499;Movie;Chorus;Joli mois de mai;0;0.0;0.6;0.57;F;-6.76;Major;132.91
+500;Movie;Chorus;Goin' Up;0;0.18;0.84;0.52;A;-5.98;Major;122.02
+501;Movie;Chorus;Gumowe Palto;0;0.0;0.7;0.86;F;-6.32;Minor;140.07
+502;Movie;Chantal Goya;Fantasmagomique;1;0.04;0.7;0.54;C#;-10.46;Major;193.68
+503;Movie;Bernard Minet;Shurato;3;0.43;0.55;0.82;A;-6.65;Major;134.78
+504;Movie;Joseph Williams;Don't Know Why;2;0.96;0.49;0.09;A;-14.77;Major;177.86
+505;Movie;Dorothée;La chèvre;1;0.72;0.7;0.69;F;-13.4;Major;170.24
+506;Movie;Les Hérissons;La vérité si je mange (de la bouffe en gros);0;0.54;0.53;0.85;A;-3.97;Major;135.08
+507;Movie;Henri Salvador;Si Jolie;4;0.93;0.25;0.27;C;-12.22;Major;88.5
+508;Movie;Dominique Tirmont;À la claire fontaine;0;0.95;0.26;0.37;G;-7.61;Minor;180.23
+509;Movie;Ken Page;Memory;0;0.82;0.33;0.51;C;-9.23;Major;139.84
+510;Movie;Henri Salvador;Monsieur le bon dieu;1;0.81;0.34;0.26;C;-10.09;Major;102.29
+511;Movie;Henri Salvador;Quand On S'aime À Paris;0;0.74;0.47;0.3;G#;-9.48;Major;103.1
+512;Movie;Henri Salvador;Twist De L'enrhumé - Remastered;7;0.42;0.47;0.88;E;-5.61;Minor;150.52
+513;Movie;Henri Salvador;Elle Me Donne;0;0.61;0.81;0.65;A#;-11.67;Minor;97.59
+514;Movie;Martin & les fées;Tu es ma plus belle histoire (par Michèle Laroque);1;0.03;0.65;0.73;B;-6.88;Minor;110.02
+515;Movie;Frank Churchill;"Why Grumpy, You Do Care - From ""Snow White and the Seven Dwarfs""/Score";0;0.95;0.34;0.07;A#;-20.19;Major;102.73
+516;Movie;Randy Newman;Could You Milk Me? - Meet The Parents/Soundtrack;2;0.94;0.2;0.03;G;-21.52;Minor;79.9
+517;Movie;Lucie Dolene;La poupée magique;0;0.9;0.63;0.39;A#;-10.23;Major;128.53
+518;Movie;Céline Languedoc;Dé ti mo dou;0;0.83;0.54;0.53;C;-8.72;Minor;87.94
+519;Movie;Chorus;Jalwath Karala;0;0.73;0.68;0.56;F;-7.66;Major;102.3
+520;Movie;Claire Guyot;Ave Maria;0;0.84;0.28;0.52;G#;-6.89;Minor;64.31
+521;Movie;Leopold Stokowski;Lohengrin': Prelude to Act I;0;0.77;0.13;0.16;A;-17.55;Major;99.36
+522;Movie;Henri Salvador;Tout Doux Tout Doucement;1;0.41;0.63;0.6;A#;-9.59;Major;124.21
+523;Movie;Dominique Tirmont;Quelle heure est-il ?;0;0.79;0.73;0.52;G;-7.32;Major;132.56
+524;Movie;Jean Claude Corbel;L'espèce des oiseaux;0;0.52;0.56;0.4;D;-16.43;Major;125.74
+525;Movie;Jean Claude Corbel;Alice Au Pays Des Merveilles 4;0;0.66;0.51;0.35;G;-15.06;Major;88.91
+526;Movie;Leopold Stokowski;Prince Igor: Polovtsian Dances (abridged);2;0.99;0.4;0.16;A;-17.98;Minor;128.57
+527;Movie;Henri Salvador;Syracuse - Live au Casino de Paris;0;0.47;0.47;0.38;C#;-12.69;Major;118.06
+528;Movie;Henri Salvador;C Est Noel M Amie;0;0.95;0.2;0.16;C;-13.74;Major;171.85
+529;Movie;Chorus;Gajanan Maharaj Arti;0;0.55;0.25;0.32;C#;-9.27;Major;83.05
+530;Movie;George Bruns;There You Are;0;0.81;0.5;0.27;A#;-12.71;Major;120.3
+531;Movie;Chorus;Dakhin Hawa;0;0.65;0.25;0.34;A#;-9.65;Major;186.81
+532;Movie;Dorothée;Bonjour bonjour;1;0.46;0.86;0.48;B;-13.36;Major;138.92
+533;Movie;Chorus;"Yesuvae Yesuvae - Language: Tamil; Genre: Christian Devotional";0;0.94;0.56;0.39;E;-10.68;Major;80.01
+534;Movie;Chorus;Bidiside Hoogala;0;0.9;0.44;0.49;G;-10.37;Major;100.75
+535;Movie;Chorus;Gori Rain Milan Ki Aayee;0;0.86;0.54;0.65;F;-6.32;Minor;118.94
+536;Movie;Dorothée;Méfie Toi Des Garçons;2;0.2;0.88;0.61;E;-9.48;Major;140.04
+537;Movie;Chorus;Sikka Ke Pehlu To;0;0.21;0.71;0.86;C;-5.26;Major;95.0
+538;Movie;Les Hérissons;La cohabitation;0;0.67;0.65;0.61;A;-4.02;Minor;89.23
+539;Movie;Chorus;Aguner Parasmoni;0;0.76;0.45;0.17;C;-13.68;Major;117.55
+540;Movie;Ken Page;I'll Bring You Luck;0;0.81;0.49;0.31;G#;-11.67;Minor;173.12
+541;Movie;Jean Claude Corbel;Au fond des abysses;0;0.64;0.46;0.27;G;-13.27;Minor;106.83
+542;Movie;Chorus;Opa-Opa;0;0.34;0.41;0.67;F#;-6.29;Minor;93.32
+543;Movie;Chorus;No Shade;0;0.49;0.81;0.71;G#;-6.45;Minor;139.9
+544;Movie;Jean Claude Corbel;Cendrillon 2;0;0.81;0.46;0.39;C;-11.08;Major;83.72
+545;Movie;Chorus;Instagram;0;0.16;0.51;0.34;F#;-9.76;Major;132.83
+546;Movie;Henri Salvador;Coeur Brisé à Prendre - Remastered;5;0.25;0.52;0.81;F;-6.25;Major;79.12
+547;Movie;Chorus;Champa Aur Chambeli;0;0.72;0.56;0.42;G;-13.52;Minor;159.38
+548;Movie;Bernard Minet;Turbo Rangers - Générique;1;0.72;0.75;0.7;D;-10.69;Major;130.02
+549;Movie;Joseph Williams;Everytime You Go Away;4;0.95;0.68;0.16;C#;-13.45;Major;82.08
+550;Movie;Jean Claude Corbel;Aladin 3;0;0.78;0.64;0.42;D#;-15.42;Major;102.96
+551;Movie;Henri Salvador;Le loup, la biche et le chevalier;11;0.79;0.84;0.54;G#;-10.23;Major;126.85
+552;A Capella;MC6 A Cappella;For the Longest Time;44;0.78;0.62;0.3;D;-7.71;Major;82.47
+553;A Capella;The Singers Unlimited;Clair;33;0.97;0.48;0.22;F;-14.63;Minor;127.69
+554;A Capella;MC6 A Cappella;Come Go With Me;25;0.8;0.72;0.52;G#;-7.75;Major;129.88
+555;A Capella;MC6 A Cappella;The Lion Sleeps Tonight;26;0.3;0.69;0.49;F;-11.22;Major;107.07
+556;A Capella;Glad;A Debtor to Mercy Alone;24;0.6;0.39;0.15;E;-12.02;Major;120.63
+557;A Capella;Glad;O Wondrous Love;23;0.79;0.35;0.09;F;-15.0;Major;120.41
+558;A Capella;MC6 A Cappella;Blue Moon;23;0.67;0.75;0.51;G;-9.26;Major;122.18
+559;A Capella;MC6 A Cappella;Runaround Sue;23;0.66;0.7;0.57;A#;-7.12;Major;81.98
+560;A Capella;MC6 A Cappella;Teenager in Love;22;0.83;0.58;0.32;C#;-8.25;Major;75.91
+561;A Capella;MC6 A Cappella;Sherry;23;0.36;0.65;0.43;A#;-7.96;Major;125.39
+562;A Capella;MC6 A Cappella;Goodnight Sweetheart;23;0.83;0.63;0.3;G;-9.48;Major;135.9
+563;A Capella;Peter Hollens;December Song (A Capella Bonus Track);20;0.86;0.25;0.42;F#;-3.56;Major;143.37
+564;A Capella;MC6 A Cappella;409/Little Deuce Coupe;20;0.78;0.55;0.45;G#;-7.92;Major;115.04
+565;A Capella;MC6 A Cappella;In the Still of the Night;20;0.71;0.31;0.44;A;-9.49;Major;69.0
+566;A Capella;MC6 A Cappella;So Much in Love;19;0.83;0.55;0.27;C;-10.65;Minor;79.05
+567;A Capella;Peter Hollens;December Song [Bonus Track] - A Capella;18;0.86;0.18;0.39;F#;-3.56;Major;45.96
+568;A Capella;MC6 A Cappella;Since You've Been Gone;18;0.85;0.6;0.4;G#;-7.45;Major;125.11
+569;A Capella;Glad;Christ the Lord is Risen Today;16;0.82;0.38;0.26;C;-11.14;Major;122.42
+570;A Capella;MC6 A Cappella;Surfer Girl;18;0.69;0.52;0.3;G#;-9.79;Major;94.51
+571;A Capella;Glad;Receive the Glory;17;0.83;0.38;0.17;A#;-9.96;Major;122.06
+572;A Capella;MC6 A Cappella;One Fine Day;18;0.63;0.78;0.7;B;-7.54;Major;95.97
+573;A Capella;MC6 A Cappella;Up On the Roof;17;0.84;0.46;0.25;D;-8.72;Major;104.6
+574;A Capella;BYU Noteworthy;Star Wars: A Capella Strikes Back;15;0.7;0.31;0.41;B;-7.4;Major;95.25
+575;A Capella;The Singers Unlimited;London By Night;16;0.97;0.26;0.09;F;-17.74;Major;91.42
+576;A Capella;Glad;Holy Holy Holy;12;0.52;0.3;0.15;D;-11.09;Major;91.83
+577;A Capella;Glad;In Christ Alone;12;0.69;0.39;0.1;F;-11.69;Major;113.0
+578;A Capella;The Singers Unlimited;The Fool On the Hill;15;0.97;0.29;0.1;F;-17.93;Major;110.91
+579;A Capella;The Singers Unlimited;Nature Boy;15;0.97;0.24;0.12;G;-18.04;Major;108.06
+580;A Capella;The Singers Unlimited;Michelle;15;0.98;0.28;0.04;D;-21.24;Minor;101.73
+581;A Capella;The Singers Unlimited;My Romance;13;0.97;0.21;0.04;D;-22.2;Major;76.0
+582;A Capella;The Singers Unlimited;Emily;13;0.98;0.17;0.07;G;-19.46;Minor;85.81
+583;A Capella;Glad;O Sacred Head Now Wounded;10;0.79;0.32;0.19;B;-9.71;Minor;80.89
+584;A Capella;The Singers Unlimited;Killing Me Softly with His Song;14;0.96;0.26;0.14;C;-14.63;Major;89.74
+585;A Capella;Glad;All Hail the Power of Jesus' Name;10;0.73;0.49;0.26;G#;-9.49;Major;143.27
+586;A Capella;The Singers Unlimited;Both Sides Now;13;0.97;0.3;0.12;F;-15.88;Major;72.59
+587;A Capella;Glad;When I Survey the Wondrous Cross;8;0.93;0.3;0.12;C;-15.03;Major;81.6
+588;A Capella;Glad;Blessed Be Your Name;10;0.57;0.71;0.56;G;-7.66;Major;119.98
+589;A Capella;Glad;Be Still My Soul;9;0.78;0.32;0.09;F#;-11.94;Major;110.48
+590;A Capella;The Singers Unlimited;Try to Remember;11;0.97;0.21;0.05;C;-19.86;Minor;90.73
+591;A Capella;The Singers Unlimited;Since You Asked;12;0.98;0.26;0.07;A;-19.16;Minor;77.11
+592;A Capella;Glad;Sing it A Cappella;7;0.77;0.51;0.33;F;-11.75;Major;142.4
+593;A Capella;Glad;You Put This Love in My Heart;7;0.83;0.69;0.44;D#;-10.43;Minor;123.18
+594;A Capella;Glad;All Glory, Laud and Honor;7;0.91;0.17;0.18;A;-14.0;Major;76.83
+595;A Capella;Glad;My Jesus, I Love Thee;7;0.95;0.23;0.06;F#;-16.53;Minor;129.01
+596;A Capella;The Singers Unlimited;Autumn in New York;10;0.98;0.23;0.09;G;-17.57;Minor;140.82
+597;A Capella;The Singers Unlimited;Here, There and Everywhere;10;0.98;0.26;0.07;G;-17.34;Major;167.66
+598;A Capella;The Singers Unlimited;Like Someone in Love;10;0.94;0.22;0.05;G#;-17.0;Major;168.6
+599;A Capella;Glad;Just As I Am;6;0.91;0.32;0.08;G;-14.05;Major;137.34
+600;A Capella;Glad;Crown Him With Many Crowns;6;0.81;0.43;0.17;C;-12.69;Major;93.79
+601;A Capella;Glad;Rejoice, The Lord is King;7;0.89;0.58;0.19;D;-14.5;Major;97.85
+602;A Capella;Glad;Sing a New Song;6;0.88;0.25;0.33;D#;-11.44;Major;170.28
+603;A Capella;The King's Singers;Sleigh Ride;13;0.89;0.73;0.34;A;-13.0;Major;102.9
+604;A Capella;Hyannis Sound;A Thousand Miles;7;0.74;0.32;0.51;B;-7.57;Major;92.7
+605;A Capella;Hyannis Sound;Part Time Lover;5;0.49;0.55;0.72;A#;-4.84;Minor;174.89
+606;A Capella;The Singers Unlimited;I Don't Know Were I Stand;9;0.97;0.18;0.05;C#;-20.17;Major;78.8
+607;A Capella;The Swingle Singers;Walking in the Air;11;0.97;0.35;0.07;D;-18.86;Minor;99.79
+608;A Capella;The Singers Unlimited;All the Things You Are;8;0.98;0.24;0.06;B;-19.87;Minor;134.76
+609;A Capella;The Singers Unlimited;Indian Summer;9;0.98;0.3;0.13;C;-18.48;Major;37.86
+610;A Capella;The Singers Unlimited;I Wish You Love;8;0.97;0.26;0.13;F;-17.48;Minor;133.0
+611;A Capella;The Singers Unlimited;The Way We Were;10;0.97;0.21;0.14;A;-16.81;Minor;85.84
+612;A Capella;The Singers Unlimited;Killing Me Softly With His Song;9;0.96;0.21;0.12;C;-16.36;Major;179.78
+613;A Capella;The Singers Unlimited;Lullaby;9;0.98;0.22;0.07;C#;-19.45;Major;81.99
+614;A Capella;The Singers Unlimited;More I Can Not Wish You;8;0.98;0.27;0.05;G#;-19.34;Major;83.38
+615;A Capella;Glad;God so Loved the World;5;0.83;0.21;0.16;F;-13.35;Major;74.85
+616;A Capella;The King's Singers;What Child Is This?;10;0.98;0.28;0.09;D#;-25.28;Minor;90.38
+617;A Capella;The King's Singers;The Little Drummer Boy;10;0.99;0.3;0.02;E;-29.37;Major;119.45
+618;A Capella;Hyannis Sound;Faithfully;3;0.56;0.48;0.38;B;-7.01;Major;129.88
+619;A Capella;Hyannis Sound;Long Train Runnin';4;0.6;0.67;0.77;G;-4.91;Minor;116.91
+620;A Capella;The Singers Unlimited;Yesterday;7;0.99;0.16;0.03;A;-22.45;Minor;181.71
+621;A Capella;The Singers Unlimited;I Don't Know Where I Stand;5;0.98;0.18;0.07;A#;-18.92;Minor;78.82
+622;A Capella;The Swingle Singers;The Christmas Song (Merry Christmas to You);9;0.86;0.71;0.34;B;-19.16;Minor;130.01
+623;A Capella;The Swingle Singers;Rockin' Around the Christmas Tree;10;0.69;0.61;0.28;G#;-14.52;Major;160.14
+624;A Capella;The Singers Unlimited;April in Paris;6;0.97;0.23;0.09;A#;-17.61;Minor;123.62
+625;A Capella;The Singers Unlimited;Lost in the Stars;6;0.97;0.32;0.06;D#;-18.56;Major;118.64
+626;A Capella;The Singers Unlimited;Sweet Lorraine;7;0.96;0.37;0.16;E;-14.69;Minor;106.2
+627;A Capella;The Singers Unlimited;Girl Talk;8;0.98;0.41;0.16;C;-15.03;Major;81.19
+628;A Capella;The Swingle Singers;Santa Baby;9;0.92;0.72;0.12;C#;-18.93;Major;90.1
+629;A Capella;The Singers Unlimited;Love Is Here to Stay;7;0.97;0.27;0.12;D;-18.07;Minor;110.12
+630;A Capella;Glad;Alleluia;4;0.9;0.15;0.17;D;-14.63;Major;74.77
+631;A Capella;The King's Singers;Santa Claus Is Coming to Town;10;0.88;0.66;0.22;C;-13.45;Major;120.28
+632;A Capella;The King's Singers;Jingle Bells;9;0.99;0.57;0.23;E;-22.88;Major;79.29
+633;A Capella;The Singers Unlimited;Anything Goes;4;0.92;0.46;0.15;F;-14.81;Major;137.52
+634;A Capella;The Singers Unlimited;Since You've Asked;6;0.99;0.28;0.09;G;-16.95;Major;79.1
+635;A Capella;The Singers Unlimited;One More Time, Chuck Corea;4;0.91;0.32;0.19;C;-14.23;Major;98.86
+636;A Capella;The Singers Unlimited;Someone to Light Up My Life;4;0.95;0.26;0.13;G;-15.02;Minor;88.85
+637;A Capella;The King's Singers;Winter Wonderland;8;0.95;0.53;0.17;C#;-14.46;Major;118.11
+638;A Capella;The King's Singers;It's Beginning to Look a Lot Like Christmas;9;0.95;0.4;0.18;B;-15.17;Major;82.06
+639;A Capella;The King's Singers;White Christmas;8;0.9;0.36;0.2;C#;-15.2;Major;129.7
+640;A Capella;The UNCG Spartones;Something's Missing (A Capella) [Bonus Track];1;0.87;0.28;0.45;C#;-6.22;Minor;130.48
+641;A Capella;Hyannis Sound;Heart of the Matter;0;0.49;0.62;0.51;B;-7.7;Major;91.02
+642;A Capella;Hyannis Sound;Use Somebody;2;0.43;0.51;0.52;C;-7.0;Major;138.07
+643;A Capella;Hyannis Sound;Falling Slowly;1;0.93;0.2;0.23;C;-9.04;Major;145.38
+644;A Capella;Hyannis Sound;Absolutely (Story of a Girl);1;0.57;0.62;0.57;G;-6.09;Major;100.91
+645;A Capella;Hyannis Sound;Carolina in My Mind;1;0.89;0.47;0.26;E;-9.47;Major;75.43
+646;A Capella;Hyannis Sound;Would You Go With Me;1;0.83;0.62;0.58;D#;-8.5;Minor;123.03
+647;A Capella;Hyannis Sound;Clarity;0;0.8;0.65;0.46;D;-8.9;Major;93.03
+648;A Capella;Hyannis Sound;Ok, It's Alright With Me;1;0.48;0.68;0.52;C;-6.65;Major;151.95
+649;A Capella;Hyannis Sound;I Still Haven't Found What I'm Looking for;1;0.89;0.31;0.42;C#;-6.35;Major;113.53
+650;A Capella;Hyannis Sound;Easy;1;0.43;0.55;0.47;A#;-7.45;Minor;128.77
+651;A Capella;Hyannis Sound;Somewhere Only We Know;2;0.61;0.47;0.44;A;-7.62;Major;171.93
+652;A Capella;Hyannis Sound;Last Goodbye;0;0.57;0.29;0.59;D;-7.15;Major;174.32
+653;A Capella;Hyannis Sound;Walking Away;1;0.79;0.26;0.55;A;-8.25;Minor;172.56
+654;A Capella;Hyannis Sound;Why Georgia;1;0.58;0.61;0.39;G;-9.5;Major;97.01
+655;A Capella;The Singers Unlimited;The Entertainer;4;0.98;0.35;0.06;F;-15.69;Major;132.43
+656;A Capella;The Singers Unlimited;Sometimes I Feel Like a Motherless Child;4;0.97;0.27;0.05;G;-19.25;Minor;135.65
+657;A Capella;The Singers Unlimited;Jeanie With the Light Brown Hair;5;0.99;0.3;0.04;G;-20.47;Major;110.06
+658;A Capella;Tonic Sol-Fa;Cecilia;0;0.22;0.76;0.82;A#;-5.3;Major;128.11
+659;A Capella;Tonic Sol-Fa;Boston to Beijing;0;0.15;0.76;0.65;G#;-7.56;Major;106.52
+660;A Capella;Tonic Sol-Fa;29 Ways to My Back Door;0;0.66;0.6;0.79;D;-6.78;Major;89.42
+661;A Capella;The King's Singers;Straighten up and Fly Right;0;0.95;0.67;0.14;A#;-18.65;Minor;129.66
+662;A Capella;The King's Singers;Beyond the Sea;1;0.92;0.64;0.09;F;-19.46;Major;119.8
+663;A Capella;The King's Singers;The Lady Is a Tramp;0;0.9;0.53;0.12;C;-18.76;Major;72.14
+664;A Capella;The King's Singers;I've Got You Under My Skin;1;0.96;0.38;0.07;F;-21.11;Minor;95.67
+665;A Capella;The King's Singers;Cheek to Cheek;0;0.95;0.47;0.06;A;-21.22;Major;124.65
+666;A Capella;The King's Singers;When I Fall in Love;0;0.96;0.16;0.06;E;-20.25;Major;172.26
+667;A Capella;The King's Singers;At Last;1;0.95;0.4;0.09;D;-19.27;Major;96.11
+668;A Capella;The King's Singers;Night and Day;1;0.96;0.35;0.1;B;-18.01;Major;122.19
+669;A Capella;The King's Singers;Cry Me a River;1;0.96;0.26;0.05;A#;-21.52;Minor;107.43
+670;A Capella;The King's Singers;My Funny Valentine;1;0.97;0.23;0.05;G#;-21.84;Major;80.23
+671;Alternative;Joji;Sanctuary;83;0.42;0.55;0.65;C#;-7.2;Major;167.79
+672;Alternative;Joji;SLOW DANCING IN THE DARK;81;0.54;0.52;0.48;D#;-7.46;Major;88.96
+673;Alternative;Joji;YEAH RIGHT;76;0.62;0.67;0.59;C#;-9.57;Major;169.03
+674;Alternative;Oliver Tree;Alien Boy;73;0.11;0.8;0.6;C#;-5.17;Major;130.11
+675;Alternative;Joji;CAN'T GET OVER YOU (feat. Clams Casino);74;0.68;0.9;0.32;A;-8.8;Major;129.91
+676;Alternative;88-Keys;That's Life (feat. Mac Miller & Sia);73;0.24;0.53;0.77;A;-4.53;Major;154.19
+677;Alternative;Smash Mouth;All Star;78;0.03;0.73;0.86;B;-5.88;Major;104.03
+678;Alternative;Jhene Aiko;Triggered (freestyle);73;0.81;0.47;0.41;C;-9.5;Major;89.48
+679;Alternative;Gorillaz;Feel Good Inc.;77;0.01;0.82;0.7;F#;-6.68;Major;138.56
+680;Alternative;Nirvana;Smells Like Teen Spirit;72;0.0;0.52;0.91;C#;-4.53;Major;116.78
+681;Alternative;Oliver Tree;Hurt;71;0.02;0.56;0.78;C;-5.86;Major;94.0
+682;Alternative;Red Hot Chili Peppers;Under the Bridge;78;0.06;0.56;0.34;E;-13.5;Major;84.58
+683;Alternative;Grouplove;Tongue Tied;76;0.01;0.56;0.94;D#;-5.83;Major;112.96
+684;Alternative;Oliver Tree;Miracle Man;71;0.07;0.68;0.46;C;-8.18;Major;139.98
+685;Alternative;Summer Walker;Girls Need Love (with Drake) - Remix;75;0.44;0.66;0.43;F#;-9.48;Minor;97.02
+686;Alternative;Joji;TEST DRIVE;72;0.71;0.65;0.65;D#;-8.6;Major;75.0
+687;Alternative;The Neighbourhood;Sweater Weather;75;0.05;0.61;0.81;A#;-2.81;Major;124.05
+688;Country;Cam;My Mistake;45;0.01;0.55;0.7;G#;-5.43;Major;97.08
+689;Country;Kevin Fowler;That Girl;42;0.03;0.38;0.86;G;-3.24;Major;74.06
+690;Country;Roger Miller;Chug-A-Lug;46;0.69;0.7;0.41;B;-11.46;Major;171.92
+691;Country;M. Ward;Chinese Translation;54;0.15;0.56;0.73;D;-8.94;Major;107.72
+692;Country;Chris Cagle;Anywhere But Here;42;0.57;0.64;0.48;B;-6.96;Major;136.72
+693;Country;Cassadee Pope;I Wish I Could Break Your Heart;44;0.13;0.43;0.85;G#;-4.17;Major;199.9
+694;Country;Mark Chesnutt;Too Cold At Home;41;0.2;0.64;0.41;D;-12.9;Major;92.83
+695;Country;Gary Allan;Get Off On The Pain;42;0.03;0.39;0.87;C;-4.53;Major;168.1
+696;Country;Hank Williams, Jr.;Old Habits;42;0.17;0.63;0.44;D;-14.09;Major;106.11
+697;Country;Ryan Adams;When The Stars Go Blue;52;0.47;0.59;0.2;A#;-13.3;Major;90.02
+698;Country;Jason Aldean;Fast;41;0.29;0.54;0.67;F#;-5.19;Major;132.09
+699;Country;Adam Sanders;Sippin' on the Good Times;42;0.06;0.51;0.76;E;-7.97;Major;156.09
+700;Country;Linda Ronstadt;Don't Know Much (with Aaron Neville);58;0.66;0.4;0.28;B;-11.01;Major;130.47
+701;Country;Tommy Chayne;King of the Pines (feat. Upchurch);44;0.02;0.73;0.81;B;-5.38;Minor;150.0
+702;Country;The Reklaws;Long Live The Night;51;0.01;0.55;0.78;G;-5.56;Major;126.97
+703;Country;Pistol Annies;Sugar Daddy;43;0.01;0.65;0.87;C;-6.03;Minor;129.26
+704;Country;Carrie Underwood;Chaser;45;0.06;0.49;0.78;C;-4.13;Major;120.0
+705;Country;Colter Wall;Thinkin' on a Woman;47;0.48;0.42;0.32;D;-10.99;Major;203.84
+706;Country;Bobby Bare;The Winner;43;0.77;0.69;0.54;G;-10.15;Major;129.3
+707;Country;Chris Lane;Laps Around The Sun;42;0.2;0.58;0.78;F#;-4.4;Major;158.09
+708;Country;Holly Dunn;Daddy's Hands;45;0.54;0.55;0.27;D;-9.78;Major;76.51
+709;Country;Brooks & Dunn;Proud of the House We Built;43;0.07;0.62;0.79;F#;-4.97;Major;119.99
+710;Country;Blake Shelton;100 Miles;42;0.1;0.59;0.61;E;-5.11;Major;106.1
+711;Country;Miranda Lambert;Things That Break;42;0.24;0.51;0.56;G#;-8.88;Minor;135.34
+712;Country;Blake Shelton;Never Lovin' You;42;0.02;0.59;0.71;A;-6.23;Major;79.0
+713;Country;Sonny Bama;Lady Karma;44;0.09;0.61;0.65;F#;-7.88;Minor;167.94
+714;Country;America;I Need You;58;0.58;0.53;0.47;G;-10.43;Major;134.1
+715;Country;Gone West;Confetti;44;0.02;0.61;0.84;C;-5.59;Major;183.99
+716;Country;Morgan Wallen;Yin Yang Girl;43;0.09;0.53;0.9;C;-4.94;Major;170.05
+717;Country;Jamey Johnson;Playing The Part;42;0.29;0.59;0.63;D;-9.62;Major;120.32
+718;Country;Adam Sanders;About To;42;0.03;0.64;0.67;G;-6.24;Major;88.02
+719;Country;Morgan Wallen;Man of the South;43;0.01;0.41;0.89;D;-3.92;Major;177.97
+720;Country;Dolly Parton;Push and Pull - from the Dumplin' Original Motion Picture Soundtrack;46;0.28;0.68;0.46;C;-6.59;Major;127.95
+721;Country;Anne Murray;Could I Have This Dance;55;0.78;0.48;0.34;A;-9.83;Major;87.31
+722;Country;Conway Twitty;It's Only Make Believe;42;0.88;0.46;0.39;B;-11.52;Major;83.27
+723;Country;Merle Haggard;Twinkle, Twinkle Lucky Star;44;0.84;0.66;0.34;E;-14.98;Major;81.64
+724;Country;Gillian Welch;Everything Is Free;48;0.94;0.69;0.14;C;-14.7;Major;101.65
+725;Country;Cal Smith;Country Bumpkin;44;0.7;0.58;0.33;G;-14.92;Major;94.76
+726;Country;Blake Shelton;The Baby;42;0.31;0.34;0.53;E;-6.91;Major;172.61
+727;Country;Brad Paisley;You'll Never Leave Harlan Alive;44;0.47;0.54;0.3;D;-11.09;Minor;73.32
+728;Country;Ryan Bingham;Pontiac;44;0.09;0.55;0.86;E;-3.31;Major;148.11
+729;Country;Cash Campbell;Don't Wanna Think About It - Acoustic;47;0.86;0.63;0.29;A;-10.63;Major;114.8
+730;Country;Casey Donahew;Feels This Right;43;0.01;0.51;0.96;A;-2.57;Major;180.08
+731;Country;Sam Hunt;Vacation - Acoustic Mixtape;43;0.43;0.77;0.55;C;-6.41;Major;86.0
+732;Country;Mitchell Tenpenny;If the Boot Fits - Acoustic;43;0.45;0.41;0.42;D#;-10.49;Major;161.76
+733;Country;Chris Lane;One Girl;42;0.3;0.7;0.74;B;-4.33;Major;134.94
+734;Country;Andrew Hyatt;My Kind Of Crazy;53;0.64;0.52;0.55;G;-7.98;Major;80.0
+735;Country;Sturgill Simpson;It Ain't All Flowers;46;0.04;0.36;0.61;E;-9.41;Major;152.84
+736;Country;Travis Tritt;Can I Trust You With My Heart - 2006 Remastered Version;42;0.42;0.49;0.48;D;-7.48;Major;141.58
+737;Country;Josh Ward;Between An Old Memory & Me;42;0.04;0.48;0.59;G#;-7.01;Major;75.03
+738;Country;Luke Bryan;Like We Ain't Ever;43;0.0;0.6;0.89;D;-4.07;Major;107.98
+739;Country;Crosby, Stills & Nash;Love the One You're With;56;0.07;0.61;0.49;C;-12.9;Major;97.16
+740;Country;Keith Urban;Boy Gets A Truck;44;0.01;0.65;0.69;C#;-7.07;Major;117.03
+741;Country;Dr. Hook;Cover of the Rolling Stone;54;0.36;0.65;0.47;A;-13.1;Major;142.18
+742;Country;Tim McGraw;My Old Friend;42;0.21;0.46;0.82;E;-7.66;Major;184.0
+743;Country;Luke Bryan;My Ol' Bronco;43;0.03;0.41;0.9;E;-4.28;Major;164.04
+744;Country;The Lacs;Make Things Right;43;0.28;0.68;0.59;C;-6.79;Minor;81.0
+745;Country;Chase Rice;U Turn;42;0.0;0.59;0.85;F;-4.38;Major;144.05
+746;Country;Eli Young Band;Small Town Kid;41;0.03;0.65;0.57;G;-6.15;Major;83.05
+747;Country;Kip Moore;Drive Me Crazy;43;0.01;0.62;0.77;A#;-4.08;Major;113.91
+748;Country;Lee Brice;You Can't Help Who You Love;43;0.29;0.57;0.62;A#;-7.63;Major;128.13
+749;Country;Alabama;Feels So Right;42;0.56;0.54;0.32;A#;-14.99;Major;90.5
+750;Country;Jelly Roll;Killin' Me;44;0.16;0.61;0.67;E;-5.88;Minor;130.08
+751;Country;Justin Moore;Back That Thing Up;41;0.05;0.68;0.9;C#;-4.31;Major;108.03
+752;Country;Jake Owen;Keepin' It Country;43;0.0;0.43;0.93;C#;-3.27;Minor;171.0
+753;Country;Little Big Town;Beat Up Bible;43;0.73;0.48;0.43;C#;-6.93;Major;130.12
+754;Country;Tyler Farr;Suffer in Peace;43;0.04;0.48;0.51;C#;-5.58;Major;135.84
+755;Country;Bachman-Turner Overdrive;Let It Ride;52;0.16;0.63;0.78;F#;-11.4;Minor;104.8
+756;Country;Dead Man Winter;Destroyer;51;0.01;0.51;0.81;C;-6.78;Major;121.8
+757;Country;Bo Phillips;Peace on Earth;43;0.14;0.56;0.5;G;-6.9;Major;155.95
+758;Country;Chris Janson;Redneck Life;43;0.0;0.51;0.96;A;-4.39;Major;170.03
+759;Country;Jim James;Here In Spirit;53;0.01;0.53;0.56;B;-5.95;Minor;80.04
+760;Country;Stephanie Quayle;If I Was a Cowboy;44;0.44;0.67;0.61;F;-4.85;Major;100.0
+761;Country;Kip Moore;Reckless (Still Growin' Up);43;0.06;0.61;0.77;F#;-5.92;Major;157.92
+762;Country;Trace Adkins;Jesus and Jones;43;0.03;0.5;0.84;C#;-5.28;Major;138.09
+763;Country;Vern Gosdin;Set 'Em Up Joe;40;0.42;0.85;0.4;D;-12.53;Major;120.05
+764;Country;Kelsea Ballerini;Machine Heart;47;0.17;0.61;0.62;A;-5.81;Major;115.0
+765;Country;LeAnn Rimes;One Way Ticket (Because I Can);44;0.03;0.7;0.78;C#;-7.28;Major;119.93
+766;Country;Montgomery Gentry;Where I Come From (Remix) [feat. Colt Ford & The Lacs];42;0.04;0.76;0.75;C#;-5.62;Major;104.99
+767;Country;Josh Abbott Band;Kinda Missing You;43;0.0;0.52;0.88;D;-4.4;Major;96.54
+768;Country;Demun Jones;World Went to Waste;43;0.35;0.8;0.64;C;-6.17;Minor;105.0
+769;Country;Fred Eaglesmith;Trucker Speed;43;0.91;0.75;0.11;G;-13.8;Major;130.22
+770;Country;Dwight Yoakam;Guitars, Cadillacs - Remastered;44;0.34;0.56;0.91;A;-3.82;Major;172.32
+771;Country;Alabama;40 Hour Week (For A Livin');43;0.12;0.58;0.44;E;-14.64;Major;85.21
+772;Country;Tyler Farr;Chicks, Trucks, and Beer - feat. Colt Ford;43;0.01;0.64;0.92;G;-5.51;Major;109.02
+773;Country;Darius Rucker;Twenty Something;43;0.41;0.4;0.62;C;-6.46;Major;84.77
+774;Country;Zac Brown Band;The Wind - Greatest Hits Version;44;0.2;0.69;0.95;F#;-4.11;Major;136.07
+775;Country;Tanya Tucker;Love Me Like You Used To;43;0.73;0.55;0.23;A#;-13.85;Major;89.19
+776;Country;Kristian Bush;Trailer Hitch;43;0.25;0.72;0.86;F;-4.16;Major;93.02
+777;Country;Aaron Lewis;Stuck In These Shoes;43;0.1;0.61;0.41;F#;-6.88;Major;112.0
+778;Country;Turnpike Troubadours;The Winding Stair Mountain Blues;43;0.01;0.42;0.92;E;-5.3;Minor;123.95
+779;Country;Sunny Sweeney;From A Table Away;42;0.04;0.55;0.81;G#;-4.34;Major;110.03
+780;Country;George Jones;Golden Ring;45;0.53;0.53;0.52;B;-12.32;Major;83.19
+781;Country;King Calaway;Rivers;42;0.01;0.59;0.65;D;-6.34;Major;105.95
+782;Country;Todd Rundgren;I Saw the Light;51;0.05;0.58;0.83;C;-8.29;Major;119.88
+783;Country;Clint Black;Put Yourself In My Shoes;42;0.58;0.74;0.41;A;-11.09;Major;104.65
+784;Country;Phil Vassar;In a Real Love;42;0.15;0.57;0.8;A;-5.2;Major;90.91
+785;Country;Willie Nelson;Hello Walls;44;0.59;0.62;0.27;C;-12.0;Major;101.91
+786;Country;Craig Morgan;More Trucks Than Cars;42;0.41;0.48;0.9;C#;-4.2;Major;168.08
+787;Country;Lorrie Morgan;Except for Monday;42;0.09;0.65;0.6;G;-12.04;Major;170.13
+788;Country;A Thousand Horses;My Time's Comin';45;0.0;0.33;0.83;C;-4.95;Major;171.79
+789;Country;David Allan Coe;Roll On 18 Wheeler;43;0.49;0.59;0.46;E;-11.28;Major;136.13
+790;Country;Turnpike Troubadours;Come as You Are;42;0.28;0.48;0.37;E;-7.73;Major;118.26
+791;Country;Cole Swindell;Get Me Some of That;43;0.27;0.58;0.75;F#;-5.87;Major;171.99
+792;Country;Upchurch;Welcome to the Country;43;0.05;0.69;0.69;C#;-6.53;Major;153.99
+793;Country;Jimmie Allen;Warrior;42;0.05;0.51;0.63;F#;-6.57;Minor;151.99
+794;Country;Chris Smither;Cave Man;48;0.86;0.52;0.33;G;-10.56;Major;84.46
+795;Country;Dylan Scott;Thinking Out Loud;42;0.76;0.56;0.37;G;-11.92;Major;73.26
+796;Country;Haley & Michaels;All Out;45;0.01;0.56;0.87;B;-6.29;Minor;99.97
+797;Country;Kenny Chesney;Beer Can Chicken;42;0.0;0.43;0.87;G;-4.61;Major;164.03
+798;Dance;VERIVERY;Ring Ring Ring;53;0.15;0.79;0.94;D;-2.85;Major;108.0
+799;Dance;Deerhunter;Death in Midsummer;57;0.09;0.31;0.76;D;-6.68;Major;91.47
+800;Dance;Gwen Stefani;Wind It Up;48;0.34;0.96;0.9;C;-6.9;Minor;120.01
+801;Dance;Johnny Hates Jazz;Shattered Dreams - Remastered;59;0.03;0.66;0.72;A#;-9.42;Major;121.31
+802;Dance;OMI;Cheerleader - Felix Jaehn Remix;43;0.1;0.73;0.68;E;-5.87;Major;118.03
+803;Dance;Love;Alone Again Or - 2015 Remastered Version;59;0.66;0.32;0.3;B;-15.57;Minor;174.25
+804;Dance;The Naked And Famous;Higher;53;0.01;0.46;0.77;F#;-5.38;Major;184.07
+805;Dance;3LAU;How You Love Me;53;0.18;0.51;0.8;C#;-3.63;Major;127.93
+806;Dance;James Arthur;Is This Love?;56;0.02;0.56;0.86;D;-4.86;Major;140.04
+807;Dance;Britney Spears;Overprotected - Radio Edit;60;0.04;0.68;0.89;C;-1.73;Minor;95.99
+808;Dance;Marc E. Bassy;So Simple;51;0.23;0.75;0.58;E;-7.48;Minor;92.04
+809;Dance;Echo & the Bunnymen;Bring on the Dancing Horses;59;0.01;0.57;0.93;D;-5.27;Major;118.45
+810;Dance;August Alsina;Be Love;53;0.01;0.5;0.49;A#;-10.8;Minor;102.12
+811;Dance;New Kids On The Block;Hangin' Tough;49;0.12;0.76;0.55;F#;-11.98;Major;90.78
+812;Dance;Twin Shadow;Brace (feat. Rainsford);57;0.42;0.69;0.56;A#;-5.81;Major;67.99
+813;Dance;T.I.;More & More (feat. Jeezy);51;0.0;0.31;0.73;E;-4.46;Minor;56.98
+814;Dance;Pitbull;Piensas (Dile la Verdad);54;0.0;0.52;0.94;A;-4.48;Minor;107.11
+815;Dance;SHINee;Good Evening;55;0.04;0.68;0.81;G#;-4.16;Major;119.98
+816;Dance;Robyn;Beach2k20;47;0.02;0.82;0.51;B;-10.83;Minor;121.32
+817;Dance;Tungevaag & Raaban;Bad Boy (feat. Luana Kiara);68;0.13;0.64;0.89;C;-1.1;Minor;180.04
+818;Dance;Timmy Trumpet;Oracle;67;0.04;0.69;0.77;F#;-5.65;Major;140.08
+819;Dance;Birdy;Strange Birds;45;0.57;0.54;0.38;G;-7.68;Minor;78.13
+820;Dance;Paulina Rubio;El Ultimo Adios;60;0.01;0.54;0.78;D;-8.81;Major;83.01
+821;Dance;Samantha Mumba;Gotta Tell You;43;0.23;0.73;0.75;C;-4.48;Minor;110.01
+822;Dance;Meghan Trainor;Mr. Almost;52;0.02;0.8;0.64;A;-6.85;Major;105.02
+823;Dance;Ja Rule;Wonderful;62;0.27;0.66;0.78;B;-5.01;Minor;92.52
+824;Dance;Flo Rida;Sugar (feat. Wynter);54;0.04;0.74;0.87;C#;-4.15;Major;130.0
+825;Dance;Steve Aoki;Rage the Night Away;51;0.0;0.7;0.86;A#;-4.57;Minor;128.01
+826;Dance;Phantogram;Same Old Blues;51;0.07;0.58;0.71;F#;-3.34;Minor;122.05
+827;Dance;Meghan Trainor;No Good For You;53;0.2;0.48;0.49;D;-5.04;Major;95.24
+828;Dance;Lil' Kim;Go Awff;53;0.23;0.61;0.64;G#;-5.26;Major;59.96
+829;Dance;Nicki Minaj;Nip Tuck;54;0.01;0.85;0.62;G#;-7.08;Major;119.96
+830;Dance;DJ Khaled;How Many Times;54;0.09;0.8;0.7;A#;-4.32;Minor;116.02
+831;Dance;Syn Cole;Miami 82 - Kygo Remix;61;0.18;0.71;0.6;D;-7.1;Minor;113.0
+832;Dance;Friendly Fires;Paris (Aeroplane Remix);54;0.01;0.7;0.72;C#;-6.62;Minor;112.01
+833;Dance;Justice;Safe and Sound;55;0.0;0.6;0.79;F#;-5.2;Minor;115.0
+834;Dance;Bea Miller;burning bridges;55;0.1;0.6;0.77;E;-4.23;Minor;132.02
+835;Dance;Hardwell;Bella Ciao;68;0.0;0.62;0.89;E;-4.69;Minor;129.99
+836;Dance;Sabrina Carpenter;Shadows;52;0.58;0.53;0.56;C;-3.11;Minor;125.36
+837;Dance;Blonde;Just For One Night (feat. Astrid S);57;0.28;0.81;0.54;G#;-8.48;Minor;118.0
+838;Dance;Carrie Underwood;I Told You So - feat. Randy Travis;50;0.54;0.39;0.55;G#;-3.53;Major;147.51
+839;Dance;Kelly Clarkson;Walk Away;50;0.01;0.75;0.89;C;-4.52;Major;115.97
+840;Dance;Train;Mermaid;52;0.01;0.72;0.88;G#;-3.46;Major;104.01
+841;Dance;Gente De Zona;El Mentiroso;0;0.1;0.78;0.84;G;-4.7;Minor;96.98
+842;Dance;The Kills;Doing It To Death;56;0.28;0.64;0.69;A;-8.03;Major;132.99
+843;Dance;SHINee;누난 너무 예뻐 (Replay) - Live;56;0.18;0.7;0.71;C#;-5.49;Major;99.99
+844;Dance;Grizzly Bear;Ready, Able;58;0.23;0.43;0.46;C;-9.72;Major;152.57
+845;Dance;Prince Royce;Amor Prohibido;54;0.09;0.77;0.77;G#;-6.37;Major;126.07
+846;Dance;Sara Bareilles;Send Me The Moon;55;0.54;0.42;0.39;A#;-9.94;Major;161.54
+847;Dance;Christina Aguilera;Your Body;58;0.0;0.59;0.78;G#;-5.29;Minor;103.02
+848;Dance;DNCE;DNCE;53;0.01;0.83;0.72;C#;-5.88;Minor;114.05
+849;Dance;Jack & Jack;Distraction;51;0.19;0.65;0.52;F#;-8.91;Major;112.07
+850;Dance;Blackstreet;Don't Leave Me;50;0.05;0.79;0.54;D;-5.07;Minor;81.83
+851;Dance;Allie X;Casanova;55;0.17;0.75;0.84;B;-3.85;Minor;110.0
+852;Dance;Beyoncé;Video Phone - Extended Remix featuring Lady Gaga;55;0.0;0.32;0.78;G#;-7.37;Major;78.05
+853;Dance;P!nk;Trouble;45;0.01;0.57;0.93;G;-2.7;Major;135.52
+854;Dance;Fifth Harmony;Write On Me;57;0.36;0.44;0.69;G;-5.43;Minor;189.88
+855;Dance;Transviolet;Girls Your Age;53;0.45;0.43;0.4;C;-9.55;Minor;139.25
+856;Dance;DJ Snake;Maradona Riddim;57;0.11;0.72;0.69;A;-4.75;Minor;117.93
+857;Dance;Jesse McCartney;She's No You;51;0.08;0.55;0.88;E;-4.25;Minor;89.87
+858;Dance;DVBBS;Listen Closely (feat. SAFE);59;0.05;0.71;0.83;F;-3.98;Major;98.45
+859;Dance;Alessia Cara;The Other Side (Alessia Cara Version);56;0.28;0.43;0.57;C#;-6.04;Minor;150.0
+860;Dance;Ellie Goulding;Don't Need Nobody;49;0.11;0.71;0.66;E;-6.0;Minor;99.01
+861;Dance;Syn Cole;Feel Good;63;0.17;0.63;0.88;C;-3.46;Minor;123.97
+862;Dance;Cheap Trick;The Flame;63;0.51;0.63;0.58;E;-11.86;Major;97.07
+863;Dance;Kesha;Spaceship;49;0.79;0.5;0.61;E;-7.67;Major;158.09
+864;Dance;Janet Jackson;If;52;0.04;0.65;0.98;B;-5.17;Minor;105.58
+865;Dance;Trey Songz;Rotation (feat. Dave East);51;0.0;0.76;0.57;A;-6.22;Major;80.5
+866;Dance;Enrique Iglesias;Heart Attack;49;0.07;0.43;0.9;E;-4.06;Major;154.05
+867;Dance;Vicetone;Astronomia;65;0.01;0.65;0.94;F;-2.63;Major;126.09
+868;Dance;Mike Perry;Inside the Lines;52;0.07;0.56;0.8;G#;-4.58;Major;96.99
+869;Dance;Poolside;Esperar Pra Ver;55;0.03;0.78;0.7;F#;-7.86;Minor;99.99
+870;Dance;Jordin Sparks;This Is My Now;56;0.2;0.47;0.56;F#;-5.37;Major;147.91
+871;Dance;Mario;Music For Love;53;0.11;0.7;0.42;C;-5.86;Major;123.43
+872;Dance;Chris Brown;This X-Mas;50;0.12;0.64;0.59;A#;-5.91;Major;98.03
+873;Dance;Janet Jackson;Love Will Never Do (Without You);45;0.14;0.75;0.95;C#;-8.81;Major;103.18
+874;Dance;Lostboycrow;Powers;52;0.52;0.49;0.48;A;-7.63;Minor;159.92
+875;Dance;5 Seconds of Summer;Invisible;52;0.06;0.46;0.34;D;-9.84;Major;86.5
+876;Dance;DJ Snake;A Different Way - DEVAULT Remix;53;0.29;0.71;0.8;F;-7.63;Minor;105.05
+877;Dance;Christina Aguilera;Tough Lover - Burlesque Original Motion Picture Soundtrack;48;0.62;0.54;0.7;C#;-5.29;Major;94.38
+878;Dance;Niykee Heaton;Nexus;51;0.13;0.78;0.65;C#;-6.41;Major;97.02
+879;Dance;CAZZETTE;Sleepless - Radio Edit;58;0.14;0.72;0.64;F#;-9.6;Minor;124.0
+880;Dance;Sky Ferreira;Everything Is Embarrassing;50;0.05;0.67;0.79;C;-5.71;Major;117.13
+881;Dance;MARINA;Solitaire;47;0.77;0.63;0.44;G;-11.49;Minor;109.0
+882;Dance;Avicii;Liar Liar;58;0.01;0.57;0.79;B;-4.63;Minor;125.0
+883;Dance;Aphex Twin;Xtal;55;0.34;0.51;0.51;A;-13.05;Minor;114.53
+884;Dance;Ellie Goulding;Lights - Bassnectar Remix - Bonus Track;46;0.01;0.53;0.8;C#;-4.88;Major;140.0
+885;Dance;*NSYNC;No Strings Attached;48;0.0;0.67;0.97;G;-4.46;Major;111.05
+886;Dance;Jamiroquai;Seven Days in Sunny June;61;0.2;0.71;0.8;G;-7.14;Major;105.39
+887;Dance;SISTAR;SHAKE IT;55;0.02;0.78;0.96;B;-2.57;Minor;119.0
+888;Dance;Toro y Moi;Lilly;51;0.04;0.47;0.65;D#;-6.5;Major;139.97
+889;Dance;The Chainsmokers;Don't Let Me Down - Hardwell & Sephyx Remix;60;0.09;0.51;0.9;G#;-3.42;Minor;149.86
+890;Dance;Chris Brown;Lost & Found;51;0.65;0.48;0.53;F#;-8.01;Minor;134.8
+891;Dance;Carrie Underwood;Southbound;51;0.0;0.61;0.88;C;-4.02;Major;100.53
+892;Dance;Patti Smith;Because the Night;65;0.05;0.47;0.76;B;-7.75;Minor;123.54
+893;Dance;Soulja Boy;Hml;54;0.08;0.83;0.44;B;-6.85;Minor;139.93
+894;Dance;Donell Jones;Have You Seen Her;52;0.03;0.74;0.44;B;-6.61;Minor;123.64
+895;Dance;Broods;Four Walls;51;0.23;0.62;0.65;C;-7.22;Major;119.99
+896;Dance;Casino Versus Japan;Aquarium;47;0.77;0.61;0.37;C#;-14.75;Major;75.01
+897;Dance;Big Time Rush;We Are;50;0.0;0.53;0.88;A;-3.91;Major;130.1
+898;Dance;Nick Jonas;Remember I Told You;57;0.14;0.65;0.54;C#;-5.74;Major;112.86
+899;Country;Bobby Bare;500 Miles Away from Home;48;0.66;0.52;0.37;G;-13.12;Major;109.25
+900;Country;Blake Shelton;Just South Of Heaven;43;0.35;0.65;0.64;A#;-7.21;Major;149.89
+901;Country;Mike Ryan;Bad Reputation;42;0.03;0.65;0.8;B;-5.08;Minor;105.02
+902;Country;Alan Jackson;That'd Be Alright;45;0.23;0.67;0.73;D;-8.79;Major;134.38
+903;Country;Adam Craig;Reckon;42;0.14;0.58;0.86;C;-3.81;Major;116.01
+904;Country;The Oak Ridge Boys;Y'all Come Back Saloon;42;0.12;0.69;0.43;D;-14.9;Major;82.73
+905;Country;Keith Urban;Your Body;43;0.03;0.61;0.88;D;-6.02;Major;99.49
+906;Country;Jamey Johnson;Four Walls Of Raiford - Live;42;0.78;0.43;0.36;A#;-8.13;Major;102.14
+907;Country;Upchurch;Conspiracy;43;0.02;0.77;0.56;D;-10.82;Major;139.03
+908;Country;Trace Adkins;Whoop A Man's Ass;41;0.0;0.54;0.93;D;-5.41;Major;145.87
+909;Country;Jon Langston;'Til Sunrise;41;0.02;0.47;0.88;A;-4.39;Major;145.97
+910;Country;Chris Young;Hold You To It;42;0.09;0.59;0.83;G;-3.23;Major;81.06
+911;Country;The Lacs;Left Of Me;43;0.2;0.7;0.68;F#;-5.71;Major;143.95
+912;Country;Gary Stewart;She's Actin' Single (I'm Drinkin' Doubles);43;0.68;0.7;0.45;F#;-11.02;Major;109.33
+913;Country;Wynonna;I Saw The Light;41;0.18;0.67;0.82;B;-6.62;Major;151.54
+914;Country;Granger Smith;Remington;42;0.3;0.57;0.67;G#;-8.06;Major;152.11
+915;Country;Carrie Underwood;Do You Think About Me;44;0.63;0.57;0.62;C#;-5.17;Major;77.98
+916;Country;Mark Chesnutt;It Sure Is Monday;41;0.37;0.6;0.65;F;-9.98;Major;146.52
+917;Country;Jason Aldean;Love Was Easy;40;0.09;0.54;0.68;D;-3.89;Minor;144.93
+918;Country;The Judds;Love Is Alive;42;0.23;0.7;0.38;E;-11.28;Major;86.3
+919;Country;Turnpike Troubadours;Sunday Morning Paper;42;0.16;0.57;0.61;F;-6.33;Major;92.2
+920;Country;Rascal Flatts;Skin (Sarabeth);43;0.41;0.49;0.31;D;-9.9;Major;139.88
+921;Country;Dylan Scott;My Town;42;0.1;0.58;0.79;C#;-5.84;Major;134.04
+922;Country;Miranda Lambert;Another Sunday in the South;42;0.12;0.52;0.69;C;-6.13;Major;170.07
+923;Country;Randy Houser;My Kinda Country;43;0.48;0.68;0.77;A#;-4.34;Minor;81.01
+924;Country;Guy Clark;Stuff That Works;44;0.27;0.46;0.1;C;-16.27;Major;147.08
+925;Country;Blake Shelton;Granddaddy's Gun;42;0.56;0.58;0.57;G#;-7.12;Major;75.95
+926;Country;Kyle Park;Leavin' Stephenville;42;0.13;0.53;0.82;G;-3.89;Major;97.98
+927;Country;Chris Lane;Broken Windshield View;42;0.01;0.47;0.94;F;-2.87;Major;150.98
+928;Country;Clay Walker;Jesus Was A Country Boy;41;0.44;0.54;0.59;E;-6.84;Major;81.91
+929;Country;Adam Calhoun;Smoke;43;0.2;0.76;0.72;G#;-6.07;Major;116.94
+930;Country;Pistol Annies;Cheyenne;42;0.01;0.36;0.63;A#;-7.14;Major;158.82
+931;Country;Restless Heart;Why Does It Have to Be (Wrong or Right);41;0.24;0.75;0.49;A;-11.5;Major;88.94
+932;Country;Dirt Rock Empire;Next Time It's 3AM;43;0.01;0.61;0.7;F#;-7.29;Major;93.99
+933;Country;Waylon Jennings;Don't You Think This Outlaw Bit's Done Got out of Hand;42;0.24;0.73;0.56;G;-11.45;Major;119.92
+934;Country;JB and The Moonshine Band;Perfect Girl;42;0.31;0.64;0.69;G;-6.1;Major;74.99
+935;Country;Robert Earl Keen;The Front Porch Song;42;0.71;0.66;0.44;G;-10.45;Major;106.93
+936;Country;Travis Tritt;Drift Off To Dream - 2006 Remastered Version Edit Version;41;0.61;0.53;0.35;G;-6.91;Major;117.97
+937;Country;Matt Mason;Where I've Been;42;0.09;0.59;0.63;G;-9.87;Major;84.76
+938;Country;Hank Williams, Jr.;My Name Is Bocephus;41;0.04;0.44;0.6;A;-7.43;Major;99.69
+939;Country;Hunter Hayes;When Did You Stop Loving Me;42;0.15;0.52;0.42;F#;-7.6;Major;129.91
+940;Country;Kellie Pickler;Didn't You Know How Much I Loved You;41;0.24;0.53;0.8;A;-4.7;Major;137.88
+941;Country;Reba McEntire;If I Were A Boy;41;0.19;0.52;0.54;E;-6.49;Major;180.05
+942;Country;Josh Turner;How Great Thou Art;42;0.87;0.33;0.23;C;-9.77;Major;175.54
+943;Country;Kenny Chesney;Ain't Back Yet;41;0.03;0.6;0.94;A#;-4.24;Major;106.96
+944;Country;Mickey Guyton;Better Than You Left Me;41;0.47;0.57;0.59;A#;-4.47;Major;113.95
+945;Country;Dave Rawlings Machine;To Be Young (Is To Be Sad, Is To Be High);45;0.51;0.36;0.79;A;-6.71;Major;178.2
+946;Country;Kenny Chesney;Be as You Are;41;0.32;0.71;0.35;F#;-11.24;Major;119.97
+947;Country;Jason Aldean;Drink One for Me;41;0.14;0.55;0.65;G;-4.79;Major;90.58
+948;Country;Alan Jackson;How Great Thou Art;43;0.85;0.35;0.2;G#;-10.58;Major;174.52
+949;Country;Jameson Rodgers;Like You've Been There Before;41;0.39;0.63;0.71;D;-4.58;Major;131.95
+950;Country;Brett Eldredge;Phone Call To God;43;0.26;0.33;0.6;B;-7.13;Major;88.24
+951;Country;Miranda Lambert;Love Song;41;0.09;0.42;0.55;F#;-4.27;Major;74.92
+952;Country;Montgomery Gentry;Some People Change;41;0.05;0.55;0.61;D;-6.36;Major;168.19
+953;Country;Cole Swindell;Boomerang;42;0.03;0.55;0.88;B;-3.71;Minor;142.15
+954;Country;Lady Antebellum;Good Time To Be Alive;45;0.07;0.56;0.76;F;-5.16;Major;169.69
+955;Country;Rittz;Bounce;49;0.08;0.83;0.72;G;-9.87;Major;129.98
+956;Country;Adam Calhoun;Sunset (feat. Cossetti);43;0.12;0.67;0.92;D;-8.16;Major;152.0
+957;Country;Kacey Musgraves;See You Again (Acoustic Version);43;0.74;0.65;0.64;A#;-2.51;Minor;131.25
+958;Country;Carrie Underwood;Clock Don't Stop;45;0.08;0.61;0.78;G#;-2.24;Minor;125.02
+959;Country;The Lacs;Drinks Up;43;0.17;0.61;0.69;G;-5.05;Major;79.94
+960;Country;Pistol Annies;Trailer for Rent;42;0.47;0.57;0.56;D;-4.94;Major;128.31
+961;Country;Lady Antebellum;Lay Our Flowers Down;44;0.1;0.56;0.76;F;-3.84;Major;92.92
+962;Country;High Valley;I Be U Be;44;0.01;0.44;0.75;G;-5.88;Major;126.03
+963;Country;Brothers Osborne;Let's Go There;41;0.23;0.57;0.82;C;-3.69;Major;154.02
+964;Country;Upchurch;Running on Fumes (feat. Jelly Roll);43;0.1;0.7;0.69;G;-10.37;Major;90.47
+965;Country;Demun Jones;Boondocks;43;0.01;0.48;0.72;B;-5.62;Minor;82.94
+966;Country;Conway Twitty;Linda on My Mind;44;0.66;0.67;0.39;A;-8.74;Major;108.43
+967;Country;Waylon Jennings;Ain't No God In Mexico;43;0.63;0.76;0.42;D;-13.06;Major;108.18
+968;Country;Johnny Cash;Understand Your Man;44;0.51;0.65;0.51;C;-13.19;Major;92.17
+969;Country;Gary Stewart;An Empty Glass;42;0.11;0.62;0.3;G;-14.96;Major;89.45
+970;Country;Bottleneck;Off the Rails (feat. Upchurch);43;0.03;0.74;0.91;F#;-4.59;Major;134.07
+971;Country;Aaron Lewis;Party in Hell;42;0.34;0.36;0.6;F#;-6.14;Major;94.48
+972;Country;American Aquarium;Losing Side of Twenty Five;46;0.39;0.65;0.61;E;-7.18;Major;135.01
+973;Country;Riley Green;Man Like Me;43;0.03;0.49;0.81;F;-4.4;Major;160.14
+974;Country;Johnny Cash;I Still Miss Someone;46;0.95;0.52;0.31;A#;-11.26;Major;180.19
+975;Country;George Jones;The King Is Gone (So Are You);42;0.45;0.76;0.28;G;-14.79;Major;116.82
+976;Country;Loretta Lynn;Fist City;44;0.71;0.66;0.56;C;-8.74;Major;77.85
+977;Country;Reba McEntire;Somebody's Chelsea;41;0.22;0.48;0.51;G#;-7.03;Major;72.69
+978;Country;Randy Rogers Band;Speak Of The Devil;41;0.2;0.44;0.48;C;-5.89;Major;149.57
+979;Country;Hunter Hayes;Cry With You;41;0.13;0.57;0.53;F;-5.83;Major;90.0
+980;Country;Upchurch;Go for It;43;0.05;0.84;0.56;B;-11.75;Minor;120.92
+981;Country;Sturgill Simpson;Call To Arms;46;0.0;0.33;0.88;B;-5.71;Minor;152.0
+982;Country;Eli Young Band;Oklahoma Girl;41;0.15;0.38;0.72;E;-4.93;Minor;176.07
+983;Country;Hank Williams, Jr.;Texas Women;41;0.57;0.61;0.55;A;-8.49;Major;70.3
+984;Country;Dierks Bentley;How Am I Doin';41;0.12;0.53;0.87;A;-8.01;Major;181.91
+985;Country;Blake Shelton;One Night Girl;43;0.06;0.41;0.75;C;-5.13;Major;167.99
+986;Country;Rittz;I'm Only Human;48;0.21;0.76;0.69;C#;-5.82;Minor;116.99
+987;Country;Aaron Lewis;The Story Never Ends;43;0.22;0.48;0.67;D#;-3.74;Major;135.98
+988;Country;Conway Twitty;I See The Want In Your Eyes;42;0.79;0.46;0.28;G#;-11.17;Major;97.43
+989;Country;Canaan Smith;Good Kinda Bad;41;0.0;0.64;0.9;G#;-4.63;Major;139.97
+990;Country;Smithfield;Pull It Off;39;0.03;0.65;0.88;C#;-3.9;Minor;124.03
+991;Country;Billy Currington;Summer Forever;42;0.07;0.63;0.75;D;-5.38;Minor;127.93
+992;Country;Toby Keith;I Like Girls That Drink Beer;41;0.01;0.64;0.88;C;-4.6;Major;133.05
+993;Country;Miranda Lambert;Old Sh!t;41;0.28;0.42;0.51;D#;-8.6;Major;184.36
+994;Country;Dustin Lynch;She Wants a Cowboy;41;0.01;0.54;0.73;E;-7.06;Major;104.94
+995;Country;Merle Haggard;I'm A White Boy;42;0.74;0.62;0.66;A;-10.87;Major;100.83
+996;Country;Josh Turner;Deep South;42;0.14;0.79;0.88;C;-5.7;Major;116.99
+997;Country;Johnny Cash;Satisfied Mind;47;0.9;0.49;0.24;A;-11.38;Major;141.64
+998;Country;Brett Eldredge;On And On;42;0.23;0.69;0.58;G#;-6.18;Major;183.9
+999;Country;Kelsea Ballerini;Music;46;0.2;0.53;0.63;C#;-6.43;Minor;189.82
+1000;Country;Danielle Bradbery;Can't Stay Mad;42;0.0;0.58;0.57;D;-4.74;Minor;105.02
+1001;Country;Danielle Bradbery;Messy;41;0.08;0.7;0.6;C#;-6.81;Major;108.87
+1002;Country;Daryle Singletary;Old Violin;41;0.04;0.62;0.35;A;-9.15;Major;105.85
+1003;Country;Jefferson Starship;Miracles;53;0.37;0.62;0.34;A;-15.91;Minor;113.23
+1004;Country;Jamey Johnson;Keepin' Up With The Jonesin';41;0.13;0.54;0.55;A;-4.52;Major;127.98
+1005;Country;Chuck Wicks;Us Again;41;0.46;0.5;0.69;C#;-6.42;Major;147.88
+1006;Country;Langhorne Slim;Alligator Girl;52;0.95;0.52;0.3;G;-10.46;Major;67.01
+1007;Country;Jimmie Allen;Deserve to Be;42;0.2;0.63;0.62;G;-5.61;Major;128.04
+1008;Country;Whiskey Myers;Anna Marie;43;0.35;0.6;0.59;C;-8.07;Major;90.49
+1009;Country;Zac Brown Band;Mary;43;0.16;0.64;0.95;E;-5.88;Major;144.99
+1010;Country;Jon Wolfe;That Girl in Texas;42;0.15;0.71;0.7;C;-3.92;Major;119.95
+1011;Country;Buddy Jewell;Help Pour Out the Rain (Lacey's Song);41;0.26;0.56;0.56;C;-7.43;Major;75.03
+1012;Country;Tech N9ne Collabos;Loud;43;0.25;0.86;0.88;C#;-2.64;Minor;140.07
+1013;Country;JT Hodges;Bigger Bottle;42;0.39;0.64;0.46;F;-9.02;Major;92.02
+1014;Country;Jim James;Hide In Plain Sight;52;0.02;0.33;0.62;F;-6.73;Minor;122.86
+1015;Country;Carter Winter;Fight With;42;0.52;0.51;0.62;G;-8.28;Major;76.01
+1016;Country;Marty Robbins;Utah Carol;45;0.72;0.65;0.35;D#;-10.68;Major;169.87
+1017;Country;Seth Ennis;Call Your Mama;42;0.6;0.57;0.48;F#;-7.55;Major;171.99
+1018;Country;Upchurch;Country Way;43;0.01;0.73;0.78;E;-5.56;Major;95.0
+1019;Country;Julianne Hough;"Summer Nights - From ""Grease Live!"" Music From The Television Event";48;0.24;0.74;0.64;D;-5.77;Major;124.15
+1020;Country;Matthew Sweet;Girlfriend;52;0.01;0.53;0.71;F#;-6.32;Major;120.6
+1021;Country;Freddy Fender;Before the Next Teardrop Falls;47;0.75;0.8;0.34;A#;-11.52;Major;90.42
+1022;Country;Brooks & Dunn;Put a Girl in It;42;0.03;0.59;0.95;E;-3.32;Major;119.97
+1023;Country;Jamey Johnson;The Last Cowboy;41;0.24;0.49;0.23;A;-12.73;Major;115.24
+1024;Country;Steve Earle;Feel Alright;47;0.0;0.53;0.79;C;-5.48;Major;119.26
+1025;Country;Trisha Yearwood;Georgia Rain;42;0.61;0.53;0.46;A#;-5.62;Major;99.09
+1026;Country;Lee Brice;Songs In The Kitchen;42;0.24;0.47;0.57;G;-7.72;Major;160.01
+1027;Country;Lee Brice;That Way Again;42;0.8;0.37;0.18;F#;-11.47;Major;112.47
+1028;Country;George Strait;It Ain't Cool To Be Crazy About You;40;0.55;0.53;0.34;D;-11.79;Major;184.57
+1029;Country;Upchurch;Loveless (feat. Robert James);43;0.0;0.61;0.55;C;-11.26;Major;176.05
+1030;Country;Daryle Singletary;Take Me Home Country Roads;45;0.19;0.65;0.64;E;-6.83;Major;151.97
+1031;Country;Corey Smith;Bend;41;0.32;0.59;0.4;G;-9.2;Major;149.88
+1032;Country;Chase Rice;The Little Things;42;0.8;0.49;0.33;A;-8.17;Major;133.9
+1033;Country;38 Special;Back Where You Belong - Edited Version;50;0.01;0.51;0.76;G;-5.64;Major;124.82
+1034;Country;Mel McDaniel;Stand Up;41;0.23;0.68;0.59;D;-11.99;Major;163.81
+1035;Country;Miranda Lambert;Oklahoma Sky;41;0.79;0.6;0.18;D;-13.97;Major;123.25
+1036;Country;Carrie Underwood;Look at Me;44;0.59;0.44;0.41;E;-4.78;Major;80.51
+1037;Country;The Avett Brothers;Rejects In The Attic;49;0.28;0.43;0.56;A;-6.39;Major;117.41
+1038;Country;Josh Dorr;Ready or Not;44;0.13;0.58;0.73;G#;-5.0;Major;108.99
+1039;Country;The Guess Who;"American Woman - 7"" Version";54;0.04;0.54;0.84;A;-7.55;Major;93.08
+1040;Country;Jason Isbell and the 400 Unit;Into the Mystic - Live;46;0.57;0.42;0.51;D;-10.32;Major;81.0
+1041;Country;Sturgill Simpson;Oh Sarah;46;0.81;0.47;0.3;C;-9.83;Major;84.65
+1042;Country;Morgan Wallen;Stand Alone;42;0.31;0.46;0.55;F;-6.25;Major;147.94
+1043;Country;Chris Cagle;My Life's Been A Country Song;42;0.29;0.59;0.72;F#;-5.75;Major;133.99
+1044;Country;Alan Jackson;Let It Be Christmas;41;0.81;0.63;0.34;G;-9.49;Major;97.59
+1045;Country;Aaron Watson;Take You Home Tonight;41;0.1;0.63;0.89;A#;-4.29;Major;110.98
+1046;Country;Sam Hunt;Come Over - Live From Spotify NYC;41;0.7;0.49;0.58;C#;-7.93;Major;86.81
+1047;Country;Lefty Frizzell;Long Black Veil;44;0.83;0.56;0.16;E;-17.5;Major;63.05
+1048;Country;Alan Jackson;I'll Try;47;0.12;0.58;0.46;F#;-7.93;Major;82.56
+1049;Country;Dolly Parton;Rockin' Years;44;0.71;0.58;0.21;B;-15.67;Major;80.6
+1050;Country;Dallas Smith;Tippin' Point;41;0.04;0.57;0.98;C#;-3.71;Major;146.01
+1051;Country;Blackberry Smoke;Good One Comin' on;48;0.01;0.4;0.76;G;-5.12;Major;163.49
+1052;Country;Tyler Reeve;Bud-Wiser;43;0.04;0.52;0.85;C#;-3.93;Major;163.96
+1053;Country;Walker Hayes;Halloween;41;0.16;0.72;0.52;B;-7.34;Minor;85.97
+1054;Country;Eddie Money;Shakin';49;0.03;0.64;0.89;A;-5.25;Major;113.45
+1055;Country;Kenny Rogers;Lucille;52;0.72;0.65;0.36;F;-11.95;Major;142.46
+1056;Country;Zac Brown Band;Overnight (feat. Trombone Shorty);42;0.14;0.71;0.52;A#;-7.82;Major;89.95
+1057;Country;Kenny Chesney;Dust on the Bottle - Live;42;0.01;0.42;0.98;B;-5.8;Major;199.9
+1058;Country;Tracy Lawrence;As Any Fool Can See;41;0.08;0.68;0.71;G;-8.66;Major;122.88
+1059;Country;Josh Turner;I Pray My Way Out Of Trouble;42;0.43;0.54;0.47;E;-5.89;Major;104.87
+1060;Country;Taj Mahal;Diving Duck Blues;55;0.81;0.6;0.27;G#;-11.63;Major;131.19
+1061;Country;Scotty McCreery;Southern Belle;42;0.0;0.45;0.9;C;-5.44;Major;176.09
+1062;Country;38 Special;Rockin' Into The Night;50;0.07;0.65;0.49;C;-12.71;Major;128.13
+1063;Country;Toby Keith;Rum Is The Reason;42;0.27;0.76;0.72;B;-5.7;Major;107.5
+1064;Country;The Highwaymen;The Road Goes On Forever;46;0.6;0.71;0.63;D;-9.91;Major;111.58
+1065;Country;Aaron Watson;Vaquero;41;0.75;0.39;0.54;D;-7.73;Major;169.92
+1066;Country;Zac Brown Band;Lance's Song;42;0.69;0.47;0.4;D#;-7.68;Major;153.89
+1067;Country;Kip Moore;Sunburn;43;0.0;0.64;0.85;D;-4.84;Major;122.0
+1068;Country;Brooks & Dunn;Indian Summer;43;0.4;0.63;0.57;A;-6.05;Major;94.0
+1069;Country;Brad Paisley;Welcome to the Future;44;0.03;0.52;0.86;G;-5.86;Major;141.7
+1070;Country;Justin Moore;When I Get Home;41;0.27;0.33;0.36;A#;-8.84;Major;86.42
+1071;Country;Dierks Bentley;Light It Up;42;0.02;0.65;0.78;A#;-5.44;Major;106.96
+1072;Country;Jamey Johnson;Macon;41;0.4;0.35;0.51;G;-9.86;Major;144.75
+1073;Country;Kip Moore;Heart's Desire;43;0.0;0.65;0.54;D;-9.13;Major;80.0
+1074;Country;William Clark Green;This Is Us;42;0.23;0.51;0.56;A;-7.13;Major;84.86
+1075;Country;Montgomery Gentry;She Couldn't Change Me;41;0.0;0.67;0.82;F;-10.59;Major;117.44
+1076;Country;Big Smo;Ain't Nothin' Free;43;0.01;0.53;0.56;E;-8.23;Minor;81.74
+1077;Country;Miranda Lambert;You Wouldn't Know Me;41;0.07;0.52;0.82;C;-6.71;Major;105.82
+1078;Country;Little Big Town;Can't Go Back;45;0.9;0.59;0.18;D#;-12.72;Major;121.94
+1079;Country;Shenandoah;Sunday In The South;41;0.71;0.65;0.36;G;-12.54;Major;89.2
+1080;Country;Marty Robbins;The Strawberry Roan;44;0.81;0.54;0.42;D#;-11.42;Major;167.34
+1081;Country;Russell Dickerson;Blue Tacoma - Recorded at Sound Stage Studios Nashville;44;0.15;0.57;0.64;G#;-8.89;Major;159.75
+1082;Country;Cal Smith;The Lord Knows I'm Drinking;44;0.12;0.67;0.5;A;-9.49;Major;88.91
+1083;Country;Chase Rice;Party up (feat. Colt Ford);42;0.02;0.54;0.92;A;-6.05;Major;153.98
+1084;Country;Josh Abbott Band;I've Been Known;42;0.1;0.4;0.84;A#;-5.75;Major;182.9
+1085;Country;Blake Shelton;Doing It to Country Songs (feat. The Oak Ridge Boys);43;0.18;0.66;0.79;G;-5.44;Major;133.06
+1086;Country;Dallas Smith;Wastin' gas;41;0.01;0.61;0.93;C#;-2.54;Major;126.92
+1087;Country;Dolly Parton;The Bargain Store;46;0.91;0.72;0.36;G;-10.94;Major;96.64
+1088;Country;Buddy Brown;Man Card;42;0.02;0.57;0.52;E;-7.61;Major;82.05
+1089;Country;Jojo Mason;Future;55;0.05;0.66;0.57;G#;-6.57;Major;120.0
+1090;Country;Keith Urban;I Told You So;44;0.01;0.63;0.84;C#;-5.88;Minor;106.0
+1091;Country;Johnny Cash;Guess Things Happen That Way;46;0.82;0.56;0.41;A#;-11.8;Major;148.35
+1092;Country;Alabama;Down Home;42;0.27;0.63;0.49;G;-11.66;Major;154.85
+1093;Country;Dwight Yoakam;Sin City;0;0.33;0.59;0.19;G;-15.29;Major;83.53
+1094;Country;Dwight Yoakam;I Sang Dixie;0;0.06;0.69;0.58;E;-5.19;Major;114.84
+1095;Country;John Prine;Lonesome Friends of Science;44;0.8;0.7;0.23;C;-13.83;Major;129.8
+1096;Country;Jake Owen;Apple Pie Moonshine;41;0.07;0.57;0.89;G;-2.92;Major;133.9
+1097;Country;Aaron Watson;Be My Girl;41;0.2;0.68;0.52;G;-7.44;Major;127.99
+1098;Country;Miranda Lambert;Look at Miss Ohio;41;0.3;0.55;0.47;C;-8.06;Major;122.02
+1099;Country;Charlie Farley;Hungover on You;43;0.04;0.72;0.65;A;-6.41;Major;131.99
+1100;Country;Turnpike Troubadours;The Hard Way;42;0.0;0.47;0.88;G;-5.25;Major;144.93
+1101;Country;Colter Wall;Calgary Round-Up;46;0.57;0.75;0.37;A;-10.94;Major;120.22
+1102;Country;Sam Hunt;Raised On It - Acoustic Mixtape;42;0.48;0.65;0.79;E;-4.4;Major;93.99
+1103;Country;Kip Moore;Good Thing;43;0.0;0.81;0.63;E;-5.42;Major;119.02
+1104;Comedy;Cheech & Chong;Mexican Americans (Jfl 2010);20;0.88;0.35;0.37;E;-16.02;Major;79.34
+1105;Comedy;The Toilet Bowl Cleaners;Everybody Poops;19;0.93;0.49;0.18;C;-13.15;Major;116.17
+1106;Comedy;Adam Sandler;Listenin' to the Radio;18;0.14;0.62;0.72;C;-6.27;Major;125.33
+1107;Comedy;Andrew Norelli;My Computer Hates Me (Live);18;0.76;0.48;0.82;G#;-9.73;Major;80.36
+1108;Comedy;Norm MacDonald;Stan + Lois;19;0.77;0.68;0.39;C;-15.07;Major;106.9
+1109;Comedy;Todd Barry;Grammy Awards;18;0.89;0.63;0.4;F#;-15.97;Major;58.56
+1110;Comedy;Doug Stanhope;You Ruined the Man Show;17;0.81;0.64;0.69;G;-7.84;Minor;81.7
+1111;Comedy;Moshe Kasher;You Can't Win an Adult Fight (The End) - Live;19;0.79;0.67;0.9;D#;-2.56;Major;108.28
+1112;Comedy;Paul F. Tompkins;Jazz;17;0.88;0.56;0.48;D;-8.51;Major;74.65
+1113;Comedy;Alonzo Bodden;Check Engine Light;16;0.71;0.51;0.96;C#;-6.53;Major;57.15
+1114;Comedy;George Lopez;Chicano Speak;16;0.86;0.39;0.78;D#;-13.28;Major;91.24
+1115;Comedy;Sinbad;The Gospel Gang;16;0.79;0.6;0.76;A#;-7.26;Minor;102.06
+1116;Comedy;David Spade;Vegas Problems;17;0.81;0.51;0.87;E;-7.06;Major;48.56
+1117;Comedy;Lewis Black;Thank You And Goodnight;16;0.84;0.46;0.96;A;-11.69;Major;92.44
+1118;Comedy;Todd Barry;Fruit;18;0.85;0.66;0.67;C#;-13.15;Major;48.92
+1119;Comedy;Rodney Dangerfield;What's In A Name - 1966/Live At Upstairs At The Duplex;17;0.83;0.6;0.48;C#;-21.94;Minor;86.74
+1120;Comedy;Bobcat Goldthwait;Cocaine in Movies;17;0.82;0.47;0.93;C#;-6.73;Minor;80.46
+1121;Comedy;Marc Maron;China;18;0.9;0.62;0.62;G#;-10.48;Major;55.2
+1122;Comedy;Eugene Mirman;Stalking, Bathroom;18;0.87;0.66;0.39;G;-12.47;Major;137.07
+1123;Comedy;Kurt Metzger;Shitting, hair loss, shitting shitting.;18;0.93;0.46;0.88;B;-7.83;Minor;83.07
+1124;Comedy;Norm MacDonald;The Twelve Days Of Christmas;20;0.84;0.58;0.41;F#;-11.26;Major;102.18
+1125;Comedy;Andy Ritchie;Answer My Question;18;0.85;0.52;0.68;D;-7.5;Major;76.38
+1126;Comedy;Felipe Esparza;Watching a Porno Together;17;0.77;0.52;0.36;C;-23.28;Major;111.33
+1127;Comedy;George Carlin;Little Things We Share;19;0.85;0.48;0.84;F#;-16.15;Minor;85.71
+1128;Comedy;Norm MacDonald;Gambling Sportscaster;20;0.87;0.64;0.63;F#;-9.86;Minor;88.8
+1129;Comedy;Zach Galifianakis;One-Liners - Last Name (Jfl 1998);19;0.71;0.57;0.62;B;-17.25;Major;84.72
+1130;Comedy;Jim Breuer;SNL Press Story;17;0.73;0.7;0.38;B;-13.99;Major;127.01
+1131;Comedy;Paul Mooney;1-900-Blame-A-Nigger;16;0.8;0.57;0.41;E;-20.05;Major;135.91
+1132;Comedy;Martin Lawrence;Cheaters;17;0.6;0.57;0.37;A;-23.23;Major;98.58
+1133;Comedy;David Spade;Strip Club;17;0.8;0.53;0.9;E;-5.96;Major;110.64
+1134;Comedy;Nick Thune;Born Young;17;0.54;0.34;0.74;G;-7.55;Major;63.12
+1135;Comedy;Todd Barry;Movie In Neighborhood;18;0.92;0.57;0.43;C;-15.97;Minor;58.79
+1136;Comedy;Lisa Lampanelli;The Luckiest Bitch;18;0.92;0.69;0.67;E;-9.32;Major;103.08
+1137;Comedy;Jeff Foxworthy;Courtesy Sniff - Remastered;17;0.93;0.55;0.77;B;-10.58;Minor;72.49
+1138;Comedy;Adam Sandler;Crazy Love;18;0.47;0.5;0.53;A;-6.85;Major;95.81
+1139;Comedy;Paul F. Tompkins;Genetic Engineering;17;0.88;0.61;0.53;D;-9.26;Major;102.69
+1140;Comedy;Katt Williams;Married vs. single;17;0.89;0.45;0.9;G#;-13.46;Major;113.66
+1141;Comedy;Andrew Norelli;G'n'R N' Tatts (Live);19;0.77;0.54;0.77;C#;-10.5;Minor;98.83
+1142;Comedy;Todd Barry;Fugazi;18;0.82;0.64;0.56;G;-13.48;Minor;85.66
+1143;Comedy;Eugene Mirman;Some Jokes That Touch Upon Religion, Guitar Center;18;0.89;0.55;0.55;C#;-9.86;Minor;90.42
+1144;Comedy;Todd Barry;Behind The Music;18;0.87;0.59;0.49;G#;-14.4;Minor;91.29
+1145;Comedy;Demetri Martin;Invite Them Up;17;0.87;0.43;0.47;G;-13.97;Major;82.85
+1146;Comedy;Stephen Lynch;In Defense of a Peepshow Girl;20;0.88;0.53;0.24;D;-10.36;Major;146.33
+1147;Comedy;Lewis Black;Heaven's Gate;18;0.74;0.7;0.63;C#;-6.74;Major;94.25
+1148;Comedy;Eugene Mirman;Contacting Celebrities On Facebook;18;0.91;0.55;0.64;C#;-9.97;Major;71.5
+1149;Comedy;Todd Barry;Austin Complaint;19;0.85;0.48;0.95;A#;-13.17;Minor;92.11
+1150;Comedy;Ryan Sickler;Cocaine Alligator;18;0.81;0.57;0.57;D;-10.03;Minor;84.74
+1151;Comedy;Katt Williams;Pimp Decisions;16;0.88;0.44;0.86;G#;-13.1;Major;82.96
+1152;Comedy;Katt Williams;On Being Short;16;0.91;0.57;0.97;C;-13.15;Major;108.71
+1153;Comedy;George Lopez;Operation Chorizo;16;0.89;0.39;0.73;B;-13.66;Major;82.61
+1154;Comedy;Sinbad;Getting Fired;16;0.76;0.55;0.87;C#;-8.15;Major;85.31
+1155;Comedy;Paul F. Tompkins;Goth Girl;17;0.91;0.61;0.48;A;-8.45;Major;88.24
+1156;Comedy;Martin Lawrence;Relationships;17;0.64;0.48;0.41;A;-22.55;Major;57.09
+1157;Comedy;John Heffron;Who Sings That?;17;0.75;0.51;0.64;C#;-8.61;Minor;88.35
+1158;Comedy;Paul F. Tompkins;Daylight Savings Time;17;0.8;0.59;0.54;F;-7.42;Major;84.95
+1159;Comedy;Comedian Bob Marley;Lemon-Lime Einstein;17;0.84;0.71;0.95;G;-5.9;Major;77.79
+1160;Comedy;Paul F. Tompkins;Alternative Pets;17;0.89;0.64;0.46;F#;-8.2;Major;85.87
+1161;Comedy;Jerry Seinfeld;Education;18;0.92;0.73;0.21;D;-17.24;Minor;79.16
+1162;Comedy;Andrew Dice Clay;Speedin';16;0.6;0.64;0.48;A#;-16.06;Major;91.13
+1163;Comedy;Katt Williams;Commercial;17;0.89;0.39;0.88;D#;-14.32;Major;84.27
+1164;Comedy;Alonzo Bodden;Still the Best;18;0.93;0.57;0.75;G#;-10.95;Major;91.25
+1165;Comedy;Anjelah Johnson;Hollywood Homeless;16;0.8;0.65;0.57;F#;-14.94;Major;63.07
+1166;Comedy;Myq Kaplan;Jesus and Grandmothers Again;17;0.88;0.59;0.88;C;-5.73;Major;68.08
+1167;Comedy;Shane Mauss;Where Do Our Preferences Come From?;18;0.91;0.63;0.65;C;-7.9;Major;127.71
+1168;Comedy;Whitney Cummings;Sports;18;0.86;0.35;0.94;D#;-5.07;Minor;86.75
+1169;Comedy;Whitney Cummings;Yoga;18;0.87;0.43;0.98;C#;-5.16;Major;78.78
+1170;Comedy;Todd Glass;Marijuana;17;0.86;0.47;0.8;F#;-5.93;Major;73.14
+1171;Comedy;Tommy Ryman;Deaf Haircut;17;0.85;0.62;0.71;F;-8.15;Minor;94.51
+1172;Comedy;Whitney Cummings;Allergy;17;0.83;0.56;0.92;A#;-4.9;Major;80.28
+1173;Comedy;Anjelah Johnson;Rumors and Gossip;16;0.79;0.34;0.87;F#;-10.27;Major;161.14
+1174;Comedy;Louis Katz;Masturbation/Internet Pornography;17;0.86;0.6;0.79;A;-6.03;Minor;80.18
+1175;Comedy;Artie Lange;Over/Under;16;0.79;0.45;0.97;B;-8.01;Major;81.84
+1176;Comedy;Anjelah Johnson;Valet;16;0.8;0.48;0.92;C#;-11.74;Minor;88.05
+1177;Comedy;Steve Hofstetter;The Red Baron;18;0.85;0.49;0.48;D#;-17.69;Minor;86.57
+1178;Comedy;Adam Ferrara;Marriage Anonymous;17;0.73;0.41;0.98;D#;-8.52;Minor;110.31
+1179;Comedy;Shane Mauss;Gulp;17;0.92;0.52;0.5;F#;-14.28;Major;97.11
+1180;Comedy;Tommy Ryman;Minnesota is Cold;17;0.78;0.62;0.84;G;-7.92;Major;82.56
+1181;Comedy;Anjelah Johnson;We Outsmarted the Bad Guys;16;0.74;0.43;0.9;F#;-11.7;Minor;168.53
+1182;Comedy;Polo Polo;Dos Viejos Amigos - En Vivo;29;0.7;0.51;0.88;G;-12.86;Major;87.52
+1183;Comedy;Steve Hofstetter;The Flight Attendant is Half Full;18;0.84;0.62;0.58;D;-13.9;Major;102.53
+1184;Comedy;Todd Glass;Words;17;0.82;0.52;0.76;B;-6.47;Major;87.63
+1185;Comedy;Louis Katz;Date With a Pescatarian;17;0.81;0.61;0.85;D;-5.53;Minor;68.47
+1186;Comedy;Artie Lange;Gay Cowboys;16;0.82;0.53;0.95;G#;-7.91;Minor;122.08
+1187;Comedy;Steve Martin;Ramblin Man / Theme From Ramblin' Man;19;0.82;0.48;0.65;G#;-11.83;Major;150.68
+1188;Comedy;Monty Python;Medical Love Song;25;0.59;0.49;0.48;D;-12.99;Major;136.74
+1189;Comedy;Maria Bamford;Credit Test;19;0.76;0.49;0.94;C#;-8.89;Major;83.46
+1190;Comedy;Maria Bamford;Arch Enemy From High School;19;0.76;0.51;0.85;C#;-8.6;Major;86.96
+1191;Comedy;Lisa Landry;Advice;20;0.82;0.65;0.47;G;-11.86;Major;89.27
+1192;Comedy;Maria Bamford;Dad;19;0.72;0.56;0.92;F#;-7.71;Major;113.66
+1193;Comedy;Maria Bamford;Dale Carnegie;19;0.76;0.57;0.8;F;-9.23;Minor;134.94
+1194;Comedy;Margaret Cho;Daughter Of Immigrants;18;0.88;0.51;0.38;C#;-22.22;Major;132.31
+1195;Comedy;Rachel Feinstein;Thug tears;19;0.89;0.57;0.91;C#;-5.86;Major;116.31
+1196;Comedy;Rodney Carrington;Dancing With A Man;18;0.84;0.52;0.46;E;-7.99;Major;96.42
+1197;Comedy;"""Weird Al"" Yankovic";Good Enough for Now;20;0.05;0.66;0.41;D#;-13.02;Major;130.76
+1198;Comedy;Maria Bamford;Depression;19;0.83;0.51;0.82;C;-7.49;Minor;85.47
+1199;Comedy;Lewis Black;This Moment;18;0.84;0.52;0.85;C#;-9.2;Major;107.74
+1200;Comedy;Franco Escamilla;12 de Junio Ruby Llega Tarde (En Vivo);27;0.83;0.6;0.65;B;-4.21;Minor;85.66
+1201;Comedy;Lewis Black;Mom And Pop And Paul;16;0.83;0.58;0.73;A;-10.7;Major;80.24
+1202;Comedy;Franco Escamilla;Nosotros Cantores;36;0.96;0.43;0.23;E;-11.89;Major;81.62
+1203;Comedy;Lewis Black;Santa;18;0.89;0.55;0.86;A#;-10.47;Major;115.24
+1204;Comedy;Richard Pryor;Just Us - Remastered;18;0.71;0.53;0.68;C#;-13.39;Major;92.02
+1205;Comedy;Pablo Francisco;Infomercials;16;0.89;0.58;0.96;F#;-7.72;Major;118.13
+1206;Comedy;Doug Stanhope;Strong Target;19;0.64;0.6;0.43;C#;-18.52;Major;91.22
+1207;Comedy;Cheech & Chong;Medical Marijuana Blues;20;0.27;0.68;0.55;D;-6.44;Major;77.27
+1208;Comedy;Jim Tews;Picture Day;18;0.9;0.66;0.54;G#;-11.87;Major;124.7
+1209;Comedy;Michael Ian Black;Blood In My Stool;18;0.88;0.63;0.67;E;-11.06;Major;107.91
+1210;Comedy;Larry The Cable Guy;My Family Is Weird - Remastered;17;0.98;0.49;0.68;C;-10.14;Major;68.51
+1211;Comedy;Pablo Francisco;The Gym;16;0.84;0.51;0.96;F#;-7.84;Major;86.68
+1212;Comedy;Michael Ian Black;Captain's Blog;19;0.82;0.49;0.65;F#;-14.16;Major;98.79
+1213;Comedy;Lisa Lampanelli;Fan Appreciation;17;0.94;0.53;0.61;G;-10.7;Major;78.9
+1214;Comedy;Felipe Esparza;Tuna Sandwich;17;0.83;0.46;0.45;C;-21.85;Major;117.62
+1215;Alternative;MGMT;Kids;73;0.0;0.45;0.93;A;-3.87;Major;122.96
+1216;Alternative;Florence + The Machine;Dog Days Are Over;66;0.04;0.49;0.81;G;-5.32;Major;149.95
+1217;Alternative;Audioslave;Like a Stone;72;0.01;0.61;0.57;G;-5.48;Minor;107.85
+1218;Alternative;3 Doors Down;Here Without You;72;0.05;0.54;0.55;A#;-6.73;Minor;144.02
+1219;Alternative;Joji;WANTED U;66;0.1;0.3;0.71;G;-7.54;Major;82.98
+1220;Alternative;Gorillaz;On Melancholy Hill;71;0.0;0.69;0.74;D;-5.81;Major;120.42
+1221;Alternative;Two Door Cinema Club;What You Know;66;0.0;0.56;0.74;F#;-4.24;Minor;139.0
+1222;Alternative;Ari Lennox;Shea Butter Baby (with J. Cole);68;0.13;0.7;0.61;C;-4.38;Major;155.17
+1223;Alternative;Mazzy Star;Fade Into You;69;0.24;0.42;0.33;A;-13.93;Major;157.14
+1224;Alternative;Frank Ocean;Pink Matter;61;0.95;0.4;0.25;B;-11.47;Minor;84.09
+1225;Alternative;The Score;Legend;69;0.01;0.6;0.75;D;-3.27;Major;82.01
+1226;Alternative;Steve Lacy;C U Girl;63;0.66;0.41;0.47;B;-8.91;Minor;100.0
+1227;Alternative;Trevor Daniel;Falling;68;0.12;0.78;0.43;A#;-8.76;Minor;127.09
+1228;Alternative;Nirvana;Lithium;65;0.0;0.68;0.65;G;-6.34;Major;123.24
+1229;Alternative;Collective Soul;Shine;65;0.29;0.54;0.42;F#;-8.8;Major;150.13
+1230;Alternative;Empire of the Sun;Walking On A Dream;71;0.26;0.87;0.7;F;-5.59;Minor;126.97
+1231;Alternative;Five Finger Death Punch;Wrong Side of Heaven;64;0.01;0.48;0.93;E;-5.12;Minor;150.02
+1232;Alternative;Hinder;Lips Of An Angel;68;0.03;0.48;0.77;D;-5.34;Major;129.05
+1233;Alternative;X Ambassadors;Renegades;71;0.01;0.53;0.86;D;-6.0;Major;90.05
+1234;Alternative;Alien Ant Farm;Smooth Criminal;70;0.0;0.65;0.96;A;-4.22;Minor;126.94
+1235;Alternative;Puddle Of Mudd;She Hates Me;66;0.01;0.58;0.75;E;-5.43;Major;109.78
+1236;Alternative;The Temper Trap;Sweet Disposition;62;0.07;0.53;0.82;D;-6.81;Major;129.14
+1237;Alternative;Alice In Chains;Rooster;65;0.03;0.27;0.55;A#;-8.46;Minor;144.41
+1238;Alternative;Foo Fighters;Learn to Fly;71;0.0;0.47;0.92;E;-4.03;Major;136.0
+1239;Alternative;Jhene Aiko;While We're Young;67;0.11;0.45;0.79;D;-6.01;Major;127.64
+1240;Alternative;Slipknot;Before I Forget;71;0.02;0.29;0.97;F#;-3.0;Minor;134.72
+1241;Alternative;Oliver Tree;All That;63;0.07;0.73;0.57;C#;-5.92;Major;134.87
+1242;Alternative;Young the Giant;Superposition;68;0.0;0.59;0.7;G;-5.42;Major;170.0
+1243;Alternative;Avenged Sevenfold;Nightmare;68;0.0;0.55;0.95;D;-4.93;Major;129.98
+1244;Alternative;Bush;Glycerine;63;0.04;0.44;0.34;F;-11.44;Major;114.24
+1245;Alternative;Joji;R.I.P. (feat. Trippie Redd);65;0.62;0.72;0.52;B;-9.65;Minor;99.28
+1246;Alternative;Three Days Grace;I Hate Everything About You;70;0.01;0.5;0.83;F#;-5.16;Minor;89.34
+1247;Alternative;Kiana Ledé;EX;70;0.23;0.76;0.54;A;-7.02;Minor;73.51
+1248;Alternative;Five Finger Death Punch;Jekyll and Hyde;63;0.0;0.54;0.96;F#;-4.04;Major;155.02
+1249;Alternative;Kid Rock;Picture (feat. Sheryl Crow);64;0.17;0.69;0.5;G;-7.33;Major;97.94
+1250;Alternative;311;Amber;65;0.12;0.66;0.73;E;-8.64;Minor;166.16
+1251;Alternative;Kali Uchis;After The Storm (feat. Tyler, The Creator & Bootsy Collins);67;0.3;0.7;0.66;E;-6.77;Minor;79.64
+1252;Alternative;Summer Walker;Session 32;65;0.89;0.57;0.12;C#;-13.96;Major;115.43
+1253;Alternative;The 1975;TOOTIMETOOTIMETOOTIME;69;0.21;0.67;0.8;G#;-5.93;Major;114.98
+1254;Alternative;The Wallflowers;One Headlight;69;0.0;0.7;0.56;D;-9.04;Major;107.53
+1255;Alternative;Harvey Danger;Flagpole Sitta;60;0.0;0.35;0.9;G;-4.12;Major;145.01
+1256;Alternative;Saving Abel;Addicted;64;0.0;0.51;0.86;G;-4.15;Major;138.02
+1257;Alternative;Freddie Gibbs;Palmolive (feat. Pusha T & Killer Mike);64;0.6;0.33;0.6;C;-7.57;Major;168.46
+1258;Alternative;The Goo Goo Dolls;Slide;68;0.01;0.4;0.84;G#;-4.48;Major;112.42
+1259;Alternative;Linkin Park;One Step Closer;70;0.0;0.49;0.97;A;-4.42;Major;95.14
+1260;Alternative;Still Woozy;Cooks;64;0.45;0.36;0.58;G;-10.53;Major;78.03
+1261;Alternative;System Of A Down;B.Y.O.B.;71;0.01;0.56;0.98;C#;-2.69;Minor;101.42
+1262;Alternative;Disturbed;Stricken;68;0.0;0.4;0.97;G#;-2.94;Major;173.88
+1263;Alternative;Weezer;Buddy Holly;68;0.0;0.55;0.91;G#;-4.56;Major;121.16
+1264;Alternative;Joji;Demons;65;0.42;0.46;0.38;D;-11.35;Minor;164.49
+1265;Alternative;Still Woozy;Lucy;64;0.39;0.65;0.54;F#;-12.02;Minor;84.47
+1266;Alternative;Frank Ocean;Nikes;68;0.69;0.54;0.39;G#;-9.64;Major;137.81
+1267;Alternative;DaniLeigh;Lil Bebe (feat. Lil Baby) - Remix;67;0.05;0.86;0.48;F;-5.52;Minor;136.0
+1268;Alternative;Young the Giant;Cough Syrup;67;0.03;0.53;0.72;B;-7.31;Minor;128.98
+1269;Alternative;Foo Fighters;Best of You;71;0.0;0.37;0.94;C#;-5.12;Minor;130.2
+1270;Alternative;The Verve;Bitter Sweet Symphony;75;0.03;0.36;0.92;A;-6.01;Major;171.18
+1271;Alternative;Cautious Clay;Cold War;65;0.27;0.65;0.47;C#;-10.38;Minor;77.08
+1272;Alternative;Shoffy;Cool Again;71;0.44;0.77;0.45;B;-6.86;Major;90.06
+1273;Alternative;James Blake;Mile High (feat. Travis Scott & Metro Boomin);67;0.4;0.75;0.37;F#;-9.85;Minor;114.94
+1274;Alternative;Lifehouse;Hanging By A Moment;63;0.0;0.53;0.85;C#;-4.95;Major;124.58
+1275;Alternative;Sum 41;Fat Lip;70;0.0;0.57;0.91;A;-5.18;Major;98.08
+1276;Alternative;Linkin Park;Bleed It Out;70;0.11;0.53;0.97;C#;-3.65;Minor;140.13
+1277;Alternative;AFI;Miss Murder;67;0.0;0.31;0.88;C#;-4.49;Major;143.53
+1278;Alternative;Slipknot;The Devil In I;68;0.01;0.4;0.94;A;-2.87;Minor;92.03
+1279;Alternative;Shinedown;Second Chance;64;0.0;0.46;0.8;C;-4.5;Minor;100.01
+1280;Alternative;Crossfade;Cold;64;0.0;0.45;0.81;D;-5.55;Minor;147.97
+1281;Alternative;Modest Mouse;Float On;69;0.01;0.65;0.89;F#;-4.81;Major;100.97
+1282;Alternative;Third Eye Blind;Jumper - 1998 Edit;65;0.01;0.6;0.54;C;-9.23;Major;91.11
+1283;Alternative;Joji;COME THRU;63;0.16;0.66;0.6;C;-8.21;Major;77.03
+1284;Alternative;Franz Ferdinand;Take Me Out;71;0.0;0.28;0.68;A;-8.82;Major;104.55
+1285;Alternative;Pearl Jam;Jeremy;70;0.04;0.28;0.85;D;-6.47;Major;108.81
+1286;Alternative;Frank Ocean;Novacane;67;0.07;0.76;0.51;D#;-9.21;Major;93.5
+1287;Alternative;Doja Cat;Tia Tamera (feat. Rico Nasty);65;0.02;0.81;0.68;C;-4.59;Major;119.87
+1288;Alternative;My Darkest Days;Porn Star Dancing;63;0.02;0.47;0.92;D;-3.4;Major;160.03
+1289;Alternative;3 Doors Down;When I'm Gone;66;0.01;0.5;0.77;G;-5.66;Major;74.07
+1290;Alternative;Five Finger Death Punch;Gone Away;62;0.0;0.5;0.78;A#;-6.48;Major;106.02
+1291;Alternative;Staind;It's Been Awhile;62;0.0;0.51;0.77;F#;-4.05;Major;116.53
+1292;Alternative;Foo Fighters;All My Life;69;0.0;0.58;0.6;F;-5.7;Major;167.78
+1293;Alternative;Shinedown;45;63;0.0;0.45;0.66;G;-4.49;Major;152.13
+1294;Alternative;The Strokes;Last Nite;65;0.02;0.62;0.9;C;-5.71;Major;104.06
+1295;Alternative;Godsmack;I Stand Alone;64;0.0;0.21;0.93;C;-4.48;Major;169.22
+1296;Alternative;Saliva;Click Click Boom;66;0.0;0.61;0.94;F#;-2.94;Major;95.96
+1297;Alternative;Three Days Grace;Riot;66;0.01;0.18;0.95;G#;-3.89;Major;196.58
+1298;Alternative;System Of A Down;Aerials;70;0.0;0.36;0.92;C;-4.22;Minor;79.34
+1299;Alternative;Audioslave;Show Me How to Live;68;0.0;0.43;0.85;A;-3.87;Major;89.4
+1300;Alternative;Beck;Loser;66;0.03;0.66;0.63;F#;-10.4;Minor;85.44
+1301;Alternative;Linkin Park;Crawling;70;0.05;0.58;0.7;E;-5.57;Major;105.08
+1302;Alternative;Weezer;Beverly Hills;66;0.09;0.69;0.82;F;-3.76;Major;87.9
+1303;Alternative;Drowning Pool;Bodies;69;0.0;0.66;0.93;E;-3.4;Minor;130.94
+1304;Alternative;Live;Lightning Crashes;62;0.28;0.4;0.43;B;-9.29;Major;93.7
+1305;Alternative;Spin Doctors;Two Princes;69;0.0;0.54;0.91;G;-10.71;Major;103.73
+1306;Alternative;Five Finger Death Punch;Blue on Black;62;0.0;0.45;0.88;G;-4.41;Major;156.28
+1307;Alternative;Gorillaz;DARE;69;0.02;0.76;0.89;B;-5.85;Minor;120.27
+1308;Alternative;The Score;Unstoppable;67;0.0;0.47;0.84;C#;-3.94;Minor;77.99
+1309;Alternative;6LACK;Seasons (feat. Khalid);67;0.7;0.6;0.34;C;-10.49;Major;141.84
+1310;Alternative;Incubus;Pardon Me;63;0.0;0.58;0.81;C#;-6.51;Minor;152.0
+1311;Alternative;The Presidents Of The United States Of America;Lump;65;0.01;0.5;0.87;F#;-3.9;Major;142.73
+1312;Alternative;Skillet;Awake and Alive;65;0.04;0.43;0.94;E;-2.98;Minor;159.93
+1313;Alternative;The Black Keys;Howlin' For You;65;0.03;0.7;0.73;B;-6.65;Major;132.63
+1314;Alternative;Slipknot;All Out Life;70;0.0;0.5;0.97;C;-2.84;Major;106.56
+1315;Alternative;Theory of a Deadman;Bad Girlfriend;63;0.0;0.5;0.96;C;-2.66;Major;135.01
+1316;Alternative;Soundgarden;Spoonman;66;0.0;0.27;0.91;C;-5.59;Major;185.96
+1317;Alternative;Shinedown;Sound of Madness;64;0.0;0.33;0.94;D;-1.65;Minor;185.97
+1318;Alternative;The Smashing Pumpkins;Cherub Rock - Remastered 2011;61;0.0;0.38;0.87;A;-7.43;Major;87.31
+1319;Alternative;Oliver Tree;Fuck;62;0.01;0.83;0.49;D;-8.24;Major;129.98
+1320;Alternative;Creed;Higher;65;0.0;0.46;0.83;D;-6.25;Major;155.83
+1321;Alternative;Shinedown;DEVIL;65;0.0;0.35;0.94;G;-3.25;Major;119.99
+1322;Alternative;Jhene Aiko;The Worst;66;0.24;0.52;0.42;C#;-9.28;Minor;93.59
+1323;Alternative;Shinedown;Cut The Cord;64;0.0;0.45;0.97;G;-2.97;Major;178.1
+1324;Alternative;The Offspring;The Kids Aren't Alright;73;0.01;0.53;0.94;C#;-4.19;Major;99.6
+1325;Alternative;Sum 41;In Too Deep;71;0.0;0.58;0.84;A;-5.79;Major;116.05
+1326;Alternative;grandson;Apologize;64;0.0;0.54;0.84;D;-5.59;Major;85.0
+1327;Alternative;UMI;Remember Me;65;0.46;0.84;0.34;F;-8.61;Minor;111.99
+1328;Alternative;Three Days Grace;Never Too Late;66;0.01;0.43;0.78;D;-4.68;Minor;149.86
+1329;Alternative;Queens of the Stone Age;No One Knows;63;0.04;0.51;0.59;C;-4.88;Major;170.89
+1330;Alternative;Korn;Freak On a Leash;69;0.0;0.35;0.9;D;-5.88;Major;103.29
+1331;Alternative;Disturbed;Indestructible;67;0.0;0.43;0.97;G#;-4.61;Major;179.96
+1332;Alternative;Creed;With Arms Wide Open;61;0.0;0.41;0.54;C;-8.41;Major;138.85
+1333;Alternative;Masego;Navajo;66;0.11;0.69;0.59;F#;-7.4;Minor;89.01
+1334;Alternative;Frank Ocean;Super Rich Kids;64;0.27;0.59;0.42;D#;-8.18;Minor;60.01
+1335;Alternative;Shinedown;State Of My Head;63;0.01;0.49;0.94;G;-4.24;Minor;79.73
+1336;Alternative;Candlebox;Far Behind;63;0.0;0.55;0.65;G;-6.59;Major;89.52
+1337;Alternative;Finger Eleven;Paralyzer;65;0.17;0.65;0.94;E;-3.42;Minor;106.02
+1338;Alternative;Phoenix;1901;63;0.06;0.59;0.83;C;-5.65;Major;144.08
+1339;Alternative;MercyMe;I Can Only Imagine;61;0.09;0.41;0.61;E;-5.36;Major;159.53
+1340;Alternative;Oliver Tree;All I Got;61;0.12;0.67;0.51;C#;-6.58;Major;104.99
+1341;Alternative;Yeek;Only in the West;60;0.07;0.95;0.54;G;-6.51;Major;116.95
+1342;Alternative;Seether;Remedy;65;0.0;0.55;0.96;G#;-4.66;Major;127.83
+1343;Alternative;The 1975;Chocolate;62;0.0;0.59;0.94;B;-4.34;Major;100.04
+1344;Alternative;Avenged Sevenfold;Bat Country;65;0.0;0.54;0.97;C;-4.13;Major;125.04
+1345;Alternative;Toadies;Possum Kingdom;59;0.0;0.65;0.71;A;-9.37;Major;100.7
+1346;Alternative;for KING & COUNTRY;God Only Knows;64;0.4;0.6;0.42;D;-7.95;Major;143.84
+1347;Alternative;The Smashing Pumpkins;Today - Remastered;60;0.0;0.46;0.83;G#;-7.61;Major;82.54
+1348;Alternative;Doja Cat;Go To Town;64;0.07;0.71;0.71;C;-2.47;Major;169.94
+1349;Alternative;Red Hot Chili Peppers;Dark Necessities;70;0.07;0.7;0.74;F;-6.78;Minor;91.96
+1350;Alternative;Linkin Park;Papercut;69;0.0;0.52;0.94;A;-3.99;Major;150.18
+1351;Alternative;Shinedown;MONSTERS;63;0.0;0.49;0.9;F;-4.54;Major;149.96
+1352;Alternative;Tierra Whack;Pretty Ugly;62;0.22;0.94;0.66;C;-8.18;Major;109.91
+1353;Alternative;dvsn;Think About Me;63;0.06;0.55;0.29;G;-10.2;Major;105.03
+1354;Alternative;Red Hot Chili Peppers;Give It Away;70;0.0;0.67;0.94;G;-9.92;Major;91.58
+1355;Alternative;Joji;XNXX;63;0.26;0.39;0.52;D;-8.35;Major;84.85
+1356;Alternative;Foo Fighters;My Hero;66;0.0;0.37;0.93;E;-4.21;Major;154.05
+1357;Alternative;6LACK;Ex Calling;67;0.01;0.77;0.56;C#;-7.24;Major;155.98
+1358;Alternative;Starset;My Demons;61;0.01;0.27;0.65;F;-6.2;Minor;173.01
+1359;Alternative;Sabrina Claudio;Belong to You (feat. 6LACK);65;0.27;0.6;0.55;A#;-10.85;Minor;152.08
+1360;Alternative;Saba;Photosynthesis;65;0.54;0.78;0.66;G;-8.39;Major;111.13
+1361;Alternative;Pearl Jam;Black;71;0.32;0.36;0.68;E;-6.46;Minor;77.15
+1362;Alternative;6LACK;First Fuck;61;0.92;0.39;0.32;D#;-9.81;Major;83.95
+1363;Alternative;Ari Lennox;BMO;64;0.01;0.72;0.65;C#;-5.41;Minor;157.88
+1364;Alternative;Slipknot;Psychosocial;68;0.0;0.58;0.99;D;-1.91;Major;135.09
+1365;Alternative;Avenged Sevenfold;Shepherd of Fire;64;0.0;0.58;0.91;D;-7.68;Major;127.94
+1366;Alternative;Chevelle;Send the Pain Below;61;0.0;0.47;0.85;B;-3.62;Major;92.08
+1367;Alternative;Still Woozy;Lava;62;0.3;0.62;0.61;C#;-10.06;Major;169.14
+1368;Alternative;The 1975;The Sound;61;0.1;0.64;0.94;C;-4.66;Major;120.72
+1369;Alternative;Jhene Aiko;Never Call Me;60;0.87;0.48;0.31;D;-10.24;Minor;99.42
+1370;Alternative;The Strokes;Someday;65;0.0;0.54;0.52;A;-7.46;Major;106.03
+1371;Alternative;Oliver Tree;Movement;61;0.04;0.77;0.66;D#;-6.91;Major;99.02
+1372;Alternative;Berhana;Grey Luh;64;0.6;0.54;0.3;C;-9.17;Major;125.52
+1373;Alternative;Teyana Taylor;Gonna Love Me;67;0.4;0.51;0.51;A#;-7.09;Minor;88.04
+1374;Alternative;Ari Lennox;Up Late;64;0.31;0.7;0.4;D#;-6.56;Minor;79.55
+1375;Alternative;Peter Bjorn and John;Young Folks;61;0.02;0.7;0.81;C;-6.0;Major;138.14
+1376;Alternative;MGMT;Time to Pretend;68;0.0;0.44;0.94;D;-3.25;Major;100.99
+1377;Alternative;Joji;I'LL SEE YOU IN 40;61;0.35;0.41;0.38;D#;-9.55;Major;139.88
+1378;Alternative;Nirvana;The Man Who Sold The World;70;0.41;0.48;0.74;C#;-8.88;Minor;114.71
+1379;Alternative;Frank Ocean;Lost;63;0.03;0.91;0.6;A#;-4.96;Minor;123.05
+1380;Alternative;Dominic Fike;She Wants My Money;63;0.77;0.7;0.48;A;-6.56;Major;128.79
+1381;Alternative;Two Door Cinema Club;Undercover Martyn;63;0.0;0.44;0.87;D;-5.07;Major;159.87
+1382;Alternative;Nickelback;Burn It to the Ground;66;0.0;0.62;0.92;B;-3.47;Major;132.06
+1383;Alternative;Bush;Machinehead;60;0.0;0.14;0.92;A;-4.44;Major;172.67
+1384;Alternative;Skillet;The Resistance;64;0.0;0.48;0.94;D;-3.6;Minor;156.03
+1385;Alternative;Frank Ocean;Seigfried;61;0.97;0.38;0.26;E;-11.16;Minor;125.0
+1386;Alternative;The Strokes;Reptilia;68;0.0;0.49;0.67;A;-5.08;Major;157.99
+1387;Alternative;Francis and the Lights;May I Have This Dance (Remix) [feat. Chance the Rapper];60;0.46;0.78;0.43;G#;-9.2;Major;90.03
+1388;Alternative;The 1975;Sincerity Is Scary;68;0.05;0.66;0.52;D;-5.27;Major;91.03
+1389;Alternative;Alice In Chains;Nutshell;64;0.37;0.38;0.56;D#;-10.06;Minor;136.09
+1390;Alternative;Everclear;Father Of Mine;60;0.0;0.57;0.94;C#;-5.4;Major;97.1
+1391;Alternative;Janelle Monáe;Make Me Feel;67;0.13;0.86;0.41;C#;-7.4;Major;115.03
+1392;Alternative;Joji;I Don't Wanna Waste My Time;63;0.77;0.29;0.23;E;-17.86;Major;74.45
+1393;Alternative;Frank Ocean;Biking;65;0.68;0.67;0.46;D;-7.25;Major;147.98
+1394;Alternative;GoldLink;Days Like This (feat. Khalid);67;0.07;0.81;0.5;G#;-7.29;Major;159.92
+1395;Alternative;Violent Femmes;Blister In The Sun;66;0.22;0.7;0.26;C;-19.85;Major;97.04
+1396;Alternative;Linkin Park;BURN IT DOWN;69;0.01;0.58;0.97;A;-4.45;Minor;110.01
+1397;Alternative;Incubus;Wish You Were Here;62;0.0;0.25;0.77;A;-7.48;Major;169.87
+1398;Alternative;Bag Raiders;Shooting Stars;69;0.09;0.63;0.71;B;-6.19;Major;124.96
+1399;Alternative;Pantera;Walk;69;0.0;0.43;0.7;C#;-8.01;Minor;118.24
+1400;Alternative;Third Eye Blind;How's It Going to Be;64;0.0;0.56;0.59;F;-9.36;Major;80.29
+1401;Alternative;GoldLink;U Say (feat. Tyler, The Creator & Jay Prince);66;0.07;0.69;0.67;D;-7.63;Major;115.07
+1402;Alternative;The Black Keys;Walk Across The Water;68;0.33;0.42;0.58;A;-7.3;Major;79.59
+1403;Alternative;Oliver Tree;Enemy;60;0.31;0.72;0.5;F#;-3.54;Minor;140.02
+1404;Alternative;Rage Against The Machine;Guerrilla Radio;66;0.01;0.6;0.96;B;-5.76;Major;103.68
+1405;Alternative;The Goo Goo Dolls;Name;65;0.07;0.46;0.7;A;-5.94;Major;73.97
+1406;Alternative;Nirvana;In Bloom - Nevermind Version;61;0.0;0.5;0.88;A#;-4.82;Minor;79.03
+1407;Alternative;The Presidents Of The United States Of America;Peaches;63;0.01;0.42;0.85;C#;-4.2;Minor;94.27
+1408;Alternative;The Neighbourhood;Afraid;65;0.01;0.46;0.7;F#;-5.69;Minor;84.0
+1409;Alternative;Kali Uchis;Just A Stranger (feat. Steve Lacy);63;0.13;0.74;0.67;A;-5.74;Major;108.03
+1410;Alternative;Jhene Aiko;Never Call Me (feat. YG) - Remix;64;0.69;0.59;0.42;D;-8.12;Minor;120.14
+1411;Alternative;Aaron Lewis;Country Boy (feat. George Jones & Charlie Daniels);62;0.3;0.59;0.67;F#;-6.44;Major;121.95
+1412;Alternative;The Raconteurs;Steady, As She Goes;67;0.01;0.52;0.58;A;-4.56;Major;123.67
+1413;Alternative;Three Days Grace;Pain;64;0.01;0.42;0.74;G;-4.0;Major;160.51
+1414;Alternative;STRFKR;Rawnald Gregory Erickson the Second;59;0.23;0.9;0.54;G;-7.88;Major;95.51
+1415;Alternative;Soundgarden;Fell On Black Days;63;0.0;0.57;0.75;E;-5.72;Minor;101.05
+1416;Alternative;6LACK;Switch;67;0.04;0.66;0.66;G;-6.1;Major;176.68
+1417;Alternative;Seether;Broken;66;0.01;0.45;0.61;D#;-2.69;Minor;123.76
+1418;Alternative;Shinedown;GET UP;62;0.02;0.55;0.94;C;-4.1;Major;74.95
+1419;Alternative;Souls Of Mischief;93 'Til Infinity;67;0.12;0.59;0.67;C#;-11.79;Major;206.25
+1420;Alternative;10 Years;Wasteland;60;0.0;0.39;0.8;F#;-5.1;Minor;146.73
+1421;Alternative;Omar Apollo;Ugotme;63;0.45;0.78;0.49;C;-1.46;Major;65.83
+1422;Alternative;Kid Rock;Cowboy;60;0.09;0.61;0.9;C#;-2.92;Major;166.65
+1423;Alternative;Thousand Foot Krutch;Courtesy Call;64;0.0;0.53;0.63;B;-5.11;Minor;164.13
+1424;Alternative;P.O.D.;Youth of the Nation;67;0.01;0.56;0.86;G#;-7.53;Major;97.87
+1425;Alternative;Kid Rock;Bawitdaba;61;0.0;0.55;0.94;B;-5.37;Major;90.59
+1426;Alternative;Five Finger Death Punch;Wash It All Away;60;0.0;0.48;0.99;E;-3.1;Major;123.58
+1427;Alternative;Joji;worldstar money (interlude);60;0.96;0.58;0.39;G;-8.61;Major;146.56
+1428;Alternative;Sick Puppies;You're Going Down;61;0.01;0.49;0.84;F#;-5.93;Major;90.0
+1429;Alternative;KONGOS;Come with Me Now;67;0.03;0.65;0.73;A#;-3.8;Minor;103.99
+1430;Alternative;Nickelback;Far Away;66;0.0;0.52;0.8;F#;-5.15;Major;132.91
+1431;Alternative;Five Finger Death Punch;Sham Pain;60;0.0;0.56;0.95;B;-3.95;Minor;96.51
+1432;Alternative;MARINA;How to Be a Heartbreaker;62;0.01;0.69;0.9;B;-4.7;Minor;140.05
+1433;Alternative;Creed;One Last Breath;65;0.01;0.39;0.68;D;-5.83;Major;126.6
+1434;Alternative;Staind;So Far Away;63;0.01;0.41;0.9;F#;-2.94;Major;138.7
+1435;Alternative;The Smashing Pumpkins;Disarm - Remastered;59;0.14;0.53;0.42;E;-10.2;Minor;129.52
+1436;Alternative;La Roux;Bulletproof;61;0.0;0.69;0.9;D#;-2.72;Minor;122.98
+1437;Alternative;The Smashing Pumpkins;Tonight, Tonight - Remastered 2012;65;0.0;0.29;0.67;F#;-9.38;Major;148.93
+1438;Alternative;Halestorm;I Miss the Misery;60;0.01;0.47;0.97;C;-2.22;Major;164.04
+1439;Alternative;Red Hot Chili Peppers;By the Way;71;0.03;0.45;0.97;C;-4.94;Major;122.44
+1440;Alternative;Stone Sour;Through Glass;68;0.04;0.55;0.75;D#;-4.62;Minor;105.75
+1441;Alternative;Barns Courtney;"""99""";62;0.01;0.55;0.8;G#;-4.3;Major;95.98
+1442;Alternative;A Perfect Circle;Judith;63;0.0;0.36;0.89;B;-4.68;Minor;82.31
+1443;Alternative;Phoenix;Lisztomania;61;0.03;0.49;0.78;C;-6.68;Major;195.15
+1444;Alternative;Xavier Omär;Blind Man;62;0.45;0.89;0.52;F#;-8.53;Major;111.03
+1445;Alternative;Foo Fighters;Monkey Wrench;65;0.0;0.4;0.95;E;-4.28;Major;174.22
+1446;Alternative;Deftones;Change (In the House of Flies) - In The House Of Flies LP Version;63;0.0;0.27;0.85;G;-4.65;Minor;141.58
+1447;Alternative;Frank Ocean;Provider;64;0.74;0.65;0.33;D;-11.93;Major;139.89
+1448;Alternative;Volbeat;A Warrior's Call;60;0.0;0.37;0.9;A#;-4.49;Major;109.12
+1449;Alternative;Alina Baraz;Fantasy;62;0.35;0.68;0.75;E;-6.06;Minor;113.93
+1450;Alternative;Motörhead;Ace of Spades;71;0.0;0.32;0.98;F#;-7.1;Major;140.08
+1451;Alternative;Volbeat;Still Counting;68;0.0;0.31;0.92;D;-3.13;Major;103.89
+1452;Alternative;Frank Ocean;Bad Religion;56;0.78;0.28;0.36;A;-7.68;Major;81.98
+1453;Alternative;Creed;My Sacrifice;66;0.0;0.32;0.88;D;-6.04;Major;146.35
+1454;Alternative;Ween;Ocean Man;64;0.55;0.72;0.91;E;-6.13;Major;122.78
+1455;Alternative;Frank Ocean;Skyline To;60;0.88;0.42;0.29;F;-13.67;Minor;129.15
+1456;Alternative;Tonic;If You Could Only See;63;0.0;0.44;0.94;A#;-5.11;Minor;95.2
+1457;Alternative;Beastie Boys;Sabotage;66;0.03;0.32;0.94;F#;-7.33;Minor;168.13
+1458;Alternative;Tayla Parx;Runaway (feat. Khalid);60;0.07;0.63;0.53;G;-9.37;Major;151.66
+1459;Alternative;Summer Walker;CPR;64;0.64;0.69;0.37;G;-12.68;Minor;140.15
+1460;Alternative;Tierra Whack;Only Child;61;0.85;0.83;0.36;C#;-7.02;Major;85.24
+1461;Alternative;The Black Keys;Lonely Boy;69;0.0;0.36;0.87;D;-7.84;Major;166.3
+1462;Alternative;Seven Mary Three;Cumbersome;58;0.01;0.54;0.79;B;-5.93;Major;80.92
+1463;Alternative;Third Eye Blind;Never Let You Go - 2008 Version;61;0.08;0.73;0.94;E;-5.03;Major;113.76
+1464;Alternative;Theory of a Deadman;Angel;64;0.0;0.44;0.84;B;-5.41;Minor;76.0
+1465;Alternative;KALEO;All The Pretty Girls;64;0.63;0.47;0.5;C#;-6.61;Major;74.75
+1466;Alternative;6LACK;Luving U;64;0.09;0.72;0.47;A#;-9.51;Major;121.96
+1467;Alternative;Nickelback;If Today Was Your Last Day;65;0.0;0.48;0.91;D#;-5.75;Major;89.96
+1468;Alternative;Bryce Fox;Horns;65;0.08;0.49;0.75;F#;-5.41;Major;156.24
+1469;Alternative;Crazy Town;Butterfly;67;0.0;0.74;0.81;A;-4.17;Minor;103.5
+1470;Alternative;Beastie Boys;Intergalactic - Remastered;66;0.02;0.73;0.86;D;-6.12;Major;105.93
+1471;Alternative;Chris Tomlin;Good Good Father;63;0.32;0.43;0.59;A;-4.59;Major;145.0
+1472;Alternative;Skillet;Comatose;62;0.0;0.36;0.95;E;-2.32;Minor;170.03
+1473;Alternative;Bad Wolves;Remember When;60;0.0;0.43;0.97;G#;-4.82;Major;171.96
+1474;Alternative;Daveed Diggs;What'd I Miss;60;0.17;0.54;0.58;G;-7.76;Major;177.79
+1475;Alternative;GoldLink;Herside Story;65;0.66;0.89;0.59;G;-5.49;Major;148.03
+1476;Alternative;Linkin Park;Heavy (feat. Kiiara);67;0.05;0.59;0.67;A;-6.1;Major;149.98
+1477;Alternative;grandson;Despicable;63;0.01;0.58;0.78;C#;-6.17;Major;87.97
+1478;Alternative;Counting Crows;Accidentally In Love;60;0.05;0.55;0.92;G;-3.55;Major;137.94
+1479;Alternative;Evanescence;Going Under;65;0.01;0.37;0.86;B;-4.82;Minor;175.02
+1480;Alternative;Blood Orange;Dark & Handsome;65;0.69;0.58;0.39;B;-12.31;Major;79.98
+1481;Alternative;Radiohead;Karma Police;71;0.06;0.36;0.51;G;-9.13;Major;74.81
+1482;Alternative;Leven Kali;Do U Wrong (feat. Syd);62;0.19;0.73;0.46;B;-8.68;Major;79.0
+1483;Alternative;Volbeat;The Devil's Bleeding Crown;61;0.0;0.32;0.91;G;-4.61;Major;109.65
+1484;Alternative;The Offspring;Self Esteem;68;0.02;0.46;0.91;F;-3.67;Major;104.53
+1485;Alternative;Gorillaz;Humility (feat. George Benson);64;0.14;0.63;0.81;C;-5.89;Major;160.17
+1486;Alternative;We Are Messengers;Maybe It's Ok;59;0.12;0.51;0.71;C#;-6.1;Major;138.0
+1487;Alternative;Flyleaf;All Around Me;58;0.02;0.47;0.87;A;-4.89;Major;146.97
+1488;Alternative;The White Stripes;Fell In Love With A Girl;59;0.7;0.18;0.98;E;-1.74;Minor;88.21
+1489;Alternative;Weezer;Africa;64;0.2;0.53;0.78;G#;-3.59;Major;92.15
+1490;Alternative;Passion Pit;Take a Walk;65;0.03;0.57;0.76;B;-5.53;Major;101.01
+1491;Alternative;Breaking Benjamin;Angels Fall;63;0.0;0.4;0.89;G;-5.08;Major;195.96
+1492;Alternative;Frank Ocean;Good Guy;60;0.98;0.51;0.13;C;-12.79;Major;105.81
+1493;Alternative;Florence + The Machine;Shake It Out;61;0.01;0.52;0.81;A#;-4.1;Major;107.5
+1494;Alternative;Omar Apollo;Unbothered;61;0.27;0.64;0.49;D;-7.1;Major;108.93
+1495;Alternative;Jakob Ogawa;All Your Love;61;0.29;0.57;0.59;B;-8.81;Minor;174.68
+1496;Alternative;Good Charlotte;Lifestyles of the Rich & Famous;66;0.0;0.62;0.93;C#;-3.69;Major;106.22
+1497;Alternative;Pearl Jam;Last Kiss;67;0.36;0.62;0.69;G;-6.97;Major;112.05
+1498;Alternative;System Of A Down;Lonely Day;68;0.36;0.47;0.8;G#;-3.28;Minor;113.11
+1499;Alternative;Otherwise;Soldiers;59;0.01;0.59;0.88;D;-4.05;Minor;117.11
